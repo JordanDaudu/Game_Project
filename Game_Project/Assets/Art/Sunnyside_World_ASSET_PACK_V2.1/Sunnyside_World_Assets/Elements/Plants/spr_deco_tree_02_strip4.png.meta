@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_tree_02_strip4_0: 7796452692219352389
+      spr_deco_tree_02_strip4_1: 2036605438413838525
+      spr_deco_tree_02_strip4_2: -3038156992745448658
+      spr_deco_tree_02_strip4_3: 2216592666668778242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

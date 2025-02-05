@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_mushroom_blue_03_strip4_0: -7529721056934370877
+      spr_deco_mushroom_blue_03_strip4_1: 3183251715240780371
+      spr_deco_mushroom_blue_03_strip4_2: 3293491728291008565
+      spr_deco_mushroom_blue_03_strip4_3: 6309374712259605022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

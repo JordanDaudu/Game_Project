@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_glint_02_strip4_0: 4289560656185870846
+      spr_deco_glint_02_strip4_1: -839844924512399418
+      spr_deco_glint_02_strip4_2: -8459584527669058867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

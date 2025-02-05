@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_windmill_withshadow_strip9_0: 8247621731562155658
+      spr_deco_windmill_withshadow_strip9_1: -8444112431982988860
+      spr_deco_windmill_withshadow_strip9_2: 2954045004262464905
+      spr_deco_windmill_withshadow_strip9_3: 5898964895805863300
+      spr_deco_windmill_withshadow_strip9_4: 7759180718283114926
+      spr_deco_windmill_withshadow_strip9_5: 3775793865045662186
+      spr_deco_windmill_withshadow_strip9_6: 1607655240458966499
+      spr_deco_windmill_withshadow_strip9_7: -403628419329692694
+      spr_deco_windmill_withshadow_strip9_8: 1733600828794416826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

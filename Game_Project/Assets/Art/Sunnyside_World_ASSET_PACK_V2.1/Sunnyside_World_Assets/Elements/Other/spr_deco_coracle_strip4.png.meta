@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_coracle_strip4_0: 4897815122613622951
+      spr_deco_coracle_strip4_1: 2482108947830399476
+      spr_deco_coracle_strip4_2: 6516282285725274024
+      spr_deco_coracle_strip4_3: 6544693591750683182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

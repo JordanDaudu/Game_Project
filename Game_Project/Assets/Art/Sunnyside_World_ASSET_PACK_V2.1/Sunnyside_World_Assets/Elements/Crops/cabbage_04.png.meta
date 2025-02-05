@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cabbage_04_0: 2985232015076406287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

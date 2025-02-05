@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_coracle_land_0: 5987593559040620569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

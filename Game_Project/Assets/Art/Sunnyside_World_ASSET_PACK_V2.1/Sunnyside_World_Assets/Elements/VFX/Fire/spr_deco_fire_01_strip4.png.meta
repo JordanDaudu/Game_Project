@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_deco_fire_01_strip4_0: -2656841655875012877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
