@@ -207,7 +207,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -252,6 +252,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,10 +272,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 181
-        width: 12
-        height: 6
+        x: 0
+        y: 176
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +294,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 181
-        width: 10
-        height: 6
+        x: 16
+        y: 176
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,10 +316,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 181
-        width: 6
-        height: 6
+        x: 32
+        y: 176
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,10 +338,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_3
       rect:
         serializedVersion: 2
-        x: 39
-        y: 179
-        width: 7
-        height: 10
+        x: 48
+        y: 176
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +360,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_4
       rect:
         serializedVersion: 2
-        x: 49
-        y: 175
+        x: 64
+        y: 176
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +382,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_5
       rect:
         serializedVersion: 2
-        x: 66
-        y: 175
-        width: 14
-        height: 17
+        x: 80
+        y: 176
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +404,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_6
       rect:
         serializedVersion: 2
-        x: 80
-        y: 175
+        x: 96
+        y: 176
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +426,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_7
       rect:
         serializedVersion: 2
-        x: 97
-        y: 175
-        width: 14
-        height: 17
+        x: 0
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +448,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 164
-        width: 8
-        height: 10
+        x: 16
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +470,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_9
       rect:
         serializedVersion: 2
-        x: 4
+        x: 32
         y: 160
-        width: 12
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +492,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_10
       rect:
         serializedVersion: 2
-        x: 18
-        y: 163
-        width: 12
-        height: 10
+        x: 48
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +514,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_11
       rect:
         serializedVersion: 2
-        x: 32
-        y: 163
-        width: 15
-        height: 10
+        x: 64
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +536,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_12
       rect:
         serializedVersion: 2
-        x: 53
-        y: 164
-        width: 7
-        height: 6
+        x: 80
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +558,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_13
       rect:
         serializedVersion: 2
-        x: 68
-        y: 164
-        width: 9
-        height: 9
+        x: 96
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +580,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_14
       rect:
         serializedVersion: 2
-        x: 81
-        y: 163
-        width: 15
-        height: 9
+        x: 0
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +602,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_15
       rect:
         serializedVersion: 2
-        x: 97
-        y: 161
-        width: 15
-        height: 13
+        x: 16
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +624,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 127
-        width: 17
-        height: 32
+        x: 32
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +646,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_17
       rect:
         serializedVersion: 2
-        x: 17
-        y: 147
-        width: 12
-        height: 9
+        x: 48
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +668,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_18
       rect:
         serializedVersion: 2
-        x: 31
-        y: 145
-        width: 17
-        height: 14
+        x: 64
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +690,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_19
       rect:
         serializedVersion: 2
-        x: 52
-        y: 148
-        width: 9
-        height: 12
+        x: 80
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +712,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_20
       rect:
         serializedVersion: 2
-        x: 66
-        y: 147
-        width: 12
-        height: 14
+        x: 96
+        y: 144
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,9 +734,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_21
       rect:
         serializedVersion: 2
-        x: 81
-        y: 145
-        width: 15
+        x: 0
+        y: 128
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -743,9 +756,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_22
       rect:
         serializedVersion: 2
-        x: 97
-        y: 145
-        width: 15
+        x: 16
+        y: 128
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -765,9 +778,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_23
       rect:
         serializedVersion: 2
-        x: 0
-        y: 112
-        width: 17
+        x: 32
+        y: 128
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -787,10 +800,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_24
       rect:
         serializedVersion: 2
-        x: 17
-        y: 112
-        width: 15
-        height: 33
+        x: 48
+        y: 128
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +822,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_25
       rect:
         serializedVersion: 2
-        x: 31
-        y: 111
-        width: 18
-        height: 17
+        x: 64
+        y: 128
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,9 +844,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_26
       rect:
         serializedVersion: 2
-        x: 33
-        y: 127
-        width: 14
+        x: 96
+        y: 128
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -853,8 +866,8 @@ TextureImporter:
       name: Outdoor_Decor_Free_27
       rect:
         serializedVersion: 2
-        x: 48
-        y: 127
+        x: 0
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -875,10 +888,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_28
       rect:
         serializedVersion: 2
-        x: 64
-        y: 127
-        width: 17
-        height: 18
+        x: 16
+        y: 112
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,8 +910,8 @@ TextureImporter:
       name: Outdoor_Decor_Free_29
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
+        x: 32
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -919,10 +932,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 95
-        width: 17
-        height: 18
+        x: 64
+        y: 112
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -942,8 +955,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
-        width: 17
+        y: 96
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -963,10 +976,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_32
       rect:
         serializedVersion: 2
-        x: 17
-        y: 80
-        width: 15
-        height: 33
+        x: 16
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +998,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_33
       rect:
         serializedVersion: 2
-        x: 31
-        y: 79
-        width: 18
-        height: 17
+        x: 32
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,9 +1020,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_34
       rect:
         serializedVersion: 2
-        x: 33
-        y: 95
-        width: 14
+        x: 48
+        y: 96
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1029,8 +1042,8 @@ TextureImporter:
       name: Outdoor_Decor_Free_35
       rect:
         serializedVersion: 2
-        x: 48
-        y: 95
+        x: 64
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1051,10 +1064,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_36
       rect:
         serializedVersion: 2
-        x: 67
-        y: 79
-        width: 12
-        height: 42
+        x: 0
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1086,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_37
       rect:
         serializedVersion: 2
-        x: 3
-        y: 65
-        width: 27
-        height: 13
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1108,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_38
       rect:
         serializedVersion: 2
-        x: 35
-        y: 66
-        width: 10
-        height: 10
+        x: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,10 +1130,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_39
       rect:
         serializedVersion: 2
-        x: 3
-        y: 49
-        width: 9
-        height: 12
+        x: 64
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1139,10 +1152,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_40
       rect:
         serializedVersion: 2
-        x: 19
-        y: 49
-        width: 9
-        height: 12
+        x: 0
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,9 +1174,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_41
       rect:
         serializedVersion: 2
-        x: 35
-        y: 48
-        width: 9
+        x: 16
+        y: 64
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1183,9 +1196,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_42
       rect:
         serializedVersion: 2
-        x: 51
-        y: 48
-        width: 9
+        x: 32
+        y: 64
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1205,10 +1218,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_43
       rect:
         serializedVersion: 2
-        x: 3
-        y: 33
-        width: 9
-        height: 12
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,10 +1240,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_44
       rect:
         serializedVersion: 2
-        x: 19
-        y: 33
-        width: 9
-        height: 12
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1262,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_45
       rect:
         serializedVersion: 2
-        x: 33
-        y: 0
-        width: 14
-        height: 33
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,9 +1284,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_46
       rect:
         serializedVersion: 2
-        x: 35
-        y: 32
-        width: 9
+        x: 48
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1293,10 +1306,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_47
       rect:
         serializedVersion: 2
-        x: 49
-        y: 0
-        width: 14
-        height: 33
+        x: 0
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,9 +1328,9 @@ TextureImporter:
       name: Outdoor_Decor_Free_48
       rect:
         serializedVersion: 2
-        x: 51
+        x: 16
         y: 32
-        width: 9
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1337,10 +1350,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_49
       rect:
         serializedVersion: 2
-        x: 3
-        y: 17
-        width: 9
-        height: 14
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,10 +1372,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_50
       rect:
         serializedVersion: 2
-        x: 19
-        y: 17
-        width: 9
-        height: 14
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,10 +1394,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_51
       rect:
         serializedVersion: 2
-        x: 1
-        y: 0
-        width: 14
-        height: 15
+        x: 0
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,10 +1416,10 @@ TextureImporter:
       name: Outdoor_Decor_Free_52
       rect:
         serializedVersion: 2
-        x: 17
-        y: 0
-        width: 14
-        height: 15
+        x: 16
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1421,11 +1434,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d921000009aa04e2c91aad7282c87862
+      internalID: 608142493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535e05bf6f564f328899383903e84d0
+      internalID: 1801348602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad29cdd10fd45aba5b5258a5b2c270
+      internalID: -1088895260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278585756f73640b4916906667ee8378
+      internalID: 491628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0fd7e5c9f554049901ffb304a03bcc
+      internalID: -1889490087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_Free_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf49c82b8a574981a1a3ac0228c6059
+      internalID: 95564023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 595086c469c3249b6b1cfbc479b8f6ce
     internalID: 0
     vertices: []
     indices: 
@@ -1434,7 +1579,66 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Outdoor_Decor_Free_0: 2383185621388321068
+      Outdoor_Decor_Free_1: 8281167024378096558
+      Outdoor_Decor_Free_10: -2007879195102778466
+      Outdoor_Decor_Free_11: -4964467975926673830
+      Outdoor_Decor_Free_12: -2206655580924712108
+      Outdoor_Decor_Free_13: -62387344811293004
+      Outdoor_Decor_Free_14: 3703259055243465117
+      Outdoor_Decor_Free_15: -1724842945715286110
+      Outdoor_Decor_Free_16: 7479585151034200656
+      Outdoor_Decor_Free_17: 6306059771652365211
+      Outdoor_Decor_Free_18: 7284285715301073151
+      Outdoor_Decor_Free_19: 6299992369424546210
+      Outdoor_Decor_Free_2: 1683974080300636658
+      Outdoor_Decor_Free_20: -8186859060342957426
+      Outdoor_Decor_Free_21: 2447717276745128951
+      Outdoor_Decor_Free_22: -7124156328152321891
+      Outdoor_Decor_Free_23: 3443239106770634827
+      Outdoor_Decor_Free_24: 7444540425010196323
+      Outdoor_Decor_Free_25: 4379626984075295356
+      Outdoor_Decor_Free_26: -2391123977803150887
+      Outdoor_Decor_Free_27: 7057932500054846024
+      Outdoor_Decor_Free_28: -1423420836228586722
+      Outdoor_Decor_Free_29: 7777503053789551968
+      Outdoor_Decor_Free_3: 4594382711787611745
+      Outdoor_Decor_Free_30: 4599370916355924604
+      Outdoor_Decor_Free_31: -394721616569298502
+      Outdoor_Decor_Free_32: -2902752349789573252
+      Outdoor_Decor_Free_33: -7896214040048912259
+      Outdoor_Decor_Free_34: -5441312514412757861
+      Outdoor_Decor_Free_35: 3410783443361391656
+      Outdoor_Decor_Free_36: -6681418620714420198
+      Outdoor_Decor_Free_37: -8230066881174583576
+      Outdoor_Decor_Free_38: -6528892960639380785
+      Outdoor_Decor_Free_39: -7431908411586812069
+      Outdoor_Decor_Free_4: -5393398564529373947
+      Outdoor_Decor_Free_40: -7999935909234475359
+      Outdoor_Decor_Free_41: -5830633844922959675
+      Outdoor_Decor_Free_42: 5344016625197411868
+      Outdoor_Decor_Free_43: 8728758659891995499
+      Outdoor_Decor_Free_44: -7068317879412436848
+      Outdoor_Decor_Free_45: 2652284482401262406
+      Outdoor_Decor_Free_46: 1586734882751032750
+      Outdoor_Decor_Free_47: 5013649662296540496
+      Outdoor_Decor_Free_48: 1409056548728700055
+      Outdoor_Decor_Free_49: -3453179661471363787
+      Outdoor_Decor_Free_5: -9085809090031716586
+      Outdoor_Decor_Free_50: 8496759009406633739
+      Outdoor_Decor_Free_51: -3181205189961261736
+      Outdoor_Decor_Free_52: -8419395259242012619
+      Outdoor_Decor_Free_53: 608142493
+      Outdoor_Decor_Free_54: 1801348602
+      Outdoor_Decor_Free_55: -1088895260
+      Outdoor_Decor_Free_56: 491628238
+      Outdoor_Decor_Free_57: -1889490087
+      Outdoor_Decor_Free_58: 95564023
+      Outdoor_Decor_Free_6: 3338495331230526703
+      Outdoor_Decor_Free_7: -8302436923813310387
+      Outdoor_Decor_Free_8: -4724125506724885780
+      Outdoor_Decor_Free_9: -5810060871207019471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

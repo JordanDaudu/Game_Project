@@ -4,32 +4,41 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed;
+    public float speed = 5f;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    private SpriteRenderer spriteRenderer;
 
-    // Use this for initialization
     void Start()
     {
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
-    }
-    void Update()
-    {
-        change = Vector3.zero;
-        change.x = Input.GetAxisRaw("Horizontal");
-        change.y = Input.GetAxisRaw("Vertical");
-        UpdateAnimationAndMove();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    void UpdateAnimationAndMove()
+    void Update()
     {
-        bool flipped = change.x < 0;
+        change = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0);
+
         if (change != Vector3.zero)
         {
-            this.transform.rotation = Quaternion.Euler(new Vector3(0f, flipped ? 180f : 0f, 0f));
-            MoveCharacter();
+            change.Normalize(); // Prevents diagonal speed boost
+        }
+
+        UpdateAnimation();
+    }
+
+    void FixedUpdate()
+    {
+        MoveCharacter();
+    }
+
+    void UpdateAnimation()
+    {
+        if (change != Vector3.zero)
+        {
+            spriteRenderer.flipX = (change.x < 0);
             animator.SetFloat("moveX", change.x);
             animator.SetFloat("moveY", change.y);
             animator.SetBool("moving", true);
@@ -42,6 +51,6 @@ public class PlayerMovement : MonoBehaviour
 
     void MoveCharacter()
     {
-        myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime); 
+        myRigidbody.MovePosition(myRigidbody.position + (Vector2)change * speed * Time.fixedDeltaTime);
     }
 }
