@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground_Decor
+    uniqueID: 404669989
+    locked: 0
   - name: Player
     uniqueID: 2278216895
     locked: 0
