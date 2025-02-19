@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Scarab_Yellow_0: -668922517549159319
+      Scarab_Yellow_1: -9221190676574809507
+      Scarab_Yellow_10: 7197197475443033840
+      Scarab_Yellow_11: 992230033343254046
+      Scarab_Yellow_2: 4894088880122231850
+      Scarab_Yellow_3: 6746521846557775958
+      Scarab_Yellow_4: -3198191844878577014
+      Scarab_Yellow_5: 2847072796724142824
+      Scarab_Yellow_6: -8980466033719016229
+      Scarab_Yellow_7: -1657308803790299207
+      Scarab_Yellow_8: 3812818351948114361
+      Scarab_Yellow_9: 3932959379507188298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

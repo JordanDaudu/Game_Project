@@ -255,6 +255,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1459,7 +1472,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vulture_4_0: 5093341562550874635
+      Vulture_4_1: 3839519028864583904
+      Vulture_4_10: -4913576445018294701
+      Vulture_4_11: 2969792197398966534
+      Vulture_4_12: 7766329950979666240
+      Vulture_4_13: 216469702207781292
+      Vulture_4_14: 5080424787748452460
+      Vulture_4_15: 6533828475629311341
+      Vulture_4_16: 7414396450020250657
+      Vulture_4_17: 1997790579345684316
+      Vulture_4_18: -5621454890901248352
+      Vulture_4_19: 793172573174755515
+      Vulture_4_2: 724291900318323921
+      Vulture_4_20: 4789793757198167516
+      Vulture_4_21: -8399777398328935472
+      Vulture_4_22: 2509691006127240350
+      Vulture_4_23: 4089088878313887762
+      Vulture_4_24: -3848596860298965771
+      Vulture_4_25: 8273298362032421249
+      Vulture_4_26: -4173797135357628028
+      Vulture_4_27: 8084962136628350839
+      Vulture_4_28: -8982805322317838689
+      Vulture_4_29: -4634747895895538670
+      Vulture_4_3: 9215456857953233726
+      Vulture_4_30: 3062263559030121582
+      Vulture_4_31: -6667596273349418508
+      Vulture_4_32: -1037260775660390672
+      Vulture_4_33: -8513754453951626220
+      Vulture_4_34: -331554710605035392
+      Vulture_4_35: -6750237980837362841
+      Vulture_4_36: -6311127293238496931
+      Vulture_4_37: 6669893876666683950
+      Vulture_4_38: 6656565030662183580
+      Vulture_4_39: 4228506498612365341
+      Vulture_4_4: -3406938663861033771
+      Vulture_4_40: 7269562575655371627
+      Vulture_4_41: 841005890135813361
+      Vulture_4_42: -728604607599107198
+      Vulture_4_43: 5480499536248770121
+      Vulture_4_44: -3784170204511013306
+      Vulture_4_45: -9067612567130970538
+      Vulture_4_46: 6623463645014222991
+      Vulture_4_47: 6460149221783413666
+      Vulture_4_48: -5082168941802162831
+      Vulture_4_49: 4854671666225629094
+      Vulture_4_5: -2647090408117262939
+      Vulture_4_50: -9004151462240680246
+      Vulture_4_51: -7718512741156026654
+      Vulture_4_52: 4837960366107686873
+      Vulture_4_53: -1126712001436753936
+      Vulture_4_6: -4337568517013617199
+      Vulture_4_7: -6181374032713515021
+      Vulture_4_8: 6390928468542492172
+      Vulture_4_9: 8328391546971511591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

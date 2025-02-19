@@ -327,6 +327,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2059,7 +2072,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Crosshairs_0: 5880346416431940919
+      UI_Crosshairs_1: 3450690791141520501
+      UI_Crosshairs_10: 3176952668265019748
+      UI_Crosshairs_11: 2398836419762079078
+      UI_Crosshairs_12: 5230443616649619763
+      UI_Crosshairs_13: -8655843778067838696
+      UI_Crosshairs_14: 4743489739973553932
+      UI_Crosshairs_15: 1079933835186114904
+      UI_Crosshairs_16: 3637177050952390001
+      UI_Crosshairs_17: 2100937314420543330
+      UI_Crosshairs_18: 8686889349809366649
+      UI_Crosshairs_19: 5343101866266900669
+      UI_Crosshairs_2: -5106516218449320591
+      UI_Crosshairs_20: 2703253732240230130
+      UI_Crosshairs_21: -7555337835673654093
+      UI_Crosshairs_22: 6965611501863853273
+      UI_Crosshairs_23: -5744550342061018801
+      UI_Crosshairs_24: -2187243441001421568
+      UI_Crosshairs_25: -5079805633827890113
+      UI_Crosshairs_26: -6549183048258120866
+      UI_Crosshairs_27: 7688965211386944359
+      UI_Crosshairs_28: -2413815232941082733
+      UI_Crosshairs_29: -5559953528829923720
+      UI_Crosshairs_3: -677305702411239282
+      UI_Crosshairs_30: -5832975458169562864
+      UI_Crosshairs_31: 3256419410116433639
+      UI_Crosshairs_32: 5296480930151143708
+      UI_Crosshairs_33: 4259471364565589832
+      UI_Crosshairs_34: -3142053270066096154
+      UI_Crosshairs_35: -8811055382661611964
+      UI_Crosshairs_36: -1717279082929674962
+      UI_Crosshairs_37: 7545339488509061157
+      UI_Crosshairs_38: -5385339636037116163
+      UI_Crosshairs_39: 7350121851741036451
+      UI_Crosshairs_4: 1123106427739433655
+      UI_Crosshairs_40: 4504211661392710366
+      UI_Crosshairs_41: 6048403191513050286
+      UI_Crosshairs_42: 4338647096498857055
+      UI_Crosshairs_43: 6765562002364058827
+      UI_Crosshairs_44: 5418908982481096106
+      UI_Crosshairs_45: -4478447421989095473
+      UI_Crosshairs_46: 2989699155672671490
+      UI_Crosshairs_47: 4224499891219382914
+      UI_Crosshairs_48: -75385258406754638
+      UI_Crosshairs_49: -6341632485084699661
+      UI_Crosshairs_5: 1439662519498674865
+      UI_Crosshairs_50: 869520468695515011
+      UI_Crosshairs_51: 6590079176491205900
+      UI_Crosshairs_52: 7431664586402618983
+      UI_Crosshairs_53: -8582815545158050217
+      UI_Crosshairs_54: -8738220185913129658
+      UI_Crosshairs_55: 2558418518467043562
+      UI_Crosshairs_56: -5029990655373379337
+      UI_Crosshairs_57: 3937832988143287573
+      UI_Crosshairs_58: -2151991255075937714
+      UI_Crosshairs_59: -2374061810231118327
+      UI_Crosshairs_6: 7705235815015529572
+      UI_Crosshairs_60: -5182399063947397048
+      UI_Crosshairs_61: 5260654057694618295
+      UI_Crosshairs_62: 6035022438266537128
+      UI_Crosshairs_63: -3941960739550292451
+      UI_Crosshairs_64: -2600759486382130656
+      UI_Crosshairs_65: -17844674842948023
+      UI_Crosshairs_66: -295009871670559241
+      UI_Crosshairs_67: -7676419240214419937
+      UI_Crosshairs_68: 4465669757617049652
+      UI_Crosshairs_69: 2300978445094018
+      UI_Crosshairs_7: 327982089365763914
+      UI_Crosshairs_70: -8700793353585898534
+      UI_Crosshairs_71: -8934555049519310736
+      UI_Crosshairs_72: -9061836566086495681
+      UI_Crosshairs_73: 4619461689657511727
+      UI_Crosshairs_74: -4317192921801419851
+      UI_Crosshairs_75: 6663098737850343699
+      UI_Crosshairs_76: 7929831769527409163
+      UI_Crosshairs_77: 5707162343522871575
+      UI_Crosshairs_8: -2021994277116376769
+      UI_Crosshairs_9: -4357800566572144356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Person_4_0: -4708486087070535373
+      Desert_Person_4_1: 2280657079247551375
+      Desert_Person_4_10: -7601610747837687745
+      Desert_Person_4_11: 4995984383443839443
+      Desert_Person_4_12: 5266480003772243519
+      Desert_Person_4_13: 8472503694145213763
+      Desert_Person_4_14: -2177529798155588581
+      Desert_Person_4_15: -6033156635562068468
+      Desert_Person_4_16: -4991229745803171733
+      Desert_Person_4_17: 412545135401962989
+      Desert_Person_4_18: -8280737963366164756
+      Desert_Person_4_19: 5111338597570031264
+      Desert_Person_4_2: -4140241974960996860
+      Desert_Person_4_20: -6847174573369179078
+      Desert_Person_4_21: 8725546754790797880
+      Desert_Person_4_22: 987366957096019796
+      Desert_Person_4_23: 591039337900928603
+      Desert_Person_4_24: 6340392913425566620
+      Desert_Person_4_25: 589248099183844737
+      Desert_Person_4_26: -113961590329557632
+      Desert_Person_4_27: 7910324673548995546
+      Desert_Person_4_28: -4863617191523576629
+      Desert_Person_4_29: -1071570988495176441
+      Desert_Person_4_3: -4305461987243093692
+      Desert_Person_4_30: -5866186319461787213
+      Desert_Person_4_31: -5565771373957244637
+      Desert_Person_4_32: 8121921266292216437
+      Desert_Person_4_33: -6541763986012554373
+      Desert_Person_4_34: 7604121917685041227
+      Desert_Person_4_35: 1265355555800453474
+      Desert_Person_4_36: -5751454902432133580
+      Desert_Person_4_37: 5545687817296653351
+      Desert_Person_4_38: -1112711879330685730
+      Desert_Person_4_39: -7485599428967480297
+      Desert_Person_4_4: 6671152163927344502
+      Desert_Person_4_40: -5176924589703389018
+      Desert_Person_4_41: -917182656370820102
+      Desert_Person_4_42: -4366123893803956312
+      Desert_Person_4_43: 5821430763734785221
+      Desert_Person_4_44: 9222960679312465135
+      Desert_Person_4_45: 5740917296275643728
+      Desert_Person_4_46: 2666602613095787382
+      Desert_Person_4_47: -3602705988784490585
+      Desert_Person_4_48: 5993231398828807788
+      Desert_Person_4_49: 4308125751134730156
+      Desert_Person_4_5: 5716927590909173241
+      Desert_Person_4_50: 2226413587995652011
+      Desert_Person_4_51: -3067994099481096175
+      Desert_Person_4_6: -8762246608116133408
+      Desert_Person_4_7: 2471032315573488745
+      Desert_Person_4_8: -8507825444428227690
+      Desert_Person_4_9: -7568634887703334740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

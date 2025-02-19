@@ -252,6 +252,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1434,7 +1447,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Camel_3_0: -4735397436022397788
+      Camel_3_1: -2499312240478817602
+      Camel_3_10: 7804175681319479128
+      Camel_3_11: 9099127189632284514
+      Camel_3_12: -18552753129066909
+      Camel_3_13: 7702824923370753721
+      Camel_3_14: -8225749716675707603
+      Camel_3_15: -203967040340274123
+      Camel_3_16: 9131847000364631631
+      Camel_3_17: 5542456856463280253
+      Camel_3_18: -8333019012423332645
+      Camel_3_19: -1776926600323386689
+      Camel_3_2: 6576898465568489921
+      Camel_3_20: -1469924920251635337
+      Camel_3_21: -6986560071165390245
+      Camel_3_22: -8698416983200141013
+      Camel_3_23: -8830819307228187531
+      Camel_3_24: 2007345403326614062
+      Camel_3_25: 2860694616653951132
+      Camel_3_26: -4840366537593553798
+      Camel_3_27: 6898333401534956934
+      Camel_3_28: 7398150424532554679
+      Camel_3_29: 2901061348543565121
+      Camel_3_3: 3661927304997944518
+      Camel_3_30: 113783050787788976
+      Camel_3_31: 7412815907743059057
+      Camel_3_32: 5594158385573807724
+      Camel_3_33: -1917482079013016689
+      Camel_3_34: -2527775227499526748
+      Camel_3_35: -8982359117882702769
+      Camel_3_36: -6333905128979999953
+      Camel_3_37: -6905383550427297684
+      Camel_3_38: -8675028989106068227
+      Camel_3_39: -8234243661127104797
+      Camel_3_4: 4522633982245842346
+      Camel_3_40: 7162463027542022556
+      Camel_3_41: 6137998436423650263
+      Camel_3_42: 3121313810436260303
+      Camel_3_43: -8127131774151318649
+      Camel_3_44: -2736066962308034400
+      Camel_3_45: -4112667457765977800
+      Camel_3_46: -4054864676922182248
+      Camel_3_47: 2426597214074802076
+      Camel_3_48: -2476717686958368964
+      Camel_3_49: 765052421037539035
+      Camel_3_5: -2087638741523002812
+      Camel_3_50: 1094112158022379086
+      Camel_3_51: 6366742968888566807
+      Camel_3_52: -7259409168501489810
+      Camel_3_6: 5399140189358103133
+      Camel_3_7: -8668191544238200279
+      Camel_3_8: 4522708914241111119
+      Camel_3_9: -3845072037107106173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

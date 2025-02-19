@@ -171,6 +171,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -759,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snowman_1_Anim_0: 4034254497240765841
+      Snowman_1_Anim_1: 5825336880010293217
+      Snowman_1_Anim_10: 4605518524128711952
+      Snowman_1_Anim_11: -7836404449684859914
+      Snowman_1_Anim_12: 2610451152044234813
+      Snowman_1_Anim_13: 4059250626187020125
+      Snowman_1_Anim_14: 3951920150061550592
+      Snowman_1_Anim_15: -8950106885386723103
+      Snowman_1_Anim_16: 8147281255564418822
+      Snowman_1_Anim_17: -7981162567891317868
+      Snowman_1_Anim_18: 526696361814961599
+      Snowman_1_Anim_19: -3059028367214114133
+      Snowman_1_Anim_2: -8926078949822545577
+      Snowman_1_Anim_20: -2885798298030590839
+      Snowman_1_Anim_21: 6767138468000864578
+      Snowman_1_Anim_22: -4056745708276477684
+      Snowman_1_Anim_23: -6251480086945752220
+      Snowman_1_Anim_24: -7628728298677147679
+      Snowman_1_Anim_25: -6518259868069269539
+      Snowman_1_Anim_3: 1923461877811946037
+      Snowman_1_Anim_4: 5174621608244651647
+      Snowman_1_Anim_5: 4165600861488396265
+      Snowman_1_Anim_6: 7341296906024299442
+      Snowman_1_Anim_7: -1311817713256210545
+      Snowman_1_Anim_8: -5713525728044534130
+      Snowman_1_Anim_9: -150682928289874575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

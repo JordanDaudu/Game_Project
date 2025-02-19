@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Reindeer_0: 8536575681379390687
+      Reindeer_1: 4737846381404530381
+      Reindeer_10: -2740351922765057530
+      Reindeer_11: 6954460475066575309
+      Reindeer_2: 1643171943847578441
+      Reindeer_3: 7713254371618669948
+      Reindeer_4: 736452678415416743
+      Reindeer_5: 3322797270837042601
+      Reindeer_6: 8674718983711151072
+      Reindeer_7: -669578939644168616
+      Reindeer_8: 3487551888168474964
+      Reindeer_9: -2076438886726054989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

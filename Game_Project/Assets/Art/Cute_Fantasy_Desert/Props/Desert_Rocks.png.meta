@@ -135,6 +135,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -459,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Rocks_0: 5537187768745621119
+      Desert_Rocks_1: -6751944310733841238
+      Desert_Rocks_10: -6084517561413530455
+      Desert_Rocks_11: 1000149433074493778
+      Desert_Rocks_12: -5916029682907186802
+      Desert_Rocks_13: 5605733722746826156
+      Desert_Rocks_2: 4134028045842549845
+      Desert_Rocks_3: 4074454818555254820
+      Desert_Rocks_4: 7113870287129093343
+      Desert_Rocks_5: 5960999025078883803
+      Desert_Rocks_6: 108637890675353176
+      Desert_Rocks_7: -8606683456857922880
+      Desert_Rocks_8: 9041825404093965869
+      Desert_Rocks_9: 5606984007843248986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

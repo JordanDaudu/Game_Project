@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Cliff_Tiles_2_0: -4066267285209136351
+      Desert_Cliff_Tiles_2_1: 6261257869589865753
+      Desert_Cliff_Tiles_2_2: 1688851634986783499
+      Desert_Cliff_Tiles_2_3: 433508072673093358
+      Desert_Cliff_Tiles_2_4: 2983933046620968343
+      Desert_Cliff_Tiles_2_5: -1021269233763739053
+      Desert_Cliff_Tiles_2_6: 1807533622108876352
+      Desert_Cliff_Tiles_2_7: -3486388123428456652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

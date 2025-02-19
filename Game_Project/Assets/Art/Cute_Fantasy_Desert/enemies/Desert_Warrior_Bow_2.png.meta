@@ -303,6 +303,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1859,7 +1872,77 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Warrior_Bow_2_0: -8869836705002771858
+      Desert_Warrior_Bow_2_1: 2030615525881651510
+      Desert_Warrior_Bow_2_10: -8908357491946432336
+      Desert_Warrior_Bow_2_11: 6115716917041047006
+      Desert_Warrior_Bow_2_12: 1133002836773057239
+      Desert_Warrior_Bow_2_13: -6988843547049077238
+      Desert_Warrior_Bow_2_14: -3805190066416820649
+      Desert_Warrior_Bow_2_15: 8528551306441503953
+      Desert_Warrior_Bow_2_16: 4640623927870723413
+      Desert_Warrior_Bow_2_17: -743869018269793116
+      Desert_Warrior_Bow_2_18: -432873561977530362
+      Desert_Warrior_Bow_2_19: -3403383099144159740
+      Desert_Warrior_Bow_2_2: 4062404365212842029
+      Desert_Warrior_Bow_2_20: 728953876784439411
+      Desert_Warrior_Bow_2_21: 652757688228376543
+      Desert_Warrior_Bow_2_22: -4925521492066496253
+      Desert_Warrior_Bow_2_23: 5636153608147107376
+      Desert_Warrior_Bow_2_24: -4476077244312197098
+      Desert_Warrior_Bow_2_25: -1934451936851273536
+      Desert_Warrior_Bow_2_26: 8097780029173451654
+      Desert_Warrior_Bow_2_27: -940496118668450947
+      Desert_Warrior_Bow_2_28: -3751849319218712875
+      Desert_Warrior_Bow_2_29: 5146655896337193163
+      Desert_Warrior_Bow_2_3: 7681495114361598333
+      Desert_Warrior_Bow_2_30: 1608865872942649766
+      Desert_Warrior_Bow_2_31: -2048963148537887258
+      Desert_Warrior_Bow_2_32: -723010876202323248
+      Desert_Warrior_Bow_2_33: -1888616901348634349
+      Desert_Warrior_Bow_2_34: 3509529905670820934
+      Desert_Warrior_Bow_2_35: -67764731800612054
+      Desert_Warrior_Bow_2_36: -858697084866377137
+      Desert_Warrior_Bow_2_37: -6618495490543134112
+      Desert_Warrior_Bow_2_38: -6847295188246513304
+      Desert_Warrior_Bow_2_39: 7003216480770719075
+      Desert_Warrior_Bow_2_4: 3642353889757188069
+      Desert_Warrior_Bow_2_40: -3948702496977302794
+      Desert_Warrior_Bow_2_41: 4147332613535802461
+      Desert_Warrior_Bow_2_42: -8930428584271112994
+      Desert_Warrior_Bow_2_43: -474125173558606152
+      Desert_Warrior_Bow_2_44: -3484299259077547196
+      Desert_Warrior_Bow_2_45: -5484556126942534224
+      Desert_Warrior_Bow_2_46: 6663889487540123641
+      Desert_Warrior_Bow_2_47: 6902249332198977262
+      Desert_Warrior_Bow_2_48: -5272427117469978579
+      Desert_Warrior_Bow_2_49: -128495118586485908
+      Desert_Warrior_Bow_2_5: 8844392810308310150
+      Desert_Warrior_Bow_2_50: -4470347208688248881
+      Desert_Warrior_Bow_2_51: -6915343258807212068
+      Desert_Warrior_Bow_2_52: 6282848113842872043
+      Desert_Warrior_Bow_2_53: 5994434587029815942
+      Desert_Warrior_Bow_2_54: 4307567607801965458
+      Desert_Warrior_Bow_2_55: -1447053310690702051
+      Desert_Warrior_Bow_2_56: -2581543706314030369
+      Desert_Warrior_Bow_2_57: 4940989385528054341
+      Desert_Warrior_Bow_2_58: -8129392100774042639
+      Desert_Warrior_Bow_2_59: -8256936578643258491
+      Desert_Warrior_Bow_2_6: 8282286707956353976
+      Desert_Warrior_Bow_2_60: 5872649998537715281
+      Desert_Warrior_Bow_2_61: -3990991726876377789
+      Desert_Warrior_Bow_2_62: -2384754845010784461
+      Desert_Warrior_Bow_2_63: 6145716015741547322
+      Desert_Warrior_Bow_2_64: 4865372156559870583
+      Desert_Warrior_Bow_2_65: -2757199807144096887
+      Desert_Warrior_Bow_2_66: -3275590160523763252
+      Desert_Warrior_Bow_2_67: 6641372791166482611
+      Desert_Warrior_Bow_2_68: -5383780517926733532
+      Desert_Warrior_Bow_2_69: 6053666652763036367
+      Desert_Warrior_Bow_2_7: -3866010225091495502
+      Desert_Warrior_Bow_2_8: -6668134197678570957
+      Desert_Warrior_Bow_2_9: -1351210720342795174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

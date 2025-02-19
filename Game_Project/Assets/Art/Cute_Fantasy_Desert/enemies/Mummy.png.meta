@@ -303,6 +303,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1859,7 +1872,77 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_0: -5840307614221572364
+      Mummy_1: 7301939077581686594
+      Mummy_10: 636093719140567805
+      Mummy_11: -9077708472257629305
+      Mummy_12: -7555039879145631592
+      Mummy_13: -2367462005987519629
+      Mummy_14: 1613321934942184280
+      Mummy_15: -7509901397592465551
+      Mummy_16: 2317516112781582624
+      Mummy_17: 1275030733479473009
+      Mummy_18: 9220238985273558307
+      Mummy_19: 2269774590620358131
+      Mummy_2: -1963984874012732681
+      Mummy_20: 2217716180624604384
+      Mummy_21: -3018327131836156664
+      Mummy_22: 7281315108213429887
+      Mummy_23: 5686606374109690887
+      Mummy_24: 5400851626385056314
+      Mummy_25: -5170970562374670063
+      Mummy_26: 2515327116670352081
+      Mummy_27: -1790960916618886951
+      Mummy_28: -7042349150553442398
+      Mummy_29: 6628644952385907113
+      Mummy_3: 6547943370603240469
+      Mummy_30: -6990065093112873033
+      Mummy_31: -2409497288474746674
+      Mummy_32: -915884356049695404
+      Mummy_33: 2517973080013163230
+      Mummy_34: -2757197355900434453
+      Mummy_35: 6677763522120759985
+      Mummy_36: 9207355007279626397
+      Mummy_37: 1004332487483009297
+      Mummy_38: 5854876779586311449
+      Mummy_39: 2489337813825786675
+      Mummy_4: 5541588330747164503
+      Mummy_40: 1517120680525532208
+      Mummy_41: 3055030045226074797
+      Mummy_42: 4167388983863128302
+      Mummy_43: -5074913296690151003
+      Mummy_44: 1418722776741406089
+      Mummy_45: 973084104976237198
+      Mummy_46: -5196278221489292723
+      Mummy_47: -3097942829259863875
+      Mummy_48: -807903502985470383
+      Mummy_49: 8465530856835744543
+      Mummy_5: -79913318453803813
+      Mummy_50: 7191938943782380558
+      Mummy_51: 4321790811510721817
+      Mummy_52: -1893251057736571501
+      Mummy_53: 5351537770475741534
+      Mummy_54: -6267073102274103147
+      Mummy_55: 5499648340982919288
+      Mummy_56: -1769806489857725186
+      Mummy_57: -5241985635296331241
+      Mummy_58: 8111700435182546020
+      Mummy_59: 7977077611079763733
+      Mummy_6: -3969991945466811590
+      Mummy_60: -7616908472376225714
+      Mummy_61: -2706487464025160287
+      Mummy_62: 7342355176682522831
+      Mummy_63: 7224511210567133358
+      Mummy_64: -3533796409709548713
+      Mummy_65: -2090049833607940728
+      Mummy_66: -5786972461364553847
+      Mummy_67: -4653651209632407667
+      Mummy_68: -8548695840888116289
+      Mummy_69: -9117695457957146920
+      Mummy_7: -5518169323593960347
+      Mummy_8: -4010149390630252848
+      Mummy_9: 8431381737485018097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

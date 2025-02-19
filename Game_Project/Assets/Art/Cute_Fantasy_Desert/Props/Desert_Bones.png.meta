@@ -180,6 +180,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -834,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Bones_0: 3131847664559282718
+      Desert_Bones_1: 6347423505998631941
+      Desert_Bones_10: -4661040820131658577
+      Desert_Bones_11: 3027533769499015132
+      Desert_Bones_12: 4691540751608527900
+      Desert_Bones_13: 8285543143159956080
+      Desert_Bones_14: 8525896013975358654
+      Desert_Bones_15: 8177160804429322614
+      Desert_Bones_16: -2751893845811779554
+      Desert_Bones_17: -2583315737954257544
+      Desert_Bones_18: -7423256442568558731
+      Desert_Bones_19: -4085671550210335699
+      Desert_Bones_2: 3402635699316882209
+      Desert_Bones_20: 7572000270048954575
+      Desert_Bones_21: -4547870573141369640
+      Desert_Bones_22: -1829177279119576408
+      Desert_Bones_23: -957605137817637480
+      Desert_Bones_24: -2322985279394961722
+      Desert_Bones_25: -6110975473676303389
+      Desert_Bones_26: 1634004282799121243
+      Desert_Bones_27: 242344374216462504
+      Desert_Bones_28: 5236552756484030797
+      Desert_Bones_3: 7164684147612439566
+      Desert_Bones_4: -2292047017815322561
+      Desert_Bones_5: -4139674384798084792
+      Desert_Bones_6: 2563784359576498480
+      Desert_Bones_7: -4385707958470921754
+      Desert_Bones_8: 7024626931125575948
+      Desert_Bones_9: 644429151776275187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

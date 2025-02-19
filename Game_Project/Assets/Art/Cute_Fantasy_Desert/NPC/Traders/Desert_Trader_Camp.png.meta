@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -859,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Trader_Camp_0: 580094249674185342
+      Desert_Trader_Camp_1: -5631061924285587115
+      Desert_Trader_Camp_10: 3027045535190167336
+      Desert_Trader_Camp_11: 1639642784643194471
+      Desert_Trader_Camp_12: -1806496665530952229
+      Desert_Trader_Camp_13: -2806752893311786710
+      Desert_Trader_Camp_14: 4462402101758559407
+      Desert_Trader_Camp_15: -8390902169492522085
+      Desert_Trader_Camp_16: -4637569265021244015
+      Desert_Trader_Camp_17: -3137446587447824497
+      Desert_Trader_Camp_18: -6155100208340323040
+      Desert_Trader_Camp_19: -3650936741895759807
+      Desert_Trader_Camp_2: -6012756374331821131
+      Desert_Trader_Camp_20: 2772362613189947077
+      Desert_Trader_Camp_21: -4797820051483204267
+      Desert_Trader_Camp_22: 5409974561229442744
+      Desert_Trader_Camp_23: -3786728071548059373
+      Desert_Trader_Camp_24: -6274279140305480551
+      Desert_Trader_Camp_25: 2506887618653170098
+      Desert_Trader_Camp_26: 9156018327735650230
+      Desert_Trader_Camp_27: -6905678267863781793
+      Desert_Trader_Camp_28: 4475475348124926889
+      Desert_Trader_Camp_29: 1155497965305223656
+      Desert_Trader_Camp_3: 4204631928654699720
+      Desert_Trader_Camp_4: -5787785720475204667
+      Desert_Trader_Camp_5: -8068095377322215479
+      Desert_Trader_Camp_6: -6676934153522497337
+      Desert_Trader_Camp_7: -8938088245773480856
+      Desert_Trader_Camp_8: -4376639736293390259
+      Desert_Trader_Camp_9: 5241356332874780479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

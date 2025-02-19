@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pumpkin_1_Anim_0: -5052852690636983990
+      Pumpkin_1_Anim_1: 10961128734566977
+      Pumpkin_1_Anim_2: 1484467269379424436
+      Pumpkin_1_Anim_3: 4691411909055673427
+      Pumpkin_1_Anim_4: 423196037977358201
+      Pumpkin_1_Anim_5: 3307657515611199821
+      Pumpkin_1_Anim_6: 6993869546107837603
+      Pumpkin_1_Anim_7: 243358750173091013
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

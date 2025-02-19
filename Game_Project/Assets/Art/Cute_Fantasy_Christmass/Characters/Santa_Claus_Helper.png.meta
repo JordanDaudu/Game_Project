@@ -231,6 +231,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1259,7 +1272,53 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Santa_Claus_Helper_0: -7120084469536687278
+      Santa_Claus_Helper_1: -7694992228603524743
+      Santa_Claus_Helper_10: 5976794951863704313
+      Santa_Claus_Helper_11: -7189392782404350336
+      Santa_Claus_Helper_12: 16622954579335142
+      Santa_Claus_Helper_13: 1055709953901464795
+      Santa_Claus_Helper_14: -2228580584439428047
+      Santa_Claus_Helper_15: -7500323931285715409
+      Santa_Claus_Helper_16: 8126610067633918747
+      Santa_Claus_Helper_17: -3027498395003968253
+      Santa_Claus_Helper_18: -1469422246228414619
+      Santa_Claus_Helper_19: 3124977564962967238
+      Santa_Claus_Helper_2: 983230687117739106
+      Santa_Claus_Helper_20: 7095523262268459508
+      Santa_Claus_Helper_21: -8677035345574036257
+      Santa_Claus_Helper_22: -7061559470864973810
+      Santa_Claus_Helper_23: -847771911808451190
+      Santa_Claus_Helper_24: 4800867841095918530
+      Santa_Claus_Helper_25: -9121984087441348027
+      Santa_Claus_Helper_26: 3151700974507211047
+      Santa_Claus_Helper_27: -2288367998382861220
+      Santa_Claus_Helper_28: -5935566179139588578
+      Santa_Claus_Helper_29: -4829247646407761632
+      Santa_Claus_Helper_3: 791644022648296498
+      Santa_Claus_Helper_30: 2610046934749723680
+      Santa_Claus_Helper_31: -2887528096269332292
+      Santa_Claus_Helper_32: -4447637292629502585
+      Santa_Claus_Helper_33: -4448425447067934701
+      Santa_Claus_Helper_34: -8845191630629065619
+      Santa_Claus_Helper_35: -2074552927267838741
+      Santa_Claus_Helper_36: 1049874337183597409
+      Santa_Claus_Helper_37: 164595624998898292
+      Santa_Claus_Helper_38: -3023386575437096390
+      Santa_Claus_Helper_39: -2868091632067084044
+      Santa_Claus_Helper_4: -6521159468795158465
+      Santa_Claus_Helper_40: 3047525985982779946
+      Santa_Claus_Helper_41: -5381976128506822
+      Santa_Claus_Helper_42: 8365279643422769132
+      Santa_Claus_Helper_43: -7549271254735461987
+      Santa_Claus_Helper_44: 8095657777923462608
+      Santa_Claus_Helper_45: 2878063298152412844
+      Santa_Claus_Helper_5: -7420528318694695987
+      Santa_Claus_Helper_6: -1620464386368393109
+      Santa_Claus_Helper_7: -7569284506615114957
+      Santa_Claus_Helper_8: -22054155981526796
+      Santa_Claus_Helper_9: 7264021272624725021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

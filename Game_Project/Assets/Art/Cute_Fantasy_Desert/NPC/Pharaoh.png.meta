@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pharaoh_0: -4140259279941227310
+      Pharaoh_1: 2316351596824194553
+      Pharaoh_10: -229117405770805239
+      Pharaoh_11: 5776047655679877057
+      Pharaoh_12: -7406489443268778276
+      Pharaoh_13: 7894794126466900293
+      Pharaoh_14: 1447668836372777909
+      Pharaoh_15: 6653573527587893003
+      Pharaoh_16: -6339535649241819994
+      Pharaoh_17: -9037631070780992629
+      Pharaoh_18: 7951767584665496299
+      Pharaoh_19: -6620029843346295468
+      Pharaoh_2: 5781370536420606790
+      Pharaoh_20: -2109059268346677741
+      Pharaoh_21: -1357816123888252904
+      Pharaoh_22: -7891022796059050910
+      Pharaoh_23: -3948630794290707749
+      Pharaoh_24: -887455431356084826
+      Pharaoh_25: -7467380951757343978
+      Pharaoh_26: 2591713903701967434
+      Pharaoh_27: -8289254907043791367
+      Pharaoh_28: -950951568939059450
+      Pharaoh_29: -7975336720593251569
+      Pharaoh_3: -175793657165208878
+      Pharaoh_30: 5017282935481169237
+      Pharaoh_31: -1359133244790158962
+      Pharaoh_32: 2484084394663151204
+      Pharaoh_33: -3679585769400742875
+      Pharaoh_34: -5928324409180002851
+      Pharaoh_35: 2437414378084760065
+      Pharaoh_36: -6004544201914969999
+      Pharaoh_37: -4763111986713896709
+      Pharaoh_38: 5233538777903030776
+      Pharaoh_39: -6833087405794856606
+      Pharaoh_4: -7128032771204667452
+      Pharaoh_40: 3040328187675828574
+      Pharaoh_41: 3089602254953459785
+      Pharaoh_42: 4562973288276220784
+      Pharaoh_43: 5556050734417410933
+      Pharaoh_44: 1468394690593970353
+      Pharaoh_45: 3154093287240801511
+      Pharaoh_46: 1299507336917269126
+      Pharaoh_47: 1863205411946584741
+      Pharaoh_48: -8267178427271052918
+      Pharaoh_49: -2815839327397128505
+      Pharaoh_5: -3686595485770759972
+      Pharaoh_50: -8552192034664720783
+      Pharaoh_51: 8708407151884767606
+      Pharaoh_6: -8687323130075531684
+      Pharaoh_7: 9199444493727603541
+      Pharaoh_8: 3046435712785790760
+      Pharaoh_9: 6684846535764076001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

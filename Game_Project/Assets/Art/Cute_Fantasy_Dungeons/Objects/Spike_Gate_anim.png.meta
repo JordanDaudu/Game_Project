@@ -387,6 +387,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2559,7 +2572,105 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spike_Gate_anim_0: 2437814038984792343
+      Spike_Gate_anim_1: -1526370421047428308
+      Spike_Gate_anim_10: -2583421296108946313
+      Spike_Gate_anim_11: 4275591020897275435
+      Spike_Gate_anim_12: -5986689907239020881
+      Spike_Gate_anim_13: -8388138921909536177
+      Spike_Gate_anim_14: -7510384867539409521
+      Spike_Gate_anim_15: -1101763581523275807
+      Spike_Gate_anim_16: -4178805108279817824
+      Spike_Gate_anim_17: -7089836679781258935
+      Spike_Gate_anim_18: 5253275456333334525
+      Spike_Gate_anim_19: 7326279930107212351
+      Spike_Gate_anim_2: 1278823638090605284
+      Spike_Gate_anim_20: -685762080324116284
+      Spike_Gate_anim_21: -255694731017536778
+      Spike_Gate_anim_22: -6341990609883547236
+      Spike_Gate_anim_23: 1171568983385970292
+      Spike_Gate_anim_24: -5160364620542906478
+      Spike_Gate_anim_25: 106036843336372926
+      Spike_Gate_anim_26: 7925504835892902613
+      Spike_Gate_anim_27: -6242839382327733257
+      Spike_Gate_anim_28: 4055267135736733200
+      Spike_Gate_anim_29: 706092393737113049
+      Spike_Gate_anim_3: 7322285339772216815
+      Spike_Gate_anim_30: 2321582731156473678
+      Spike_Gate_anim_31: 5361336923830204185
+      Spike_Gate_anim_32: 601878578699602444
+      Spike_Gate_anim_33: 4061618639570976585
+      Spike_Gate_anim_34: -6850324308109013191
+      Spike_Gate_anim_35: 8892656525808332483
+      Spike_Gate_anim_36: -3496206866944254809
+      Spike_Gate_anim_37: -2339636449479560188
+      Spike_Gate_anim_38: -7705389642457031572
+      Spike_Gate_anim_39: 1855910789875353578
+      Spike_Gate_anim_4: 6277796765078525212
+      Spike_Gate_anim_40: -8604291210156941294
+      Spike_Gate_anim_41: -4887544249590683727
+      Spike_Gate_anim_42: -2645387423934444182
+      Spike_Gate_anim_43: -5265677019250689755
+      Spike_Gate_anim_44: -5107185791369702171
+      Spike_Gate_anim_45: 7793709859797151510
+      Spike_Gate_anim_46: -6973945970657359122
+      Spike_Gate_anim_47: 8668645898266971272
+      Spike_Gate_anim_48: -175432398902020588
+      Spike_Gate_anim_49: -1299427460639547618
+      Spike_Gate_anim_5: 2848810724910358032
+      Spike_Gate_anim_50: -6253024426920099145
+      Spike_Gate_anim_51: -6971775943460624554
+      Spike_Gate_anim_52: -6539495174793194897
+      Spike_Gate_anim_53: -6322195705244200504
+      Spike_Gate_anim_54: 3263076492045296605
+      Spike_Gate_anim_55: -208112822650907645
+      Spike_Gate_anim_56: 4921494544446985658
+      Spike_Gate_anim_57: -3694370520740130631
+      Spike_Gate_anim_58: 1755231608780008746
+      Spike_Gate_anim_59: 323972803363907185
+      Spike_Gate_anim_6: -3067090425135390227
+      Spike_Gate_anim_60: 3550812590241697198
+      Spike_Gate_anim_61: -6008040656122486341
+      Spike_Gate_anim_62: -651099186916363992
+      Spike_Gate_anim_63: -9022586078545946559
+      Spike_Gate_anim_64: -4923544553414999659
+      Spike_Gate_anim_65: -3512918298289185671
+      Spike_Gate_anim_66: -2763990512802880430
+      Spike_Gate_anim_67: 4384192394434780333
+      Spike_Gate_anim_68: 8065216925908559211
+      Spike_Gate_anim_69: -7422589741578718025
+      Spike_Gate_anim_7: 2195674076424519135
+      Spike_Gate_anim_70: 105121020033192362
+      Spike_Gate_anim_71: 6669415038301186014
+      Spike_Gate_anim_72: 7076602410835562233
+      Spike_Gate_anim_73: 6749864200372069199
+      Spike_Gate_anim_74: 2511761932008746952
+      Spike_Gate_anim_75: -5520242698031739947
+      Spike_Gate_anim_76: 2220426703250773054
+      Spike_Gate_anim_77: -1967355954445165388
+      Spike_Gate_anim_78: 2478469474203803948
+      Spike_Gate_anim_79: -8029778651604866899
+      Spike_Gate_anim_8: 4877096228418327168
+      Spike_Gate_anim_80: -8909357504963812238
+      Spike_Gate_anim_81: -947405390744289310
+      Spike_Gate_anim_82: -6347822308796126505
+      Spike_Gate_anim_83: 2594814839738238427
+      Spike_Gate_anim_84: 5129046714542876291
+      Spike_Gate_anim_85: 4940761194651664049
+      Spike_Gate_anim_86: 5529254371328969781
+      Spike_Gate_anim_87: -562906907083116123
+      Spike_Gate_anim_88: 4038502436111605936
+      Spike_Gate_anim_89: -1875312929985669253
+      Spike_Gate_anim_9: -5709609897006362551
+      Spike_Gate_anim_90: -14084775878529578
+      Spike_Gate_anim_91: 7054492372620185417
+      Spike_Gate_anim_92: -3153889948584743812
+      Spike_Gate_anim_93: -6552837807987817485
+      Spike_Gate_anim_94: -5924840862934875371
+      Spike_Gate_anim_95: 7617453174369791178
+      Spike_Gate_anim_96: -6982213128470477934
+      Spike_Gate_anim_97: 2201579328411728216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

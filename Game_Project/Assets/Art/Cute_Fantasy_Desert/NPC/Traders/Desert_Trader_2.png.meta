@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desert_Trader_2_0: -7980315148800594259
+      Desert_Trader_2_1: 8984488119326952897
+      Desert_Trader_2_2: 783790600221400419
+      Desert_Trader_2_3: -2356566843188118028
+      Desert_Trader_2_4: 3906228343619868062
+      Desert_Trader_2_5: 8239687466990918968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
