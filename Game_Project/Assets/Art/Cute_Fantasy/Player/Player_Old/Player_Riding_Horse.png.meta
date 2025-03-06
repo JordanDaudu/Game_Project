@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -208,10 +208,10 @@ TextureImporter:
       name: Player_Riding_Horse_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 384
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: Player_Riding_Horse_1
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 384
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: Player_Riding_Horse_2
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 336
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: Player_Riding_Horse_3
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 336
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,7 +299,7 @@ TextureImporter:
         x: 0
         y: 288
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,7 +321,7 @@ TextureImporter:
         x: 32
         y: 288
         width: 32
-        height: 36
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,8 +342,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 240
-        width: 33
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,8 +364,8 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 240
-        width: 33
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,7 +387,7 @@ TextureImporter:
         x: 64
         y: 240
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,7 +409,7 @@ TextureImporter:
         x: 96
         y: 240
         width: 32
-        height: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,7 +431,7 @@ TextureImporter:
         x: 128
         y: 240
         width: 32
-        height: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,7 +453,7 @@ TextureImporter:
         x: 160
         y: 240
         width: 32
-        height: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: Player_Riding_Horse_12
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 192
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: Player_Riding_Horse_13
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 192
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: Player_Riding_Horse_14
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 192
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: Player_Riding_Horse_15
       rect:
         serializedVersion: 2
-        x: 104
+        x: 96
         y: 192
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: Player_Riding_Horse_16
       rect:
         serializedVersion: 2
-        x: 136
+        x: 128
         y: 192
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: Player_Riding_Horse_17
       rect:
         serializedVersion: 2
-        x: 168
+        x: 160
         y: 192
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: Player_Riding_Horse_18
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 144
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: Player_Riding_Horse_19
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 144
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +648,10 @@ TextureImporter:
       name: Player_Riding_Horse_20
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 144
-        width: 17
-        height: 37
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: Player_Riding_Horse_21
       rect:
         serializedVersion: 2
-        x: 104
+        x: 96
         y: 144
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,10 +692,10 @@ TextureImporter:
       name: Player_Riding_Horse_22
       rect:
         serializedVersion: 2
-        x: 136
+        x: 128
         y: 144
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +714,10 @@ TextureImporter:
       name: Player_Riding_Horse_23
       rect:
         serializedVersion: 2
-        x: 168
+        x: 160
         y: 144
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +736,10 @@ TextureImporter:
       name: Player_Riding_Horse_24
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 96
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +758,10 @@ TextureImporter:
       name: Player_Riding_Horse_25
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 96
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,10 +780,10 @@ TextureImporter:
       name: Player_Riding_Horse_26
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 96
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,10 +802,10 @@ TextureImporter:
       name: Player_Riding_Horse_27
       rect:
         serializedVersion: 2
-        x: 104
+        x: 96
         y: 96
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +824,10 @@ TextureImporter:
       name: Player_Riding_Horse_28
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 48
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +846,10 @@ TextureImporter:
       name: Player_Riding_Horse_29
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 48
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,10 +868,10 @@ TextureImporter:
       name: Player_Riding_Horse_30
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 48
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: Player_Riding_Horse_31
       rect:
         serializedVersion: 2
-        x: 104
+        x: 96
         y: 48
-        width: 17
-        height: 38
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,7 +915,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,7 +937,7 @@ TextureImporter:
         x: 32
         y: 0
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,7 +959,7 @@ TextureImporter:
         x: 64
         y: 0
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,7 +981,7 @@ TextureImporter:
         x: 96
         y: 0
         width: 32
-        height: 37
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,7 +1000,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 05d34fc27ecb75d4aaf5f9335e262a4d
     internalID: 0
     vertices: []
     indices: 

@@ -256,10 +256,10 @@ TextureImporter:
       name: Player_Fishing_Anim_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 470
-        width: 15
-        height: 22
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Player_Fishing_Anim_1
       rect:
         serializedVersion: 2
-        x: 89
-        y: 470
-        width: 15
-        height: 22
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Player_Fishing_Anim_2
       rect:
         serializedVersion: 2
-        x: 152
-        y: 470
-        width: 15
-        height: 21
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Player_Fishing_Anim_3
       rect:
         serializedVersion: 2
-        x: 216
-        y: 470
-        width: 15
-        height: 21
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Player_Fishing_Anim_4
       rect:
         serializedVersion: 2
-        x: 281
-        y: 470
-        width: 15
-        height: 22
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: Player_Fishing_Anim_5
       rect:
         serializedVersion: 2
-        x: 345
-        y: 470
-        width: 15
-        height: 22
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: Player_Fishing_Anim_6
       rect:
         serializedVersion: 2
-        x: 409
-        y: 470
-        width: 15
-        height: 22
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: Player_Fishing_Anim_7
       rect:
         serializedVersion: 2
-        x: 473
-        y: 470
-        width: 15
-        height: 22
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: Player_Fishing_Anim_8
       rect:
         serializedVersion: 2
-        x: 537
-        y: 470
-        width: 15
-        height: 22
+        x: 512
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: Player_Fishing_Anim_9
       rect:
         serializedVersion: 2
-        x: 25
-        y: 406
-        width: 15
-        height: 22
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: Player_Fishing_Anim_10
       rect:
         serializedVersion: 2
-        x: 89
-        y: 406
-        width: 15
-        height: 21
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: Player_Fishing_Anim_11
       rect:
         serializedVersion: 2
-        x: 152
-        y: 406
-        width: 15
-        height: 21
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: Player_Fishing_Anim_12
       rect:
         serializedVersion: 2
-        x: 217
-        y: 406
-        width: 15
-        height: 21
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: Player_Fishing_Anim_13
       rect:
         serializedVersion: 2
-        x: 25
-        y: 342
-        width: 15
-        height: 22
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +564,10 @@ TextureImporter:
       name: Player_Fishing_Anim_14
       rect:
         serializedVersion: 2
-        x: 89
-        y: 342
-        width: 15
-        height: 21
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +586,10 @@ TextureImporter:
       name: Player_Fishing_Anim_15
       rect:
         serializedVersion: 2
-        x: 152
-        y: 342
-        width: 15
-        height: 21
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +608,10 @@ TextureImporter:
       name: Player_Fishing_Anim_16
       rect:
         serializedVersion: 2
-        x: 216
-        y: 342
-        width: 15
-        height: 21
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: Player_Fishing_Anim_17
       rect:
         serializedVersion: 2
-        x: 280
-        y: 342
-        width: 15
-        height: 21
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +652,10 @@ TextureImporter:
       name: Player_Fishing_Anim_18
       rect:
         serializedVersion: 2
-        x: 344
-        y: 342
-        width: 15
-        height: 21
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +674,10 @@ TextureImporter:
       name: Player_Fishing_Anim_19
       rect:
         serializedVersion: 2
-        x: 409
-        y: 342
-        width: 15
-        height: 21
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +696,10 @@ TextureImporter:
       name: Player_Fishing_Anim_20
       rect:
         serializedVersion: 2
-        x: 473
-        y: 342
-        width: 15
-        height: 22
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: Player_Fishing_Anim_21
       rect:
         serializedVersion: 2
-        x: 25
-        y: 278
-        width: 15
-        height: 22
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: Player_Fishing_Anim_22
       rect:
         serializedVersion: 2
-        x: 89
-        y: 278
-        width: 15
-        height: 22
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +762,10 @@ TextureImporter:
       name: Player_Fishing_Anim_23
       rect:
         serializedVersion: 2
-        x: 153
-        y: 278
-        width: 15
-        height: 21
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +784,10 @@ TextureImporter:
       name: Player_Fishing_Anim_24
       rect:
         serializedVersion: 2
-        x: 217
-        y: 278
-        width: 15
-        height: 22
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: Player_Fishing_Anim_25
       rect:
         serializedVersion: 2
-        x: 281
-        y: 278
-        width: 15
-        height: 22
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +828,10 @@ TextureImporter:
       name: Player_Fishing_Anim_26
       rect:
         serializedVersion: 2
-        x: 25
-        y: 214
-        width: 15
-        height: 22
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
       name: Player_Fishing_Anim_27
       rect:
         serializedVersion: 2
-        x: 89
-        y: 214
-        width: 15
-        height: 22
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -872,10 +872,10 @@ TextureImporter:
       name: Player_Fishing_Anim_28
       rect:
         serializedVersion: 2
-        x: 152
-        y: 214
-        width: 15
-        height: 21
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -894,10 +894,10 @@ TextureImporter:
       name: Player_Fishing_Anim_29
       rect:
         serializedVersion: 2
-        x: 216
-        y: 214
-        width: 15
-        height: 21
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,10 +916,10 @@ TextureImporter:
       name: Player_Fishing_Anim_30
       rect:
         serializedVersion: 2
-        x: 281
-        y: 214
-        width: 15
-        height: 22
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,10 +938,10 @@ TextureImporter:
       name: Player_Fishing_Anim_31
       rect:
         serializedVersion: 2
-        x: 345
-        y: 214
-        width: 15
-        height: 22
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,10 +960,10 @@ TextureImporter:
       name: Player_Fishing_Anim_32
       rect:
         serializedVersion: 2
-        x: 409
-        y: 214
-        width: 15
-        height: 22
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,10 +982,10 @@ TextureImporter:
       name: Player_Fishing_Anim_33
       rect:
         serializedVersion: 2
-        x: 473
-        y: 214
-        width: 15
-        height: 22
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,10 +1004,10 @@ TextureImporter:
       name: Player_Fishing_Anim_34
       rect:
         serializedVersion: 2
-        x: 537
-        y: 214
-        width: 15
-        height: 22
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,10 +1026,10 @@ TextureImporter:
       name: Player_Fishing_Anim_35
       rect:
         serializedVersion: 2
-        x: 25
-        y: 150
-        width: 15
-        height: 22
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1048,10 @@ TextureImporter:
       name: Player_Fishing_Anim_36
       rect:
         serializedVersion: 2
-        x: 89
-        y: 150
-        width: 15
-        height: 21
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,10 +1070,10 @@ TextureImporter:
       name: Player_Fishing_Anim_37
       rect:
         serializedVersion: 2
-        x: 152
-        y: 150
-        width: 15
-        height: 21
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,10 +1092,10 @@ TextureImporter:
       name: Player_Fishing_Anim_38
       rect:
         serializedVersion: 2
-        x: 217
-        y: 150
-        width: 15
-        height: 21
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,10 +1114,10 @@ TextureImporter:
       name: Player_Fishing_Anim_39
       rect:
         serializedVersion: 2
-        x: 25
-        y: 86
-        width: 15
-        height: 22
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,10 +1136,10 @@ TextureImporter:
       name: Player_Fishing_Anim_40
       rect:
         serializedVersion: 2
-        x: 89
-        y: 86
-        width: 15
-        height: 21
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,10 +1158,10 @@ TextureImporter:
       name: Player_Fishing_Anim_41
       rect:
         serializedVersion: 2
-        x: 152
-        y: 86
-        width: 15
-        height: 21
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,10 +1180,10 @@ TextureImporter:
       name: Player_Fishing_Anim_42
       rect:
         serializedVersion: 2
-        x: 216
-        y: 86
-        width: 15
-        height: 21
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,10 +1202,10 @@ TextureImporter:
       name: Player_Fishing_Anim_43
       rect:
         serializedVersion: 2
-        x: 280
-        y: 86
-        width: 15
-        height: 21
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1224,10 @@ TextureImporter:
       name: Player_Fishing_Anim_44
       rect:
         serializedVersion: 2
-        x: 344
-        y: 86
-        width: 15
-        height: 21
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,10 +1246,10 @@ TextureImporter:
       name: Player_Fishing_Anim_45
       rect:
         serializedVersion: 2
-        x: 409
-        y: 86
-        width: 15
-        height: 21
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: Player_Fishing_Anim_46
       rect:
         serializedVersion: 2
-        x: 473
-        y: 86
-        width: 15
-        height: 22
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,10 +1290,10 @@ TextureImporter:
       name: Player_Fishing_Anim_47
       rect:
         serializedVersion: 2
-        x: 25
-        y: 22
-        width: 15
-        height: 22
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1312,10 @@ TextureImporter:
       name: Player_Fishing_Anim_48
       rect:
         serializedVersion: 2
-        x: 89
-        y: 22
-        width: 15
-        height: 22
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,10 +1334,10 @@ TextureImporter:
       name: Player_Fishing_Anim_49
       rect:
         serializedVersion: 2
-        x: 153
-        y: 22
-        width: 15
-        height: 21
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1356,10 @@ TextureImporter:
       name: Player_Fishing_Anim_50
       rect:
         serializedVersion: 2
-        x: 217
-        y: 22
-        width: 15
-        height: 22
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,10 +1378,10 @@ TextureImporter:
       name: Player_Fishing_Anim_51
       rect:
         serializedVersion: 2
-        x: 281
-        y: 22
-        width: 15
-        height: 22
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,7 +1400,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 28e0ddc7adaeb0a45be00e61f7fdcf6c
     internalID: 0
     vertices: []
     indices: 

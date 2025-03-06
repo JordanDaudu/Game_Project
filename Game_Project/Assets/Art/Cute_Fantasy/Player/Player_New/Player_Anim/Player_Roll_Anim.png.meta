@@ -184,10 +184,10 @@ TextureImporter:
       name: Player_Roll_Anim_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 70
-        width: 17
-        height: 20
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Player_Roll_Anim_1
       rect:
         serializedVersion: 2
-        x: 39
-        y: 75
-        width: 17
-        height: 17
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Player_Roll_Anim_2
       rect:
         serializedVersion: 2
-        x: 40
-        y: 70
-        width: 15
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: Player_Roll_Anim_3
       rect:
         serializedVersion: 2
-        x: 71
-        y: 75
-        width: 17
-        height: 15
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: Player_Roll_Anim_4
       rect:
         serializedVersion: 2
-        x: 72
-        y: 70
-        width: 15
-        height: 6
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: Player_Roll_Anim_5
       rect:
         serializedVersion: 2
-        x: 103
-        y: 70
-        width: 17
-        height: 17
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: Player_Roll_Anim_6
       rect:
         serializedVersion: 2
-        x: 135
-        y: 70
-        width: 17
-        height: 16
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Player_Roll_Anim_7
       rect:
         serializedVersion: 2
-        x: 167
-        y: 70
-        width: 17
-        height: 16
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: Player_Roll_Anim_8
       rect:
         serializedVersion: 2
-        x: 199
-        y: 70
-        width: 17
-        height: 18
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: Player_Roll_Anim_9
       rect:
         serializedVersion: 2
-        x: 231
-        y: 70
-        width: 17
-        height: 20
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Player_Roll_Anim_10
       rect:
         serializedVersion: 2
-        x: 7
-        y: 38
-        width: 17
-        height: 20
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: Player_Roll_Anim_11
       rect:
         serializedVersion: 2
-        x: 39
-        y: 38
-        width: 17
-        height: 22
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: Player_Roll_Anim_12
       rect:
         serializedVersion: 2
-        x: 71
-        y: 38
-        width: 17
-        height: 20
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: Player_Roll_Anim_13
       rect:
         serializedVersion: 2
-        x: 103
-        y: 43
-        width: 17
-        height: 12
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: Player_Roll_Anim_14
       rect:
         serializedVersion: 2
-        x: 104
-        y: 38
-        width: 15
-        height: 6
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: Player_Roll_Anim_15
       rect:
         serializedVersion: 2
-        x: 135
-        y: 38
-        width: 17
-        height: 17
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: Player_Roll_Anim_16
       rect:
         serializedVersion: 2
-        x: 167
-        y: 38
-        width: 17
-        height: 16
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: Player_Roll_Anim_17
       rect:
         serializedVersion: 2
-        x: 199
-        y: 38
-        width: 17
-        height: 18
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: Player_Roll_Anim_18
       rect:
         serializedVersion: 2
-        x: 231
-        y: 38
-        width: 17
-        height: 20
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: Player_Roll_Anim_19
       rect:
         serializedVersion: 2
-        x: 9
-        y: 6
-        width: 15
-        height: 20
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: Player_Roll_Anim_20
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
-        width: 20
-        height: 23
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: Player_Roll_Anim_21
       rect:
         serializedVersion: 2
-        x: 73
-        y: 6
-        width: 20
-        height: 22
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: Player_Roll_Anim_22
       rect:
         serializedVersion: 2
-        x: 89
-        y: 11
-        width: 6
-        height: 6
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: Player_Roll_Anim_23
       rect:
         serializedVersion: 2
-        x: 105
-        y: 6
-        width: 22
-        height: 18
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,99 +708,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Player_Roll_Anim_24
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 6
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9723014c4b3643de0800000000000000
-      internalID: -1354347959897017735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Roll_Anim_25
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 6
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 891483ffca69b28d0800000000000000
-      internalID: -2870034667758141032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Roll_Anim_26
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 6
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 279c871cbfc787200800000000000000
-      internalID: 178029606005688690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Roll_Anim_27
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 6
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f17809fad4ac03f40800000000000000
-      internalID: 5706283162885195551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 550e7a1da4be635409c8075ce33a924f
     internalID: 0
     vertices: []
     indices: 
@@ -827,10 +739,6 @@ TextureImporter:
       Player_Roll_Anim_21: 6999861393202531560
       Player_Roll_Anim_22: 4409748235984000324
       Player_Roll_Anim_23: -9015349557458564245
-      Player_Roll_Anim_24: -1354347959897017735
-      Player_Roll_Anim_25: -2870034667758141032
-      Player_Roll_Anim_26: 178029606005688690
-      Player_Roll_Anim_27: 5706283162885195551
       Player_Roll_Anim_3: 343300792055796934
       Player_Roll_Anim_4: 798542726370696200
       Player_Roll_Anim_5: -1813732999009063038

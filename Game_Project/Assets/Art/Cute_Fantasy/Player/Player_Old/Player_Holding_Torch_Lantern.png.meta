@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -316,10 +316,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 358
-        width: 18
-        height: 22
+        x: 0
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 358
-        width: 18
-        height: 22
+        x: 32
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 358
-        width: 18
-        height: 21
+        x: 64
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 358
-        width: 18
-        height: 21
+        x: 96
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_4
       rect:
         serializedVersion: 2
-        x: 133
-        y: 358
-        width: 18
-        height: 22
+        x: 128
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 358
-        width: 18
-        height: 22
+        x: 160
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_6
       rect:
         serializedVersion: 2
-        x: 7
-        y: 326
-        width: 17
-        height: 22
+        x: 0
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_7
       rect:
         serializedVersion: 2
-        x: 39
-        y: 326
-        width: 17
-        height: 22
+        x: 32
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_8
       rect:
         serializedVersion: 2
-        x: 71
-        y: 326
-        width: 17
-        height: 21
+        x: 64
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_9
       rect:
         serializedVersion: 2
-        x: 103
-        y: 326
-        width: 17
-        height: 21
+        x: 96
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_10
       rect:
         serializedVersion: 2
-        x: 135
-        y: 326
-        width: 17
-        height: 22
+        x: 128
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_11
       rect:
         serializedVersion: 2
-        x: 167
-        y: 326
-        width: 17
-        height: 22
+        x: 160
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 294
-        width: 18
-        height: 22
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_13
       rect:
         serializedVersion: 2
-        x: 40
-        y: 294
-        width: 18
-        height: 22
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_14
       rect:
         serializedVersion: 2
-        x: 72
-        y: 294
-        width: 18
-        height: 21
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_15
       rect:
         serializedVersion: 2
-        x: 104
-        y: 294
-        width: 18
-        height: 21
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_16
       rect:
         serializedVersion: 2
-        x: 136
-        y: 294
-        width: 19
-        height: 22
+        x: 128
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_17
       rect:
         serializedVersion: 2
-        x: 168
-        y: 294
-        width: 18
-        height: 22
+        x: 160
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_18
       rect:
         serializedVersion: 2
-        x: 5
-        y: 262
-        width: 18
-        height: 24
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_19
       rect:
         serializedVersion: 2
-        x: 37
-        y: 262
-        width: 18
-        height: 23
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_20
       rect:
         serializedVersion: 2
-        x: 69
-        y: 262
-        width: 18
-        height: 22
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_21
       rect:
         serializedVersion: 2
-        x: 101
-        y: 262
-        width: 18
-        height: 24
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_22
       rect:
         serializedVersion: 2
-        x: 133
-        y: 262
-        width: 18
-        height: 23
+        x: 128
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_23
       rect:
         serializedVersion: 2
-        x: 165
-        y: 262
-        width: 18
-        height: 22
+        x: 160
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_24
       rect:
         serializedVersion: 2
-        x: 6
-        y: 230
-        width: 18
-        height: 24
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_25
       rect:
         serializedVersion: 2
-        x: 38
-        y: 230
-        width: 18
-        height: 23
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_26
       rect:
         serializedVersion: 2
-        x: 70
-        y: 230
-        width: 18
-        height: 22
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_27
       rect:
         serializedVersion: 2
-        x: 102
-        y: 230
-        width: 18
-        height: 24
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_28
       rect:
         serializedVersion: 2
-        x: 134
-        y: 230
-        width: 18
-        height: 23
+        x: 128
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_29
       rect:
         serializedVersion: 2
-        x: 166
-        y: 230
-        width: 18
-        height: 22
+        x: 160
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_30
       rect:
         serializedVersion: 2
-        x: 8
-        y: 198
-        width: 18
-        height: 24
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_31
       rect:
         serializedVersion: 2
-        x: 40
-        y: 198
-        width: 18
-        height: 23
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_32
       rect:
         serializedVersion: 2
-        x: 72
-        y: 198
-        width: 18
-        height: 22
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_33
       rect:
         serializedVersion: 2
-        x: 104
-        y: 198
-        width: 18
-        height: 24
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_34
       rect:
         serializedVersion: 2
-        x: 136
-        y: 198
-        width: 19
-        height: 23
+        x: 128
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_35
       rect:
         serializedVersion: 2
-        x: 168
-        y: 198
-        width: 18
-        height: 22
+        x: 160
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,10 +1108,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_36
       rect:
         serializedVersion: 2
-        x: 3
-        y: 166
-        width: 20
-        height: 22
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_37
       rect:
         serializedVersion: 2
-        x: 35
-        y: 166
-        width: 20
-        height: 22
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_38
       rect:
         serializedVersion: 2
-        x: 67
-        y: 166
-        width: 20
-        height: 21
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_39
       rect:
         serializedVersion: 2
-        x: 99
-        y: 166
-        width: 20
-        height: 21
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_40
       rect:
         serializedVersion: 2
-        x: 131
-        y: 166
-        width: 20
-        height: 22
+        x: 128
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_41
       rect:
         serializedVersion: 2
-        x: 163
-        y: 166
-        width: 20
-        height: 22
+        x: 160
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_42
       rect:
         serializedVersion: 2
-        x: 4
-        y: 134
-        width: 20
-        height: 22
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1262,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_43
       rect:
         serializedVersion: 2
-        x: 36
-        y: 134
-        width: 20
-        height: 22
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_44
       rect:
         serializedVersion: 2
-        x: 68
-        y: 134
-        width: 20
-        height: 21
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,10 +1306,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_45
       rect:
         serializedVersion: 2
-        x: 100
-        y: 134
-        width: 20
-        height: 21
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_46
       rect:
         serializedVersion: 2
-        x: 132
-        y: 134
-        width: 20
-        height: 22
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,10 +1350,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_47
       rect:
         serializedVersion: 2
-        x: 164
-        y: 134
-        width: 20
-        height: 22
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1372,10 +1372,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_48
       rect:
         serializedVersion: 2
-        x: 8
-        y: 102
-        width: 20
-        height: 22
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,10 +1394,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_49
       rect:
         serializedVersion: 2
-        x: 40
-        y: 102
-        width: 20
-        height: 22
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1416,10 +1416,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_50
       rect:
         serializedVersion: 2
-        x: 72
-        y: 102
-        width: 20
-        height: 21
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1438,10 +1438,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_51
       rect:
         serializedVersion: 2
-        x: 104
-        y: 102
-        width: 20
-        height: 21
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1460,10 +1460,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_52
       rect:
         serializedVersion: 2
-        x: 136
-        y: 102
-        width: 20
-        height: 22
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1482,10 +1482,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_53
       rect:
         serializedVersion: 2
-        x: 168
-        y: 102
-        width: 20
-        height: 22
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1504,10 +1504,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_54
       rect:
         serializedVersion: 2
-        x: 3
-        y: 70
-        width: 20
-        height: 24
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1526,10 +1526,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_55
       rect:
         serializedVersion: 2
-        x: 35
-        y: 70
-        width: 20
-        height: 23
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1548,10 +1548,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_56
       rect:
         serializedVersion: 2
-        x: 67
-        y: 70
-        width: 20
-        height: 22
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1570,10 +1570,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_57
       rect:
         serializedVersion: 2
-        x: 99
-        y: 70
-        width: 20
-        height: 24
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1592,10 +1592,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_58
       rect:
         serializedVersion: 2
-        x: 131
-        y: 70
-        width: 20
-        height: 23
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1614,10 +1614,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_59
       rect:
         serializedVersion: 2
-        x: 163
-        y: 70
-        width: 20
-        height: 22
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1636,10 +1636,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_60
       rect:
         serializedVersion: 2
-        x: 4
-        y: 38
-        width: 20
-        height: 24
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1658,10 +1658,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_61
       rect:
         serializedVersion: 2
-        x: 36
-        y: 38
-        width: 20
-        height: 23
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1680,10 +1680,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_62
       rect:
         serializedVersion: 2
-        x: 68
-        y: 38
-        width: 20
-        height: 22
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1702,10 +1702,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_63
       rect:
         serializedVersion: 2
-        x: 100
-        y: 38
-        width: 20
-        height: 24
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1724,10 +1724,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_64
       rect:
         serializedVersion: 2
-        x: 132
-        y: 38
-        width: 20
-        height: 23
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1746,10 +1746,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_65
       rect:
         serializedVersion: 2
-        x: 164
-        y: 38
-        width: 20
-        height: 22
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1768,10 +1768,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_66
       rect:
         serializedVersion: 2
-        x: 8
-        y: 6
-        width: 20
-        height: 24
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1790,10 +1790,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_67
       rect:
         serializedVersion: 2
-        x: 40
-        y: 6
-        width: 20
-        height: 23
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,10 +1812,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_68
       rect:
         serializedVersion: 2
-        x: 72
-        y: 6
-        width: 20
-        height: 22
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1834,10 +1834,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_69
       rect:
         serializedVersion: 2
-        x: 104
-        y: 6
-        width: 20
-        height: 24
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1856,10 +1856,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_70
       rect:
         serializedVersion: 2
-        x: 136
-        y: 6
-        width: 20
-        height: 23
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1878,10 +1878,10 @@ TextureImporter:
       name: Player_Holding_Torch_Lantern_71
       rect:
         serializedVersion: 2
-        x: 168
-        y: 6
-        width: 20
-        height: 22
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1900,7 +1900,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: de79670bd17eec34eb677a5d15e9005c
     internalID: 0
     vertices: []
     indices: 
