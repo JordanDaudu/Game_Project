@@ -495,6 +495,17 @@
                 },
                 {
                     "name": "",
+                    "id": "fa8e8968-71d3-4eea-8c8c-d2ff68d9284e",
+                    "path": "<Keyboard>/alt",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Roll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "671c8dde-f04e-45d9-a675-20383f8e3270",
                     "path": "<Gamepad>/leftStickPress",
                     "interactions": "",

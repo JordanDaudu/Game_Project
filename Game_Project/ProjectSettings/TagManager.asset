@@ -6,6 +6,7 @@ TagManager:
   tags:
   - breakable
   - enemy
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -45,6 +46,9 @@ TagManager:
     locked: 0
   - name: Ground_Decor
     uniqueID: 404669989
+    locked: 0
+  - name: Objects
+    uniqueID: 4131229129
     locked: 0
   - name: Player
     uniqueID: 2278216895
