@@ -38,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public FloatValue currentHealth;
     public Signal playerHealthSignal;
+    public VectorValue startingPosition;
 
     private void Awake()
     {
@@ -76,7 +77,18 @@ public class PlayerMovement : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
-
+        transform.position = startingPosition.initialValue;
+        if(startingPosition.isFromTransition)
+        {
+            if (startingPosition.facingDirectionX != 0)
+            {
+                animator.SetFloat("moveX", startingPosition.facingDirectionX);
+            }
+            if (startingPosition.facingDirectionY != 0)
+            {
+                animator.SetFloat("moveY", startingPosition.facingDirectionY);
+            }
+        }
     }
 
     void Update()
