@@ -5,6 +5,9 @@ using UnityEngine.UI;
 
 public class Sign : MonoBehaviour
 {
+    public Signal contextOn;
+    public Signal contextOff;
+
     public GameObject dialogBox;
     public TextMeshProUGUI dialogText;
     public string dialog;
@@ -38,6 +41,8 @@ public class Sign : MonoBehaviour
         if(other.CompareTag("Player"))
         {
             playerInRange = true;
+            // context is for pop up prompt for player
+            contextOn.Raise();
         }
     }
     private void OnTriggerExit2D(Collider2D other)
@@ -46,6 +51,8 @@ public class Sign : MonoBehaviour
         {
             playerInRange = false;
             dialogBox.SetActive(false);
+            // context is for pop up prompt for player
+            contextOff.Raise();
         }
     }
 }

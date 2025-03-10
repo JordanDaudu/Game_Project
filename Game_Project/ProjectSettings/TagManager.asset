@@ -53,5 +53,8 @@ TagManager:
   - name: Player
     uniqueID: 2278216895
     locked: 0
+  - name: Prompts UI
+    uniqueID: 2713802893
+    locked: 0
   m_RenderingLayers:
   - Default

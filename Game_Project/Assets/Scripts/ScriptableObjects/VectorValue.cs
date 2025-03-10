@@ -1,12 +1,24 @@
 using UnityEngine;
 
 [CreateAssetMenu]
-public class VectorValue : ScriptableObject
+public class VectorValue : ScriptableObject, ISerializationCallbackReceiver
 {
     public Vector2 initialValue; // Position
+    public Vector2 defaultValue;
     public float facingDirectionX; // Facing direction (e.g., -1 for left, 1 for right)
     public float facingDirectionY; // Facing direction (e.g., -1 for down, 1 for up)
     public bool isFromTransition; // Flag to indicate if set by a transition
+
+    public void OnAfterDeserialize()
+    {
+        initialValue = defaultValue;
+        facingDirectionX = 0f;
+        facingDirectionY = -1f;
+    }
+    public void OnBeforeSerialize()
+    {
+
+    }
 
     public void ResetToDefault()
     {
@@ -18,6 +30,7 @@ public class VectorValue : ScriptableObject
 
     // THIS HERE IS USED FOR EDITOR TO RESET POSITION AFTER EVERY USE
     // IMPORTANT: ONLY WORKS FOR EDITOR
+    /*
 #if UNITY_EDITOR
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
     private static void ResetAllVectorValues()
@@ -30,4 +43,5 @@ public class VectorValue : ScriptableObject
         }
     }
 #endif
+    */
 }
