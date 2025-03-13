@@ -226,7 +226,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -240,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -264,7 +264,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -305,10 +305,10 @@ TextureImporter:
       name: Orc_Archer_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 582
-        width: 22
-        height: 27
+        x: 0
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: Orc_Archer_1
       rect:
         serializedVersion: 2
-        x: 59
-        y: 582
-        width: 22
-        height: 27
+        x: 48
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,10 +349,10 @@ TextureImporter:
       name: Orc_Archer_2
       rect:
         serializedVersion: 2
-        x: 106
-        y: 582
-        width: 24
-        height: 26
+        x: 96
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: Orc_Archer_3
       rect:
         serializedVersion: 2
-        x: 154
-        y: 582
-        width: 24
-        height: 26
+        x: 144
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: Orc_Archer_4
       rect:
         serializedVersion: 2
-        x: 203
-        y: 582
-        width: 22
-        height: 27
+        x: 192
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: Orc_Archer_5
       rect:
         serializedVersion: 2
-        x: 251
-        y: 582
-        width: 22
-        height: 27
+        x: 240
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: Orc_Archer_6
       rect:
         serializedVersion: 2
-        x: 13
-        y: 534
-        width: 20
-        height: 27
+        x: 0
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: Orc_Archer_7
       rect:
         serializedVersion: 2
-        x: 61
-        y: 534
-        width: 20
-        height: 27
+        x: 48
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: Orc_Archer_8
       rect:
         serializedVersion: 2
-        x: 108
-        y: 534
-        width: 21
-        height: 26
+        x: 96
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,10 +503,10 @@ TextureImporter:
       name: Orc_Archer_9
       rect:
         serializedVersion: 2
-        x: 156
-        y: 534
-        width: 21
-        height: 26
+        x: 144
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,10 +525,10 @@ TextureImporter:
       name: Orc_Archer_10
       rect:
         serializedVersion: 2
-        x: 205
-        y: 534
-        width: 20
-        height: 27
+        x: 192
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,10 +547,10 @@ TextureImporter:
       name: Orc_Archer_11
       rect:
         serializedVersion: 2
-        x: 253
-        y: 534
-        width: 20
-        height: 27
+        x: 240
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,10 +569,10 @@ TextureImporter:
       name: Orc_Archer_12
       rect:
         serializedVersion: 2
-        x: 14
-        y: 486
-        width: 22
-        height: 27
+        x: 0
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,10 +591,10 @@ TextureImporter:
       name: Orc_Archer_13
       rect:
         serializedVersion: 2
-        x: 62
-        y: 486
-        width: 22
-        height: 27
+        x: 48
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -613,10 +613,10 @@ TextureImporter:
       name: Orc_Archer_14
       rect:
         serializedVersion: 2
-        x: 109
-        y: 486
-        width: 24
-        height: 26
+        x: 96
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,10 +635,10 @@ TextureImporter:
       name: Orc_Archer_15
       rect:
         serializedVersion: 2
-        x: 157
-        y: 486
-        width: 24
-        height: 26
+        x: 144
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,10 +657,10 @@ TextureImporter:
       name: Orc_Archer_16
       rect:
         serializedVersion: 2
-        x: 206
-        y: 486
-        width: 22
-        height: 27
+        x: 192
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -679,10 +679,10 @@ TextureImporter:
       name: Orc_Archer_17
       rect:
         serializedVersion: 2
-        x: 254
-        y: 486
-        width: 22
-        height: 27
+        x: 240
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: Orc_Archer_18
       rect:
         serializedVersion: 2
-        x: 11
-        y: 438
-        width: 22
-        height: 29
+        x: 0
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -723,10 +723,10 @@ TextureImporter:
       name: Orc_Archer_19
       rect:
         serializedVersion: 2
-        x: 59
-        y: 438
-        width: 22
-        height: 28
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -745,10 +745,10 @@ TextureImporter:
       name: Orc_Archer_20
       rect:
         serializedVersion: 2
-        x: 107
-        y: 438
-        width: 22
-        height: 27
+        x: 96
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -767,10 +767,10 @@ TextureImporter:
       name: Orc_Archer_21
       rect:
         serializedVersion: 2
-        x: 155
-        y: 438
-        width: 22
-        height: 29
+        x: 144
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -789,10 +789,10 @@ TextureImporter:
       name: Orc_Archer_22
       rect:
         serializedVersion: 2
-        x: 203
-        y: 438
-        width: 22
-        height: 28
+        x: 192
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,10 +811,10 @@ TextureImporter:
       name: Orc_Archer_23
       rect:
         serializedVersion: 2
-        x: 251
-        y: 438
-        width: 22
-        height: 27
+        x: 240
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,10 +833,10 @@ TextureImporter:
       name: Orc_Archer_24
       rect:
         serializedVersion: 2
-        x: 13
-        y: 390
-        width: 20
-        height: 29
+        x: 0
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -855,10 +855,10 @@ TextureImporter:
       name: Orc_Archer_25
       rect:
         serializedVersion: 2
-        x: 61
-        y: 390
-        width: 20
-        height: 28
+        x: 48
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -877,10 +877,10 @@ TextureImporter:
       name: Orc_Archer_26
       rect:
         serializedVersion: 2
-        x: 109
-        y: 390
-        width: 20
-        height: 27
+        x: 96
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -899,10 +899,10 @@ TextureImporter:
       name: Orc_Archer_27
       rect:
         serializedVersion: 2
-        x: 157
-        y: 390
-        width: 20
-        height: 29
+        x: 144
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -921,10 +921,10 @@ TextureImporter:
       name: Orc_Archer_28
       rect:
         serializedVersion: 2
-        x: 205
-        y: 390
-        width: 20
-        height: 28
+        x: 192
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -943,10 +943,10 @@ TextureImporter:
       name: Orc_Archer_29
       rect:
         serializedVersion: 2
-        x: 253
-        y: 390
-        width: 20
-        height: 27
+        x: 240
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -965,10 +965,10 @@ TextureImporter:
       name: Orc_Archer_30
       rect:
         serializedVersion: 2
-        x: 14
-        y: 342
-        width: 22
-        height: 29
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -987,10 +987,10 @@ TextureImporter:
       name: Orc_Archer_31
       rect:
         serializedVersion: 2
-        x: 62
-        y: 342
-        width: 22
-        height: 28
+        x: 48
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1009,10 +1009,10 @@ TextureImporter:
       name: Orc_Archer_32
       rect:
         serializedVersion: 2
-        x: 110
-        y: 342
-        width: 22
-        height: 27
+        x: 96
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1031,10 +1031,10 @@ TextureImporter:
       name: Orc_Archer_33
       rect:
         serializedVersion: 2
-        x: 157
-        y: 342
-        width: 23
-        height: 29
+        x: 144
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1053,10 +1053,10 @@ TextureImporter:
       name: Orc_Archer_34
       rect:
         serializedVersion: 2
-        x: 206
-        y: 342
-        width: 22
-        height: 28
+        x: 192
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1075,10 +1075,10 @@ TextureImporter:
       name: Orc_Archer_35
       rect:
         serializedVersion: 2
-        x: 254
-        y: 342
-        width: 22
-        height: 27
+        x: 240
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1097,10 +1097,10 @@ TextureImporter:
       name: Orc_Archer_36
       rect:
         serializedVersion: 2
-        x: 14
-        y: 287
-        width: 20
-        height: 33
+        x: 0
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,10 +1119,10 @@ TextureImporter:
       name: Orc_Archer_37
       rect:
         serializedVersion: 2
-        x: 62
-        y: 292
-        width: 19
-        height: 29
+        x: 48
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1141,10 +1141,10 @@ TextureImporter:
       name: Orc_Archer_38
       rect:
         serializedVersion: 2
-        x: 110
-        y: 293
-        width: 19
-        height: 29
+        x: 96
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: Orc_Archer_39
       rect:
         serializedVersion: 2
-        x: 158
-        y: 293
-        width: 20
-        height: 28
+        x: 144
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1185,10 +1185,10 @@ TextureImporter:
       name: Orc_Archer_40
       rect:
         serializedVersion: 2
-        x: 206
-        y: 293
-        width: 20
-        height: 28
+        x: 192
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1207,10 +1207,10 @@ TextureImporter:
       name: Orc_Archer_41
       rect:
         serializedVersion: 2
-        x: 254
-        y: 293
-        width: 20
-        height: 28
+        x: 240
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1229,10 +1229,10 @@ TextureImporter:
       name: Orc_Archer_42
       rect:
         serializedVersion: 2
-        x: 14
-        y: 246
-        width: 30
-        height: 24
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1251,10 +1251,10 @@ TextureImporter:
       name: Orc_Archer_43
       rect:
         serializedVersion: 2
-        x: 62
-        y: 246
-        width: 25
-        height: 26
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,10 +1273,10 @@ TextureImporter:
       name: Orc_Archer_44
       rect:
         serializedVersion: 2
-        x: 110
-        y: 246
-        width: 24
-        height: 26
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,10 +1295,10 @@ TextureImporter:
       name: Orc_Archer_45
       rect:
         serializedVersion: 2
-        x: 158
-        y: 246
-        width: 24
-        height: 27
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1317,10 +1317,10 @@ TextureImporter:
       name: Orc_Archer_46
       rect:
         serializedVersion: 2
-        x: 206
-        y: 246
-        width: 24
-        height: 27
+        x: 192
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1339,10 +1339,10 @@ TextureImporter:
       name: Orc_Archer_47
       rect:
         serializedVersion: 2
-        x: 254
-        y: 246
-        width: 24
-        height: 27
+        x: 240
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1361,10 +1361,10 @@ TextureImporter:
       name: Orc_Archer_48
       rect:
         serializedVersion: 2
-        x: 14
-        y: 198
-        width: 20
-        height: 36
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1383,10 +1383,10 @@ TextureImporter:
       name: Orc_Archer_49
       rect:
         serializedVersion: 2
-        x: 62
-        y: 198
-        width: 19
-        height: 31
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,10 +1405,10 @@ TextureImporter:
       name: Orc_Archer_50
       rect:
         serializedVersion: 2
-        x: 110
-        y: 198
-        width: 19
-        height: 30
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1427,10 +1427,10 @@ TextureImporter:
       name: Orc_Archer_51
       rect:
         serializedVersion: 2
-        x: 158
-        y: 198
-        width: 20
-        height: 30
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1449,10 +1449,10 @@ TextureImporter:
       name: Orc_Archer_52
       rect:
         serializedVersion: 2
-        x: 206
-        y: 198
-        width: 20
-        height: 30
+        x: 192
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1471,10 +1471,10 @@ TextureImporter:
       name: Orc_Archer_53
       rect:
         serializedVersion: 2
-        x: 254
-        y: 198
-        width: 20
-        height: 30
+        x: 240
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1493,10 +1493,10 @@ TextureImporter:
       name: Orc_Archer_54
       rect:
         serializedVersion: 2
-        x: 14
-        y: 149
-        width: 19
-        height: 27
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1515,10 +1515,10 @@ TextureImporter:
       name: Orc_Archer_55
       rect:
         serializedVersion: 2
-        x: 62
-        y: 150
-        width: 21
-        height: 25
+        x: 48
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1537,10 +1537,10 @@ TextureImporter:
       name: Orc_Archer_56
       rect:
         serializedVersion: 2
-        x: 110
-        y: 150
-        width: 24
-        height: 21
+        x: 96
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1559,10 +1559,10 @@ TextureImporter:
       name: Orc_Archer_57
       rect:
         serializedVersion: 2
-        x: 158
-        y: 150
-        width: 25
-        height: 17
+        x: 144
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,10 +1581,10 @@ TextureImporter:
       name: Orc_Archer_58
       rect:
         serializedVersion: 2
-        x: 11
-        y: 102
-        width: 22
-        height: 27
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1603,10 +1603,10 @@ TextureImporter:
       name: Orc_Archer_59
       rect:
         serializedVersion: 2
-        x: 59
-        y: 102
-        width: 22
-        height: 27
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: Orc_Archer_60
       rect:
         serializedVersion: 2
-        x: 13
-        y: 54
-        width: 20
-        height: 27
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1647,10 +1647,10 @@ TextureImporter:
       name: Orc_Archer_61
       rect:
         serializedVersion: 2
-        x: 61
-        y: 54
-        width: 20
-        height: 27
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1669,10 +1669,10 @@ TextureImporter:
       name: Orc_Archer_62
       rect:
         serializedVersion: 2
-        x: 14
-        y: 6
-        width: 22
-        height: 27
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1691,10 +1691,10 @@ TextureImporter:
       name: Orc_Archer_63
       rect:
         serializedVersion: 2
-        x: 62
-        y: 6
-        width: 22
-        height: 27
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1713,7 +1713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3e4bd6d3e31d4ce488774b9ffa2c3584
     internalID: 0
     vertices: []
     indices: 

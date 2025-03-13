@@ -96,5 +96,5 @@ MonoBehaviour:
   playerPosition: {x: 0, y: -4}
   playerStorage: {fileID: 11400000, guid: f3c09e6383c06f9418e8322bfb837d39, type: 2}
   FadeInPanel: {fileID: 2409200825440768373, guid: a0800139e12190544aaff3199f12b83c, type: 3}
-  FadeOutPanel: {fileID: 1338613138814061568, guid: 1b76ea1cad2696243976d03cb47ccffb, type: 3}
+  FadeOutPanel: {fileID: 8547572728867423582, guid: 1b76ea1cad2696243976d03cb47ccffb, type: 3}
   fadeWait: 0.33

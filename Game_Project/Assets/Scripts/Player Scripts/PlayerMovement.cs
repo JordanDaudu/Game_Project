@@ -40,6 +40,10 @@ public class PlayerMovement : MonoBehaviour
     public Signal playerHealthSignal;
     public VectorValue startingPosition;
 
+    // Weapons variables
+    public Animator weaponAnimator;
+    private SpriteRenderer weaponSprite;
+
     private void Awake()
     {
         playerControls = new InputSystem_Actions();
@@ -89,23 +93,17 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("moveY", startingPosition.facingDirectionY);
             }
         }
+
+        // This if statement is to get the weapon game object sprite
+        if(weaponAnimator !=  null)
+        {
+            weaponSprite = weaponAnimator.GetComponent<SpriteRenderer>();
+        }
     }
 
     void Update()
     {
         moveDirection = move.ReadValue<Vector2>();
-        // THIS IS THE OLD SYSTEM INPUT
-        //change = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0);
-        //if (change != Vector3.zero)
-        //{
-        //    change.Normalize(); // Prevents diagonal speed boost
-        //}
-
-        //if (Input.GetButtonDown("Fire1") && currentState != PlayerState.attack
-        //    && currentState != PlayerState.stagger)
-        //{
-        //    StartCoroutine(AttackCo());
-        //}
         if(currentState == PlayerState.idle || currentState == PlayerState.walk || currentState == PlayerState.lowHealth)
         {
             UpdateAnimation();
@@ -135,7 +133,20 @@ public class PlayerMovement : MonoBehaviour
 
         yield return null;
         animator.SetBool("attacking", false);
+
+        // This is code added for weapon game object animation
+        if(weaponAnimator != null)
+        {
+            weaponAnimator.SetTrigger("Attack");
+            weaponSprite.enabled = true;
+        }
+        // Note: THE YIELD IS NOT PART OF THE WEAPON ANIMATION
         yield return new WaitForSeconds(.33f);
+        if(weaponAnimator != null) // deactivation part of the weapon game obect
+        {
+            weaponSprite.enabled = false; // De-Activate the weapon animator sprite
+        }
+
         currentState = PlayerState.walk;
     }
 
@@ -216,32 +227,24 @@ public class PlayerMovement : MonoBehaviour
             animator.SetFloat("moveX", moveDirection.x);
             animator.SetFloat("moveY", moveDirection.y);
             animator.SetBool("moving", true);
+            
+            // This if statement is for the Weapon direction animations
+            if(weaponAnimator != null)
+            {
+                weaponAnimator.SetFloat("moveX", moveDirection.x);
+                weaponAnimator.SetFloat("moveY", moveDirection.y);
+            }
         }
         else
         {
             animator.SetBool("moving", false);
         }
-        // THIS IS THE OLD SYSTEM INPUT
-        //if (change != Vector3.zero)
-        //{
-        //    spriteRenderer.flipX = (change.x < 0);
-        //    animator.SetFloat("moveX", change.x);
-        //    animator.SetFloat("moveY", change.y);
-        //    animator.SetBool("moving", true);
-        //}
-        //else
-        //{
-        //    animator.SetBool("moving", false);
-        //}
     }
 
     void MoveCharacter()
     {
         if(currentState == PlayerState.idle || currentState == PlayerState.walk)
         {
-            // THIS IS THE OLD SYSTEM INPUT
-            //myRigidbody.MovePosition(myRigidbody.position + (Vector2)change * speed * Time.fixedDeltaTime);
-
             myRigidbody.linearVelocity = new Vector2(moveDirection.x * speed, moveDirection.y * speed);
         }
     }

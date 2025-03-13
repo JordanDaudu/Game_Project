@@ -262,7 +262,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -276,7 +276,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -300,7 +300,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -341,10 +341,10 @@ TextureImporter:
       name: Orc_Chief_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 481
-        width: 23
-        height: 30
+        x: 0
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: Orc_Chief_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 481
-        width: 23
-        height: 30
+        x: 32
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,10 +385,10 @@ TextureImporter:
       name: Orc_Chief_2
       rect:
         serializedVersion: 2
-        x: 68
-        y: 481
-        width: 23
-        height: 29
+        x: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: Orc_Chief_3
       rect:
         serializedVersion: 2
-        x: 100
-        y: 481
-        width: 23
-        height: 29
+        x: 96
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,10 +429,10 @@ TextureImporter:
       name: Orc_Chief_4
       rect:
         serializedVersion: 2
-        x: 132
-        y: 481
-        width: 23
-        height: 30
+        x: 128
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,10 +451,10 @@ TextureImporter:
       name: Orc_Chief_5
       rect:
         serializedVersion: 2
-        x: 164
-        y: 481
-        width: 23
-        height: 30
+        x: 160
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,10 +473,10 @@ TextureImporter:
       name: Orc_Chief_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 449
-        width: 21
-        height: 30
+        x: 0
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +495,10 @@ TextureImporter:
       name: Orc_Chief_7
       rect:
         serializedVersion: 2
-        x: 37
-        y: 449
-        width: 21
-        height: 30
+        x: 32
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,10 +517,10 @@ TextureImporter:
       name: Orc_Chief_8
       rect:
         serializedVersion: 2
-        x: 68
-        y: 449
-        width: 22
-        height: 29
+        x: 64
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +539,10 @@ TextureImporter:
       name: Orc_Chief_9
       rect:
         serializedVersion: 2
-        x: 100
-        y: 449
-        width: 22
-        height: 29
+        x: 96
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: Orc_Chief_10
       rect:
         serializedVersion: 2
-        x: 133
-        y: 449
-        width: 21
-        height: 30
+        x: 128
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: Orc_Chief_11
       rect:
         serializedVersion: 2
-        x: 165
-        y: 449
-        width: 21
-        height: 30
+        x: 160
+        y: 448
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: Orc_Chief_12
       rect:
         serializedVersion: 2
-        x: 4
-        y: 417
-        width: 23
-        height: 30
+        x: 0
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,9 +627,9 @@ TextureImporter:
       name: Orc_Chief_13
       rect:
         serializedVersion: 2
-        x: 5
-        y: 385
-        width: 21
+        x: 32
+        y: 416
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: Orc_Chief_14
       rect:
         serializedVersion: 2
-        x: 36
-        y: 417
-        width: 23
-        height: 30
+        x: 64
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +671,10 @@ TextureImporter:
       name: Orc_Chief_15
       rect:
         serializedVersion: 2
-        x: 68
-        y: 417
-        width: 23
-        height: 29
+        x: 96
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: Orc_Chief_16
       rect:
         serializedVersion: 2
-        x: 100
-        y: 417
-        width: 23
-        height: 29
+        x: 128
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,9 +715,9 @@ TextureImporter:
       name: Orc_Chief_17
       rect:
         serializedVersion: 2
-        x: 101
-        y: 385
-        width: 21
+        x: 160
+        y: 416
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -737,10 +737,10 @@ TextureImporter:
       name: Orc_Chief_18
       rect:
         serializedVersion: 2
-        x: 132
-        y: 417
-        width: 23
-        height: 30
+        x: 0
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +759,10 @@ TextureImporter:
       name: Orc_Chief_19
       rect:
         serializedVersion: 2
-        x: 164
-        y: 417
-        width: 23
-        height: 30
+        x: 32
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,9 +781,9 @@ TextureImporter:
       name: Orc_Chief_20
       rect:
         serializedVersion: 2
-        x: 6
-        y: 353
-        width: 20
+        x: 64
+        y: 384
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: Orc_Chief_21
       rect:
         serializedVersion: 2
-        x: 36
-        y: 385
-        width: 23
-        height: 31
+        x: 96
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: Orc_Chief_22
       rect:
         serializedVersion: 2
-        x: 67
-        y: 385
-        width: 24
-        height: 30
+        x: 128
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,9 +847,9 @@ TextureImporter:
       name: Orc_Chief_23
       rect:
         serializedVersion: 2
-        x: 102
-        y: 353
-        width: 20
+        x: 160
+        y: 384
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: Orc_Chief_24
       rect:
         serializedVersion: 2
-        x: 132
-        y: 385
-        width: 23
-        height: 31
+        x: 0
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +891,10 @@ TextureImporter:
       name: Orc_Chief_25
       rect:
         serializedVersion: 2
-        x: 163
-        y: 385
-        width: 25
-        height: 30
+        x: 32
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,9 +913,9 @@ TextureImporter:
       name: Orc_Chief_26
       rect:
         serializedVersion: 2
-        x: 5
-        y: 321
-        width: 21
+        x: 64
+        y: 352
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -935,10 +935,10 @@ TextureImporter:
       name: Orc_Chief_27
       rect:
         serializedVersion: 2
-        x: 38
-        y: 353
-        width: 20
-        height: 31
+        x: 96
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -957,10 +957,10 @@ TextureImporter:
       name: Orc_Chief_28
       rect:
         serializedVersion: 2
-        x: 70
-        y: 353
-        width: 20
-        height: 30
+        x: 128
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,9 +979,9 @@ TextureImporter:
       name: Orc_Chief_29
       rect:
         serializedVersion: 2
-        x: 100
-        y: 321
-        width: 22
+        x: 160
+        y: 352
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1001,10 +1001,10 @@ TextureImporter:
       name: Orc_Chief_30
       rect:
         serializedVersion: 2
-        x: 133
-        y: 353
-        width: 21
-        height: 31
+        x: 0
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1023,10 +1023,10 @@ TextureImporter:
       name: Orc_Chief_31
       rect:
         serializedVersion: 2
-        x: 166
-        y: 353
-        width: 20
-        height: 30
+        x: 32
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1045,10 +1045,10 @@ TextureImporter:
       name: Orc_Chief_32
       rect:
         serializedVersion: 2
-        x: 36
-        y: 321
-        width: 23
-        height: 31
+        x: 64
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1067,10 +1067,10 @@ TextureImporter:
       name: Orc_Chief_33
       rect:
         serializedVersion: 2
-        x: 67
-        y: 321
-        width: 24
-        height: 30
+        x: 96
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,10 +1089,10 @@ TextureImporter:
       name: Orc_Chief_34
       rect:
         serializedVersion: 2
-        x: 132
-        y: 321
-        width: 23
-        height: 31
+        x: 128
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,10 +1111,10 @@ TextureImporter:
       name: Orc_Chief_35
       rect:
         serializedVersion: 2
-        x: 164
-        y: 321
-        width: 24
-        height: 30
+        x: 160
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,10 +1133,10 @@ TextureImporter:
       name: Orc_Chief_36
       rect:
         serializedVersion: 2
-        x: 17
-        y: 273
-        width: 26
-        height: 31
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,35 +1152,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_37
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 273
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bbc9ceb9442aeb40800000000000000
-      internalID: 5470224596546997169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_38
       rect:
         serializedVersion: 2
-        x: 148
-        y: 273
-        width: 23
-        height: 33
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,35 +1174,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_39
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 269
-        width: 23
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f5d85cd15f7b02c0800000000000000
-      internalID: -4464334616041826826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_40
       rect:
         serializedVersion: 2
-        x: 276
-        y: 269
-        width: 23
-        height: 34
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,35 +1196,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_41
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 271
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f320bb0de62a31fb0800000000000000
-      internalID: -4678216991075794369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_42
       rect:
         serializedVersion: 2
-        x: 404
-        y: 273
-        width: 23
-        height: 28
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,35 +1218,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_43
-      rect:
-        serializedVersion: 2
-        x: 468
-        y: 273
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 54458d029fec00910800000000000000
-      internalID: 1801667420341425221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_44
       rect:
         serializedVersion: 2
-        x: 11
-        y: 209
-        width: 30
-        height: 29
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,35 +1240,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_45
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 209
-        width: 29
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b6e3da7240059600800000000000000
-      internalID: 474285621286004404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_46
       rect:
         serializedVersion: 2
-        x: 150
-        y: 209
-        width: 20
-        height: 31
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1372,35 +1262,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_47
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 209
-        width: 36
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 562e9bbf68802c080800000000000000
-      internalID: -9168756515531005339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_48
       rect:
         serializedVersion: 2
-        x: 276
-        y: 209
-        width: 34
-        height: 27
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1416,35 +1284,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_49
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 209
-        width: 34
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e01b12f2f21ea1140800000000000000
-      internalID: 4691309554630242574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_50
       rect:
         serializedVersion: 2
-        x: 404
-        y: 209
-        width: 28
-        height: 27
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1460,387 +1306,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_51
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 209
-        width: 20
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4742f78eede21940800000000000000
-      internalID: 5265532523088332618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_52
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 145
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 764a3dd6961247c20800000000000000
-      internalID: 3203221971665134695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_53
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 145
-        width: 24
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c2072200cef48600800000000000000
-      internalID: 469780361776661187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_54
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 145
-        width: 23
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b91e3f510e00cba0800000000000000
-      internalID: -6070836898639767113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_55
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 145
-        width: 28
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb93bff650d71c560800000000000000
-      internalID: 7332279130642921919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_56
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 145
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9dc16810553d368a0800000000000000
-      internalID: -6312969890592056103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_57
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 145
-        width: 29
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de6077116d28650f0800000000000000
-      internalID: -1128570800682105107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_58
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 145
-        width: 24
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04ec2b7579db05430800000000000000
-      internalID: 3769721345818152512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_59
-      rect:
-        serializedVersion: 2
-        x: 468
-        y: 145
-        width: 24
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2abd3012bdfae5ac0800000000000000
-      internalID: -3864458074550707294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_60
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 97
-        width: 21
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92424cfd2b5ceab60800000000000000
-      internalID: 7759356580054967337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_61
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 98
-        width: 23
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed4f14014d2996ad0800000000000000
-      internalID: -2708472261383162658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_62
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 96
-        width: 26
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5547002dbf92e1170800000000000000
-      internalID: 8150998537123951701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_63
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 95
-        width: 28
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 471a446d9476e17c0800000000000000
-      internalID: -4098725044035477132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_64
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 65
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41e6dcb2d93409060800000000000000
-      internalID: 6958135766611226132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_65
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 65
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7940607e72d820710800000000000000
-      internalID: 1658042815344936087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_66
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 65
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f0d7d3a3bfd7b8b0800000000000000
-      internalID: -5136390887351791376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Orc_Chief_67
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 65
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16b957fa1ba898900800000000000000
-      internalID: 687232913908276065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_68
       rect:
         serializedVersion: 2
-        x: 5
-        y: 33
-        width: 21
-        height: 30
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1856,35 +1328,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_69
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 33
-        width: 21
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 666a800a48f3ff9d0800000000000000
-      internalID: -2738400209564817818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_70
       rect:
         serializedVersion: 2
-        x: 69
-        y: 33
-        width: 21
-        height: 30
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1900,35 +1350,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_71
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 33
-        width: 21
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebb50ef66452ffce0800000000000000
-      internalID: -1369334777242428482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_72
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 23
-        height: 30
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1944,35 +1372,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_73
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 1
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8bbba56739388b9d0800000000000000
-      internalID: -2758310102395339848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Orc_Chief_74
       rect:
         serializedVersion: 2
-        x: 68
-        y: 1
-        width: 23
-        height: 30
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1988,23 +1394,617 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Orc_Chief_75
+      name: Orc_Chief_76
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1
-        width: 23
-        height: 30
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c98f8b01da56b7c40800000000000000
-      internalID: 5511110363002239132
+      spriteID: aff8f3b9642b7544cad27763eeff7cdd
+      internalID: 131003078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bffa5beac304a84f8bedfeb94f4bc7c
+      internalID: -1883856280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e7b89e8b5b7b349ac32417e2a69937
+      internalID: -1094232512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5609e78fd63b7e48a0f0ace02669ad9
+      internalID: -1474407570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0373c4226eb0c84eb8eedb68f014665
+      internalID: -1219082306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ec62b5dfb19564a86adbdc0abdfd90
+      internalID: -1928545680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92ca7030f7b684a8d85fc1b0435ecd
+      internalID: 145498301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82577c112df701c49a68317bdb036e4a
+      internalID: 2081031490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c969663df29154a88b76d9a0323845
+      internalID: 1634542799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d34c2b044ce742b3c6927c575b95a
+      internalID: 1012105054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f90599d55e7df43b1c5b6512b86769
+      internalID: 492230781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9be2021ac78af4d820ade82a548451
+      internalID: 767842860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce1e981a3dbc64d8f144223702b92b
+      internalID: 894893312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eab9f2a795b67418e1c96ca20cf374
+      internalID: 922945234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58904e7d1c52ed4ea8b45424f08369f
+      internalID: 729507014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa99e0db3fe0674bb2a2e869b7baa06
+      internalID: -806882559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b037ea88d66a2142bcad964ecd8a771
+      internalID: 1090521762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5fe7b178079c4cae37e062a5dcbd9
+      internalID: -1904827682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a65f127bb03ad41929a7698a40433b
+      internalID: -583978192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885eac17f634914682befcd13ec037d
+      internalID: 99357379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027eb726e4365d459ab79ce417de404
+      internalID: -1093057808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d9b296ac699eb44b49220f79015f50
+      internalID: -180861647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f8436710f1c94190fe3996d8749b9
+      internalID: -1363463301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f0310a54b2db4a8b42dca6e38f4a9
+      internalID: 765164433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad435c9b23a2e44bd88da243bf4f27
+      internalID: -957716455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a65a0ec8cb9de448ae7fdbbbbc3905
+      internalID: 202101146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba3962e12123f4187374ef8b45310f
+      internalID: 1174385385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Chief_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd7dbebfcb2924abe9c84df5a1151a
+      internalID: -1754718489
       vertices: []
       indices: 
       edges: []
@@ -2013,7 +2013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7fc53ff79b25bc1498bbab8d74ea1dc7
     internalID: 0
     vertices: []
     indices: 
@@ -2026,10 +2026,58 @@ TextureImporter:
       Orc_Chief_0: 8080388097954582422
       Orc_Chief_1: -2586975367195897462
       Orc_Chief_10: -2089339013825428835
+      Orc_Chief_100: -1219082306
+      Orc_Chief_101: 1980703289
+      Orc_Chief_102: -1928545680
+      Orc_Chief_103: 1045251373
+      Orc_Chief_104: 145498301
+      Orc_Chief_105: 1237175862
+      Orc_Chief_106: 2081031490
+      Orc_Chief_107: 960237145
+      Orc_Chief_108: 1634542799
+      Orc_Chief_109: 2074606101
       Orc_Chief_11: 9023001053630954281
+      Orc_Chief_110: 1012105054
+      Orc_Chief_111: 1415551940
+      Orc_Chief_112: 492230781
+      Orc_Chief_113: 427431140
+      Orc_Chief_114: 767842860
+      Orc_Chief_115: -28542110
+      Orc_Chief_116: 155890937
+      Orc_Chief_117: 2048889826
+      Orc_Chief_118: -749402841
+      Orc_Chief_119: 1948379576
       Orc_Chief_12: -7580592059546668109
+      Orc_Chief_120: 1103980675
+      Orc_Chief_121: 942379437
+      Orc_Chief_122: 708659974
+      Orc_Chief_123: 1564756353
+      Orc_Chief_124: -843053595
+      Orc_Chief_125: -1219420274
+      Orc_Chief_126: -1795496248
+      Orc_Chief_127: -1603347780
+      Orc_Chief_128: -587487027
+      Orc_Chief_129: -2101143613
       Orc_Chief_13: 8525710396074964235
+      Orc_Chief_130: -238442341
+      Orc_Chief_131: 1325806225
+      Orc_Chief_132: 894893312
+      Orc_Chief_133: 922945234
+      Orc_Chief_134: 729507014
+      Orc_Chief_135: -806882559
+      Orc_Chief_136: 1090521762
+      Orc_Chief_137: -1904827682
+      Orc_Chief_138: -583978192
+      Orc_Chief_139: 99357379
       Orc_Chief_14: 8097269507733758831
+      Orc_Chief_140: -1093057808
+      Orc_Chief_141: -180861647
+      Orc_Chief_142: -1363463301
+      Orc_Chief_143: 765164433
+      Orc_Chief_144: -957716455
+      Orc_Chief_145: 202101146
+      Orc_Chief_146: 1174385385
+      Orc_Chief_147: -1754718489
       Orc_Chief_15: 6068248920357429244
       Orc_Chief_16: -6565855816841163198
       Orc_Chief_17: -7794616122894836594
@@ -2097,8 +2145,32 @@ TextureImporter:
       Orc_Chief_73: -2758310102395339848
       Orc_Chief_74: -5033934893333710288
       Orc_Chief_75: 5511110363002239132
+      Orc_Chief_76: 131003078
+      Orc_Chief_77: -443634717
+      Orc_Chief_78: -1883856280
+      Orc_Chief_79: 1577994086
       Orc_Chief_8: 5814480468964860383
+      Orc_Chief_80: -1094232512
+      Orc_Chief_81: 1190212427
+      Orc_Chief_82: -1474407570
+      Orc_Chief_83: -1216177713
+      Orc_Chief_84: 1170066989
+      Orc_Chief_85: 1781713059
+      Orc_Chief_86: 1048174161
+      Orc_Chief_87: 285409802
+      Orc_Chief_88: -1878582687
+      Orc_Chief_89: -114841989
       Orc_Chief_9: 3562348413738950201
+      Orc_Chief_90: -1879093043
+      Orc_Chief_91: -158108064
+      Orc_Chief_92: -1411460518
+      Orc_Chief_93: 977242510
+      Orc_Chief_94: -1115974900
+      Orc_Chief_95: -1365545337
+      Orc_Chief_96: 808867636
+      Orc_Chief_97: -1176744129
+      Orc_Chief_98: -526526330
+      Orc_Chief_99: 1753766958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
