@@ -47,13 +47,13 @@ TagManager:
   - name: Ground_Decor
     uniqueID: 404669989
     locked: 0
-  - name: Objects
+  - name: Objects(Background)
     uniqueID: 4131229129
     locked: 0
-  - name: Player
+  - name: Player(Foreground)
     uniqueID: 2278216895
     locked: 0
-  - name: Prompts UI
+  - name: UI
     uniqueID: 2713802893
     locked: 0
   m_RenderingLayers:
