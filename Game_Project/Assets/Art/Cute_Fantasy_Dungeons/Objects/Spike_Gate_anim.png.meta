@@ -328,7 +328,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -342,7 +342,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -366,7 +366,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -407,10 +407,10 @@ TextureImporter:
       name: Spike_Gate_anim_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 32
-        width: 31
-        height: 29
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,10 +429,10 @@ TextureImporter:
       name: Spike_Gate_anim_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 32
-        width: 31
-        height: 30
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,10 +451,10 @@ TextureImporter:
       name: Spike_Gate_anim_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 32
-        width: 31
-        height: 30
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,10 +473,10 @@ TextureImporter:
       name: Spike_Gate_anim_3
       rect:
         serializedVersion: 2
-        x: 97
-        y: 32
-        width: 31
-        height: 29
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +495,10 @@ TextureImporter:
       name: Spike_Gate_anim_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 32
-        width: 31
-        height: 28
+        x: 64
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,10 +517,10 @@ TextureImporter:
       name: Spike_Gate_anim_5
       rect:
         serializedVersion: 2
-        x: 161
-        y: 32
-        width: 31
-        height: 27
+        x: 80
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +539,10 @@ TextureImporter:
       name: Spike_Gate_anim_6
       rect:
         serializedVersion: 2
-        x: 193
-        y: 32
-        width: 31
-        height: 26
+        x: 96
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: Spike_Gate_anim_7
       rect:
         serializedVersion: 2
-        x: 225
-        y: 32
-        width: 31
-        height: 25
+        x: 112
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: Spike_Gate_anim_8
       rect:
         serializedVersion: 2
-        x: 257
-        y: 32
-        width: 31
-        height: 24
+        x: 128
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: Spike_Gate_anim_9
       rect:
         serializedVersion: 2
-        x: 289
-        y: 32
-        width: 31
-        height: 23
+        x: 144
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +627,10 @@ TextureImporter:
       name: Spike_Gate_anim_10
       rect:
         serializedVersion: 2
-        x: 321
-        y: 32
-        width: 31
-        height: 22
+        x: 160
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: Spike_Gate_anim_11
       rect:
         serializedVersion: 2
-        x: 353
-        y: 32
-        width: 31
-        height: 21
+        x: 176
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +671,10 @@ TextureImporter:
       name: Spike_Gate_anim_12
       rect:
         serializedVersion: 2
-        x: 385
-        y: 32
-        width: 31
-        height: 21
+        x: 192
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +693,10 @@ TextureImporter:
       name: Spike_Gate_anim_13
       rect:
         serializedVersion: 2
-        x: 417
-        y: 32
-        width: 31
-        height: 21
+        x: 208
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +715,10 @@ TextureImporter:
       name: Spike_Gate_anim_14
       rect:
         serializedVersion: 2
-        x: 449
-        y: 32
-        width: 31
-        height: 22
+        x: 224
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +737,10 @@ TextureImporter:
       name: Spike_Gate_anim_15
       rect:
         serializedVersion: 2
-        x: 481
-        y: 32
-        width: 31
-        height: 22
+        x: 240
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +759,10 @@ TextureImporter:
       name: Spike_Gate_anim_16
       rect:
         serializedVersion: 2
-        x: 513
-        y: 32
-        width: 31
-        height: 21
+        x: 256
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +781,10 @@ TextureImporter:
       name: Spike_Gate_anim_17
       rect:
         serializedVersion: 2
-        x: 545
-        y: 32
-        width: 31
-        height: 20
+        x: 272
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: Spike_Gate_anim_18
       rect:
         serializedVersion: 2
-        x: 577
-        y: 32
-        width: 31
-        height: 19
+        x: 288
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +825,10 @@ TextureImporter:
       name: Spike_Gate_anim_19
       rect:
         serializedVersion: 2
-        x: 609
-        y: 32
-        width: 31
-        height: 18
+        x: 304
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,10 +847,10 @@ TextureImporter:
       name: Spike_Gate_anim_20
       rect:
         serializedVersion: 2
-        x: 641
-        y: 32
-        width: 31
-        height: 17
+        x: 320
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,9 +869,9 @@ TextureImporter:
       name: Spike_Gate_anim_21
       rect:
         serializedVersion: 2
-        x: 673
-        y: 32
-        width: 31
+        x: 336
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -891,9 +891,9 @@ TextureImporter:
       name: Spike_Gate_anim_22
       rect:
         serializedVersion: 2
-        x: 705
-        y: 32
-        width: 31
+        x: 352
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -913,9 +913,9 @@ TextureImporter:
       name: Spike_Gate_anim_23
       rect:
         serializedVersion: 2
-        x: 737
-        y: 32
-        width: 31
+        x: 368
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -935,9 +935,9 @@ TextureImporter:
       name: Spike_Gate_anim_24
       rect:
         serializedVersion: 2
-        x: 769
-        y: 32
-        width: 31
+        x: 384
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -957,9 +957,9 @@ TextureImporter:
       name: Spike_Gate_anim_25
       rect:
         serializedVersion: 2
-        x: 801
-        y: 32
-        width: 31
+        x: 400
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -979,9 +979,9 @@ TextureImporter:
       name: Spike_Gate_anim_26
       rect:
         serializedVersion: 2
-        x: 833
-        y: 32
-        width: 31
+        x: 416
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1001,9 +1001,9 @@ TextureImporter:
       name: Spike_Gate_anim_27
       rect:
         serializedVersion: 2
-        x: 865
-        y: 32
-        width: 31
+        x: 432
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1023,9 +1023,9 @@ TextureImporter:
       name: Spike_Gate_anim_28
       rect:
         serializedVersion: 2
-        x: 897
-        y: 32
-        width: 31
+        x: 448
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1045,9 +1045,9 @@ TextureImporter:
       name: Spike_Gate_anim_29
       rect:
         serializedVersion: 2
-        x: 929
-        y: 32
-        width: 31
+        x: 464
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1067,9 +1067,9 @@ TextureImporter:
       name: Spike_Gate_anim_30
       rect:
         serializedVersion: 2
-        x: 961
-        y: 32
-        width: 31
+        x: 480
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1089,9 +1089,9 @@ TextureImporter:
       name: Spike_Gate_anim_31
       rect:
         serializedVersion: 2
-        x: 993
-        y: 32
-        width: 31
+        x: 496
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1111,9 +1111,9 @@ TextureImporter:
       name: Spike_Gate_anim_32
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 32
-        width: 31
+        x: 512
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1133,9 +1133,9 @@ TextureImporter:
       name: Spike_Gate_anim_33
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 32
-        width: 31
+        x: 528
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1155,9 +1155,9 @@ TextureImporter:
       name: Spike_Gate_anim_34
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 32
-        width: 31
+        x: 544
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1177,10 +1177,10 @@ TextureImporter:
       name: Spike_Gate_anim_35
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 32
-        width: 31
-        height: 15
+        x: 560
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1199,10 +1199,10 @@ TextureImporter:
       name: Spike_Gate_anim_36
       rect:
         serializedVersion: 2
-        x: 1153
-        y: 32
-        width: 31
-        height: 14
+        x: 576
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1221,10 +1221,10 @@ TextureImporter:
       name: Spike_Gate_anim_37
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 32
-        width: 31
-        height: 13
+        x: 592
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,10 +1243,10 @@ TextureImporter:
       name: Spike_Gate_anim_38
       rect:
         serializedVersion: 2
-        x: 1217
-        y: 32
-        width: 31
-        height: 12
+        x: 608
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,10 +1265,10 @@ TextureImporter:
       name: Spike_Gate_anim_39
       rect:
         serializedVersion: 2
-        x: 1249
-        y: 32
-        width: 31
-        height: 11
+        x: 624
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: Spike_Gate_anim_40
       rect:
         serializedVersion: 2
-        x: 1281
+        x: 0
         y: 32
-        width: 31
-        height: 10
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,10 +1309,10 @@ TextureImporter:
       name: Spike_Gate_anim_41
       rect:
         serializedVersion: 2
-        x: 1313
+        x: 16
         y: 32
-        width: 31
-        height: 9
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: Spike_Gate_anim_42
       rect:
         serializedVersion: 2
-        x: 1345
+        x: 32
         y: 32
-        width: 31
-        height: 8
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,10 +1353,10 @@ TextureImporter:
       name: Spike_Gate_anim_43
       rect:
         serializedVersion: 2
-        x: 1377
+        x: 48
         y: 32
-        width: 31
-        height: 7
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,10 +1375,10 @@ TextureImporter:
       name: Spike_Gate_anim_44
       rect:
         serializedVersion: 2
-        x: 1409
+        x: 64
         y: 32
-        width: 31
-        height: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1397,10 +1397,10 @@ TextureImporter:
       name: Spike_Gate_anim_45
       rect:
         serializedVersion: 2
-        x: 1441
+        x: 80
         y: 32
-        width: 31
-        height: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1419,10 +1419,10 @@ TextureImporter:
       name: Spike_Gate_anim_46
       rect:
         serializedVersion: 2
-        x: 1473
+        x: 96
         y: 32
-        width: 31
-        height: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,10 +1441,10 @@ TextureImporter:
       name: Spike_Gate_anim_47
       rect:
         serializedVersion: 2
-        x: 1505
+        x: 112
         y: 32
-        width: 31
-        height: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,10 +1463,10 @@ TextureImporter:
       name: Spike_Gate_anim_48
       rect:
         serializedVersion: 2
-        x: 1537
+        x: 128
         y: 32
-        width: 31
-        height: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1485,10 +1485,10 @@ TextureImporter:
       name: Spike_Gate_anim_49
       rect:
         serializedVersion: 2
-        x: 1
-        y: 0
-        width: 31
-        height: 6
+        x: 144
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1507,10 +1507,10 @@ TextureImporter:
       name: Spike_Gate_anim_50
       rect:
         serializedVersion: 2
-        x: 33
-        y: 0
-        width: 31
-        height: 6
+        x: 160
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1529,10 +1529,10 @@ TextureImporter:
       name: Spike_Gate_anim_51
       rect:
         serializedVersion: 2
-        x: 65
-        y: 0
-        width: 31
-        height: 6
+        x: 176
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1551,10 +1551,10 @@ TextureImporter:
       name: Spike_Gate_anim_52
       rect:
         serializedVersion: 2
-        x: 97
-        y: 0
-        width: 31
-        height: 6
+        x: 192
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1573,10 +1573,10 @@ TextureImporter:
       name: Spike_Gate_anim_53
       rect:
         serializedVersion: 2
-        x: 129
-        y: 0
-        width: 31
-        height: 6
+        x: 208
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1595,10 +1595,10 @@ TextureImporter:
       name: Spike_Gate_anim_54
       rect:
         serializedVersion: 2
-        x: 161
-        y: 0
-        width: 31
-        height: 7
+        x: 224
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1617,10 +1617,10 @@ TextureImporter:
       name: Spike_Gate_anim_55
       rect:
         serializedVersion: 2
-        x: 193
-        y: 0
-        width: 31
-        height: 8
+        x: 240
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1639,10 +1639,10 @@ TextureImporter:
       name: Spike_Gate_anim_56
       rect:
         serializedVersion: 2
-        x: 225
-        y: 0
-        width: 31
-        height: 9
+        x: 256
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1661,10 +1661,10 @@ TextureImporter:
       name: Spike_Gate_anim_57
       rect:
         serializedVersion: 2
-        x: 257
-        y: 0
-        width: 31
-        height: 10
+        x: 272
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1683,10 +1683,10 @@ TextureImporter:
       name: Spike_Gate_anim_58
       rect:
         serializedVersion: 2
-        x: 289
-        y: 0
-        width: 31
-        height: 11
+        x: 288
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,10 +1705,10 @@ TextureImporter:
       name: Spike_Gate_anim_59
       rect:
         serializedVersion: 2
-        x: 321
-        y: 0
-        width: 31
-        height: 12
+        x: 304
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1727,10 +1727,10 @@ TextureImporter:
       name: Spike_Gate_anim_60
       rect:
         serializedVersion: 2
-        x: 353
-        y: 0
-        width: 31
-        height: 13
+        x: 320
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1749,10 @@ TextureImporter:
       name: Spike_Gate_anim_61
       rect:
         serializedVersion: 2
-        x: 385
-        y: 0
-        width: 31
-        height: 14
+        x: 336
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1771,10 +1771,10 @@ TextureImporter:
       name: Spike_Gate_anim_62
       rect:
         serializedVersion: 2
-        x: 417
-        y: 0
-        width: 31
-        height: 15
+        x: 352
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,9 +1793,9 @@ TextureImporter:
       name: Spike_Gate_anim_63
       rect:
         serializedVersion: 2
-        x: 449
-        y: 0
-        width: 31
+        x: 368
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1815,9 +1815,9 @@ TextureImporter:
       name: Spike_Gate_anim_64
       rect:
         serializedVersion: 2
-        x: 481
-        y: 0
-        width: 31
+        x: 384
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1837,9 +1837,9 @@ TextureImporter:
       name: Spike_Gate_anim_65
       rect:
         serializedVersion: 2
-        x: 513
-        y: 0
-        width: 31
+        x: 400
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1859,9 +1859,9 @@ TextureImporter:
       name: Spike_Gate_anim_66
       rect:
         serializedVersion: 2
-        x: 545
-        y: 0
-        width: 31
+        x: 416
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1881,9 +1881,9 @@ TextureImporter:
       name: Spike_Gate_anim_67
       rect:
         serializedVersion: 2
-        x: 577
-        y: 0
-        width: 31
+        x: 432
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1903,9 +1903,9 @@ TextureImporter:
       name: Spike_Gate_anim_68
       rect:
         serializedVersion: 2
-        x: 609
-        y: 0
-        width: 31
+        x: 448
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1925,9 +1925,9 @@ TextureImporter:
       name: Spike_Gate_anim_69
       rect:
         serializedVersion: 2
-        x: 641
-        y: 0
-        width: 31
+        x: 464
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1947,9 +1947,9 @@ TextureImporter:
       name: Spike_Gate_anim_70
       rect:
         serializedVersion: 2
-        x: 673
-        y: 0
-        width: 31
+        x: 480
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1969,9 +1969,9 @@ TextureImporter:
       name: Spike_Gate_anim_71
       rect:
         serializedVersion: 2
-        x: 705
-        y: 0
-        width: 31
+        x: 496
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1991,9 +1991,9 @@ TextureImporter:
       name: Spike_Gate_anim_72
       rect:
         serializedVersion: 2
-        x: 737
-        y: 0
-        width: 31
+        x: 512
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2013,9 +2013,9 @@ TextureImporter:
       name: Spike_Gate_anim_73
       rect:
         serializedVersion: 2
-        x: 769
-        y: 0
-        width: 31
+        x: 528
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2035,9 +2035,9 @@ TextureImporter:
       name: Spike_Gate_anim_74
       rect:
         serializedVersion: 2
-        x: 801
-        y: 0
-        width: 31
+        x: 544
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2057,9 +2057,9 @@ TextureImporter:
       name: Spike_Gate_anim_75
       rect:
         serializedVersion: 2
-        x: 833
-        y: 0
-        width: 31
+        x: 560
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2079,9 +2079,9 @@ TextureImporter:
       name: Spike_Gate_anim_76
       rect:
         serializedVersion: 2
-        x: 865
-        y: 0
-        width: 31
+        x: 576
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2101,10 +2101,10 @@ TextureImporter:
       name: Spike_Gate_anim_77
       rect:
         serializedVersion: 2
-        x: 897
-        y: 0
-        width: 31
-        height: 17
+        x: 592
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2123,10 +2123,10 @@ TextureImporter:
       name: Spike_Gate_anim_78
       rect:
         serializedVersion: 2
-        x: 929
-        y: 0
-        width: 31
-        height: 18
+        x: 608
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2145,10 +2145,10 @@ TextureImporter:
       name: Spike_Gate_anim_79
       rect:
         serializedVersion: 2
-        x: 961
-        y: 0
-        width: 31
-        height: 19
+        x: 624
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2167,10 +2167,10 @@ TextureImporter:
       name: Spike_Gate_anim_80
       rect:
         serializedVersion: 2
-        x: 993
-        y: 0
-        width: 31
-        height: 20
+        x: 640
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2189,10 +2189,10 @@ TextureImporter:
       name: Spike_Gate_anim_81
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 0
-        width: 31
-        height: 21
+        x: 656
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,10 +2211,10 @@ TextureImporter:
       name: Spike_Gate_anim_82
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 0
-        width: 31
-        height: 22
+        x: 672
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2233,10 +2233,10 @@ TextureImporter:
       name: Spike_Gate_anim_83
       rect:
         serializedVersion: 2
-        x: 1089
-        y: 0
-        width: 31
-        height: 22
+        x: 688
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2255,10 +2255,10 @@ TextureImporter:
       name: Spike_Gate_anim_84
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 0
-        width: 31
-        height: 21
+        x: 704
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2277,10 +2277,10 @@ TextureImporter:
       name: Spike_Gate_anim_85
       rect:
         serializedVersion: 2
-        x: 1153
-        y: 0
-        width: 31
-        height: 21
+        x: 720
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,10 +2299,10 @@ TextureImporter:
       name: Spike_Gate_anim_86
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 0
-        width: 31
-        height: 21
+        x: 736
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2321,10 +2321,10 @@ TextureImporter:
       name: Spike_Gate_anim_87
       rect:
         serializedVersion: 2
-        x: 1217
-        y: 0
-        width: 31
-        height: 22
+        x: 752
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2343,10 +2343,10 @@ TextureImporter:
       name: Spike_Gate_anim_88
       rect:
         serializedVersion: 2
-        x: 1249
-        y: 0
-        width: 31
-        height: 23
+        x: 768
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2365,10 +2365,10 @@ TextureImporter:
       name: Spike_Gate_anim_89
       rect:
         serializedVersion: 2
-        x: 1281
-        y: 0
-        width: 31
-        height: 24
+        x: 784
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2387,10 +2387,10 @@ TextureImporter:
       name: Spike_Gate_anim_90
       rect:
         serializedVersion: 2
-        x: 1313
-        y: 0
-        width: 31
-        height: 25
+        x: 800
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2409,10 +2409,10 @@ TextureImporter:
       name: Spike_Gate_anim_91
       rect:
         serializedVersion: 2
-        x: 1345
-        y: 0
-        width: 31
-        height: 26
+        x: 816
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2431,10 +2431,10 @@ TextureImporter:
       name: Spike_Gate_anim_92
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 0
-        width: 31
-        height: 27
+        x: 832
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2453,10 +2453,10 @@ TextureImporter:
       name: Spike_Gate_anim_93
       rect:
         serializedVersion: 2
-        x: 1409
-        y: 0
-        width: 31
-        height: 28
+        x: 848
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2475,10 +2475,10 @@ TextureImporter:
       name: Spike_Gate_anim_94
       rect:
         serializedVersion: 2
-        x: 1441
-        y: 0
-        width: 31
-        height: 29
+        x: 864
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2497,10 @@ TextureImporter:
       name: Spike_Gate_anim_95
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 0
-        width: 31
-        height: 30
+        x: 880
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2519,10 +2519,10 @@ TextureImporter:
       name: Spike_Gate_anim_96
       rect:
         serializedVersion: 2
-        x: 1505
-        y: 0
-        width: 31
-        height: 30
+        x: 896
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2541,10 +2541,10 @@ TextureImporter:
       name: Spike_Gate_anim_97
       rect:
         serializedVersion: 2
-        x: 1537
-        y: 0
-        width: 31
-        height: 29
+        x: 912
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2559,11 +2559,3927 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_98
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc6c128ee274c0b9b908e7dd9060ac
+      internalID: 207813393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_99
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ea6f125a62a488a89dbfc74e6511ba
+      internalID: -1284796051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca700f05843a6424fa6080b230879a27
+      internalID: -886011700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_101
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da64a3ac643b43d48a62c25690abc65
+      internalID: 1612094149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_102
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7136fd63115824af085e18ca0766133d
+      internalID: -291355846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_103
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12deb1889ba284a409c2304032471546
+      internalID: 81983015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200d0456a85744879d8b81a0119e1b4
+      internalID: 1402877487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_105
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dde759ca74d14c3798d3ba8d7e77f56
+      internalID: 1886380628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_106
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad446b5521f45aba18eb09be2cbaed
+      internalID: -1045793022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_107
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b257319af994171bab5e947fdf511a
+      internalID: 1477201778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_108
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c882bebd0d1b4e74a46bb3f667139e2
+      internalID: 952838826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_109
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4209da6ca3423592746c158cc6d57
+      internalID: -2008434789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_110
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd41fe088d24eb8b2a7f8b15cfd05c
+      internalID: -959828796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_111
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912c09a7ec274198a8c8a27f7ca7629
+      internalID: 1466505831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_112
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e77233085e0049599d24df07cf32553
+      internalID: 65873099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_113
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cddc09ffa9b5441bb6a301be783eb2f
+      internalID: -1693810067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_114
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953590037039440b8f21b7c6b636250
+      internalID: 572098145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6d4c19379740f393f21709290ed15
+      internalID: 793595053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_116
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baca85d86fcc4f3799fd1f8945c515a
+      internalID: 1678846066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_117
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63142e2576c174a449faeba9225e37d8
+      internalID: 1064506495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_118
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697ae5afa6b14897aeec96d42695019
+      internalID: 1689257593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_119
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e1712280b142e6b618504074e51e5
+      internalID: -564016314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_120
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2b7a25744d44b69acc223d572af93
+      internalID: -1658613115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_121
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9f8542d76304694976a31d4301630d
+      internalID: -634647603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_122
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057bd766243674b39a310400cc001304
+      internalID: 1246694379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_123
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af60be7e9df4e538d8dc17d476af83
+      internalID: 1051872524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_124
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f36b299d96e45e2802ba8d17c5bb91
+      internalID: 108434134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_125
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16878e2ecf8b84d1f907b9c4535823dc
+      internalID: 561846639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_126
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92551a533f8ed4088a921fb05378223b
+      internalID: 790521339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_127
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04699c947d34ba5950cc010ba9bd7b
+      internalID: 1710734782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_128
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f265c8a4cd5649d0901570209f7fdc9
+      internalID: 1629361918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_129
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4942c0a6b2e42718ff9072f35c493b
+      internalID: -102938075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_130
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f8ed2716b54d9da7f5f4e53836e37
+      internalID: -1576720260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_131
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa607d1cb0adc46bba20d4c2f0ef4789
+      internalID: 1669663657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_132
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff52e4c2ac64e00b1551780ec795b3
+      internalID: -1668377561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_133
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e3c42353dd49f0a22006082160290
+      internalID: 1154834053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_134
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b69d64051904761a8224d2cfb135d1
+      internalID: -140016411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_135
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdb0b30b634b4531904cc4d2f706088
+      internalID: -107453085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_136
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156782e7d6017437083ac8d9e4c06a01
+      internalID: 1130880190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_137
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164822ec77ec4a2da028f602f159b29
+      internalID: 985868493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_138
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0e7ae28cb64e46b8b45bbe3daf0e0
+      internalID: -1790853656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_139
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a2296543ab4bd4a271822ae93801e
+      internalID: -983613295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_140
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965cc9edb03e4370a7e524ac6875aa8
+      internalID: -1431120852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_141
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82737c8e9f4d6425ea851a2eabda2ef1
+      internalID: -1980680499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_142
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280a02bcf6a14ffdb6d34ce6379f2eb
+      internalID: 1678807062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_143
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c46ff2294bf4939af98ebabece9db5
+      internalID: 131489415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_144
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10258e5747564939886df7a50cb3643
+      internalID: 188249323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_145
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096294f349f14f249afba36f91c9f65
+      internalID: -735809731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_146
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68d4ab7a4874c8684b6637f1fbad41
+      internalID: -2054833841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_147
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df2e7738f81401aa863ac1166e426b
+      internalID: 767618853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_148
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc82b1420abb40caad62f45a41021a2
+      internalID: 165306556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_149
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae3c523dd1d4552a0704e141cbaecb
+      internalID: 1887612341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_150
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341088625850844bbb61f1e52d4a5f09
+      internalID: -91809249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_151
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e0e78f593d40f1964c00470cd9aed
+      internalID: -78970323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8142b938cd45749b06cf6ee4ef5f9
+      internalID: 1718731321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_153
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833dfa7d859164be4b514688b93c8c94
+      internalID: -945201089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_154
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17306db1b3543f8b5e9e20e984e2db
+      internalID: -740194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067a83d1ce654713b7d8bb236295fe2
+      internalID: -1316318879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_156
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a66098c661b47f4a67b0a0a9dbcb8f
+      internalID: 557143355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_157
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f2fc0db7d24230986c0a781662f1d
+      internalID: 1538758976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_158
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb7f73dbb704fb5bcd23ff51a14767
+      internalID: -159967841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_159
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831a6b5090b84920a3d07371ea47d80
+      internalID: -1384273650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_160
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4809bbeb44a048e0ab896ceffbd2dd6
+      internalID: -624354130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_161
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889f1525a5b445e7b97ad02cd9375c4
+      internalID: 3186547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_162
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4695e6f7c19941628fc062d71aeeae3
+      internalID: 1158530606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_163
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8560b37a8548c5833d60ee783c6a7
+      internalID: -2122174549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_164
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5afdf9ff31a49e6a79dd409563a991
+      internalID: -1425479326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_165
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e95208db5614b16990b927f087f16c
+      internalID: -1935469737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_166
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ecdcd617fd46ff9a9c7c7afca8232
+      internalID: -573798661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_167
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6faa7e9c1514f5c9d220bb064bd0fe
+      internalID: 709387639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_168
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf60cff89cba4a68b19d6a570016cde
+      internalID: 1603566579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_169
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341f17a270cf41e8830db4ae3ff8afd
+      internalID: 501331973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_170
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0492bd6028714f119f5e8dbb725248d
+      internalID: 2057422693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_171
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164073df7c414b6ea553c026133e949
+      internalID: -1804539219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_172
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5789081315b0421cba5b26eade6fd4d
+      internalID: 1782530268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_173
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261d41ca9f6f40c1b72d1ef340f43ea
+      internalID: -48617640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_174
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8958d233de46fb8126811401a4c3e
+      internalID: 1667543273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_175
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eace239ee6cf4ac497ed3dd2d5bfd42
+      internalID: 432085957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_176
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e67ab50d999445ccb4269bc651a1121
+      internalID: -979367303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_177
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeefd9c681e24b1db9706f9e21a2ccd
+      internalID: 1753709345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4e6ce295674191a1169b78c71fa31
+      internalID: 412087853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2746b82dda476da9adad643ef1663
+      internalID: 977491346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8293f1222e8b48548bf1b77a2af2187
+      internalID: 1852614826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bb868fb9455493c8f0e05be7fb263c
+      internalID: -1602382402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191d700657d24894a53d5f9ea949f56
+      internalID: 242723969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5679e07ad0c4857874a94c5c71461e
+      internalID: 1363516820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59e0cf8796047b0b5e1dbeeb56dc4c
+      internalID: -1378933090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05df09523dce4560b78b8aadf238262
+      internalID: -1029941026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc07544fbdc4a6dae4037a23a78daf
+      internalID: 784464076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943020ada2f644636885431e56af5547
+      internalID: -432925580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b18ee0210b47198a01ee22c6971b4
+      internalID: -1273082138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6438a52d1a0c4b00a0b65fbc12dcb08
+      internalID: -1940609291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49fa94f89d63406290e21176977923b
+      internalID: 80137878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736352d2d0f8a4eae8e3fca19672220a
+      internalID: -1839068823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042d96cc7fde4a91b762ee6e85c5a14
+      internalID: 382471712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce75df578e6674a5c91c853c45b74cfa
+      internalID: 1471145196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ead3f12686d425f8549e9131864078
+      internalID: -1569680517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_195
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820b463d1ce44a24ae8b6aba7d17c59
+      internalID: 1329591570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_196
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b39700b3afa45c782011969c9ad7cc
+      internalID: -1072732181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_197
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3671c031da25e4b41b82c80e9ce5ac5a
+      internalID: 45559870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a5bbc5ec6d497fa17803cb59b1b2d
+      internalID: -1375444882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15320a9e634e4987a6b5ee487acf117
+      internalID: -1877146537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f29e7bf1f5490c87229393e00d97b
+      internalID: 1775379219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_201
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a92568bf67d41c8b6514bfd4ae6d11
+      internalID: 276906093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f688126e82c9462196bebc289a83757
+      internalID: -1881658050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_203
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc8f7df6bed44538da292909d3ebae
+      internalID: 706686982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_204
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a30ab9218e4498a078368a1cece02
+      internalID: 614968498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_205
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8cd00cda210424095127b3dbe8617b
+      internalID: 357658648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43faedefb21514a1cb785887c4ca759e
+      internalID: 1671887039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_207
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68232576c81b049909909e06b7777bac
+      internalID: 870695737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_208
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f397caee72da407da58de197bc5ca56
+      internalID: -1949836888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_209
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86fb9b348964247b93fe241acb4dac
+      internalID: 318861395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_210
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7494fef80e7435caf78dac0972b4f9
+      internalID: 311912693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_211
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ad71d71194445aa1beb0f1a5b1245
+      internalID: 958999226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135fcce02bf41439888339cad73f6de0
+      internalID: 128685426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_213
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4eb661cc3a24a828472c51dd5ed09c
+      internalID: -1073657390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_214
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab3a6f6fcb14b09b583b4a7604a682
+      internalID: 1820210649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_215
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac52bbd0c844c13850540a3b25570c
+      internalID: -1005281097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_216
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c5a810691a4a9694be9f184bfd11f
+      internalID: 1684367752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_217
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95b69f9eac84c3185c1e2e92627d77
+      internalID: 1973441373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e541de681bbc4431a85d4b3028293263
+      internalID: -1009212913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_219
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73623146a030f407cb5f86af603e97c6
+      internalID: -1069830341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_220
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7ad5bd0e034460afd241be4a1d90a
+      internalID: -1648296888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_221
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce785f5f98740d68484226bf75c6f3
+      internalID: 1519495705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_222
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc50e0ad9049e48abab1bb2ad491490d
+      internalID: 1646574975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659aecd9a5884a84b2841e135b638f5
+      internalID: 48205594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_224
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4df766a89164e2d9c6ac5c01594d08
+      internalID: -1762744898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_225
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4597d118e663b41cca0156054463a9a5
+      internalID: -1193008014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_226
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2980e62046448e08237eed3773a9f3
+      internalID: -1765543431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_227
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc2523fc7d3d4338bcd994c6146c333
+      internalID: -1305205694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe1a784be3d45379b4003345b7b4f8
+      internalID: 377402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_229
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00735eec16145eb9481771a4befb06
+      internalID: -82982639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_230
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f85306cbcdd44f0bd520defa1e6130
+      internalID: -692785132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_231
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd667e245ee4a4343b84d0eed2dda898
+      internalID: -1439790844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_232
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d871c536664e11b48e4d4377c6cb3
+      internalID: 487275141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_233
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e80c1c1e984b638a53a5f5cdc2f3f
+      internalID: 64711046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_234
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06adecf375ec49bfaa104128d4f2afd
+      internalID: -525798588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_235
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacc48bf671243a786088719f70de7a
+      internalID: 1005016391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_236
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ff0d54de83407d805095bb3dfb2e3
+      internalID: -1271059763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_237
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ec25f6536f5432b9139de4c60e63db
+      internalID: 277775855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_238
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2cadb2f7cf454c9a1976c56bee385
+      internalID: -1692101998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_239
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a8dd8d08f74a4ea959c284f71b446
+      internalID: 2079786617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_240
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee064292264c94d4795f5e886d0ffde3
+      internalID: -792436863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_241
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508a9707a9aa41809ad95a43f5431a5
+      internalID: 260058035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_242
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed181a600af5a4921acd39670106125e
+      internalID: -501515949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_243
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4d16d395004be2b9acf3044a2504d
+      internalID: -683165093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_244
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d027841edc341919b29f2efdbad54e
+      internalID: -434194273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_245
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc9ab55885c7478cbda79d39496a0ba
+      internalID: 163549399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_246
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e96cac5477486d9cb095ece10b207
+      internalID: 827357093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_247
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804213bfed9c4e63884b9f99e86d004
+      internalID: -1428019861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_248
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc6452416d54c2185c8231dee7b733
+      internalID: 92471925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_249
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624012b59be2946e7850b20dd8d058af
+      internalID: -565181455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_250
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf9a79d821948b5a2acefde985660f
+      internalID: -201110555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_251
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d9e6b76bd94fc2819e3c9a79b8cab
+      internalID: -1384429020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_252
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00128c8bc9f2946aabcb399336aad587
+      internalID: 1823013437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_253
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806fa54b909c4da89db53323dbb8ecf
+      internalID: 358614082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_254
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269553590cdba43508837e6dccd2a97c
+      internalID: -62358778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_255
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef456e8643da46ec940d9b5064fdab1
+      internalID: -978120144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_256
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e4d20d0aa5404ea161686af8d7f3b
+      internalID: 49506955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_257
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee17402e4b8418ca5cbd1fdcba28ff
+      internalID: -1838580033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_258
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c816eb53234691a64ad81ea29a6f5
+      internalID: -178627865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_259
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f585f3fd77440e3a57f2cee5bfdf72
+      internalID: -663448891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_260
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94eac5946c2e4b1d9c122f8ff23c6d4
+      internalID: -1019772604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_261
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1065e843f632442083b0dc318832585
+      internalID: 1258464060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_262
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80314d3dcd80a443988df3a0ac0e1044
+      internalID: 1251840643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_263
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e888cc828d4ad1941d367b814c8f9
+      internalID: 1463956331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_264
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e331d0aa0224968855e0a49af77f5e
+      internalID: 1045493011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_265
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fb75b5080b43809c4311795af2a8a
+      internalID: -1264238342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_266
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38cd6426d9e0424cb74d34c28ab3e1f
+      internalID: 1720697802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_267
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0fe6d74d14a40d083929a26bb8ad66
+      internalID: -1422612495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_268
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c90ae4ffc54f42809bf852a6ee141
+      internalID: -2084701181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_269
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0a6372149e4c9d9699074b4268e6f
+      internalID: -1781714660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_270
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a64402c4f046abbfbbbf3167367c7
+      internalID: 185080153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_271
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27c956505b64cbf8ac0c915f4d3d21
+      internalID: -1233706108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_272
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d614b0dd453a47f58fe9601f0bf1df2
+      internalID: -740204117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_273
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2287766d160bc40768eeeb76399e8341
+      internalID: -569111978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_274
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d37a9c693ce4252bc18449f920ef3f
+      internalID: 381756127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike_Gate_anim_275
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5be7d74ae64ef68f138d42459138b
+      internalID: 1775533041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7499d400487c548b296d71c659b439cc
     internalID: 0
     vertices: []
     indices: 
@@ -2576,24 +6492,200 @@ TextureImporter:
       Spike_Gate_anim_0: 2437814038984792343
       Spike_Gate_anim_1: -1526370421047428308
       Spike_Gate_anim_10: -2583421296108946313
+      Spike_Gate_anim_100: -886011700
+      Spike_Gate_anim_101: 1612094149
+      Spike_Gate_anim_102: -291355846
+      Spike_Gate_anim_103: 81983015
+      Spike_Gate_anim_104: 1402877487
+      Spike_Gate_anim_105: 1886380628
+      Spike_Gate_anim_106: -1045793022
+      Spike_Gate_anim_107: 1477201778
+      Spike_Gate_anim_108: 952838826
+      Spike_Gate_anim_109: -2008434789
       Spike_Gate_anim_11: 4275591020897275435
+      Spike_Gate_anim_110: -959828796
+      Spike_Gate_anim_111: 1466505831
+      Spike_Gate_anim_112: 65873099
+      Spike_Gate_anim_113: -1693810067
+      Spike_Gate_anim_114: 572098145
+      Spike_Gate_anim_115: 793595053
+      Spike_Gate_anim_116: 1678846066
+      Spike_Gate_anim_117: 1064506495
+      Spike_Gate_anim_118: 1689257593
+      Spike_Gate_anim_119: -564016314
       Spike_Gate_anim_12: -5986689907239020881
+      Spike_Gate_anim_120: -1658613115
+      Spike_Gate_anim_121: -634647603
+      Spike_Gate_anim_122: 1246694379
+      Spike_Gate_anim_123: 1051872524
+      Spike_Gate_anim_124: 108434134
+      Spike_Gate_anim_125: 561846639
+      Spike_Gate_anim_126: 790521339
+      Spike_Gate_anim_127: 1710734782
+      Spike_Gate_anim_128: 1629361918
+      Spike_Gate_anim_129: -102938075
       Spike_Gate_anim_13: -8388138921909536177
+      Spike_Gate_anim_130: -1576720260
+      Spike_Gate_anim_131: 1669663657
+      Spike_Gate_anim_132: -1668377561
+      Spike_Gate_anim_133: 1154834053
+      Spike_Gate_anim_134: -140016411
+      Spike_Gate_anim_135: -107453085
+      Spike_Gate_anim_136: 1130880190
+      Spike_Gate_anim_137: 985868493
+      Spike_Gate_anim_138: -1790853656
+      Spike_Gate_anim_139: -983613295
       Spike_Gate_anim_14: -7510384867539409521
+      Spike_Gate_anim_140: -1431120852
+      Spike_Gate_anim_141: -1980680499
+      Spike_Gate_anim_142: 1678807062
+      Spike_Gate_anim_143: 131489415
+      Spike_Gate_anim_144: 188249323
+      Spike_Gate_anim_145: -735809731
+      Spike_Gate_anim_146: -2054833841
+      Spike_Gate_anim_147: 767618853
+      Spike_Gate_anim_148: 165306556
+      Spike_Gate_anim_149: 1887612341
       Spike_Gate_anim_15: -1101763581523275807
+      Spike_Gate_anim_150: -91809249
+      Spike_Gate_anim_151: -78970323
+      Spike_Gate_anim_152: 1718731321
+      Spike_Gate_anim_153: -945201089
+      Spike_Gate_anim_154: -740194306
+      Spike_Gate_anim_155: -1316318879
+      Spike_Gate_anim_156: 557143355
+      Spike_Gate_anim_157: 1538758976
+      Spike_Gate_anim_158: -159967841
+      Spike_Gate_anim_159: -1384273650
       Spike_Gate_anim_16: -4178805108279817824
+      Spike_Gate_anim_160: -624354130
+      Spike_Gate_anim_161: 3186547
+      Spike_Gate_anim_162: 1158530606
+      Spike_Gate_anim_163: -2122174549
+      Spike_Gate_anim_164: -1425479326
+      Spike_Gate_anim_165: -1935469737
+      Spike_Gate_anim_166: -573798661
+      Spike_Gate_anim_167: 709387639
+      Spike_Gate_anim_168: 1603566579
+      Spike_Gate_anim_169: 501331973
       Spike_Gate_anim_17: -7089836679781258935
+      Spike_Gate_anim_170: 2057422693
+      Spike_Gate_anim_171: -1804539219
+      Spike_Gate_anim_172: 1782530268
+      Spike_Gate_anim_173: -48617640
+      Spike_Gate_anim_174: 1667543273
+      Spike_Gate_anim_175: 432085957
+      Spike_Gate_anim_176: -979367303
+      Spike_Gate_anim_177: 1753709345
+      Spike_Gate_anim_178: 412087853
+      Spike_Gate_anim_179: 977491346
       Spike_Gate_anim_18: 5253275456333334525
+      Spike_Gate_anim_180: 1852614826
+      Spike_Gate_anim_181: -1602382402
+      Spike_Gate_anim_182: 242723969
+      Spike_Gate_anim_183: 1363516820
+      Spike_Gate_anim_184: -1378933090
+      Spike_Gate_anim_185: -1029941026
+      Spike_Gate_anim_186: 784464076
+      Spike_Gate_anim_187: -432925580
+      Spike_Gate_anim_188: -1273082138
+      Spike_Gate_anim_189: -1940609291
       Spike_Gate_anim_19: 7326279930107212351
+      Spike_Gate_anim_190: 80137878
+      Spike_Gate_anim_191: -1839068823
+      Spike_Gate_anim_192: 382471712
+      Spike_Gate_anim_193: 1471145196
+      Spike_Gate_anim_194: -1569680517
+      Spike_Gate_anim_195: 1329591570
+      Spike_Gate_anim_196: -1072732181
+      Spike_Gate_anim_197: 45559870
+      Spike_Gate_anim_198: -1375444882
+      Spike_Gate_anim_199: -1877146537
       Spike_Gate_anim_2: 1278823638090605284
       Spike_Gate_anim_20: -685762080324116284
+      Spike_Gate_anim_200: 1775379219
+      Spike_Gate_anim_201: 276906093
+      Spike_Gate_anim_202: -1881658050
+      Spike_Gate_anim_203: 706686982
+      Spike_Gate_anim_204: 614968498
+      Spike_Gate_anim_205: 357658648
+      Spike_Gate_anim_206: 1671887039
+      Spike_Gate_anim_207: 870695737
+      Spike_Gate_anim_208: -1949836888
+      Spike_Gate_anim_209: 318861395
       Spike_Gate_anim_21: -255694731017536778
+      Spike_Gate_anim_210: 311912693
+      Spike_Gate_anim_211: 958999226
+      Spike_Gate_anim_212: 128685426
+      Spike_Gate_anim_213: -1073657390
+      Spike_Gate_anim_214: 1820210649
+      Spike_Gate_anim_215: -1005281097
+      Spike_Gate_anim_216: 1684367752
+      Spike_Gate_anim_217: 1973441373
+      Spike_Gate_anim_218: -1009212913
+      Spike_Gate_anim_219: -1069830341
       Spike_Gate_anim_22: -6341990609883547236
+      Spike_Gate_anim_220: -1648296888
+      Spike_Gate_anim_221: 1519495705
+      Spike_Gate_anim_222: 1646574975
+      Spike_Gate_anim_223: 48205594
+      Spike_Gate_anim_224: -1762744898
+      Spike_Gate_anim_225: -1193008014
+      Spike_Gate_anim_226: -1765543431
+      Spike_Gate_anim_227: -1305205694
+      Spike_Gate_anim_228: 377402860
+      Spike_Gate_anim_229: -82982639
       Spike_Gate_anim_23: 1171568983385970292
+      Spike_Gate_anim_230: -692785132
+      Spike_Gate_anim_231: -1439790844
+      Spike_Gate_anim_232: 487275141
+      Spike_Gate_anim_233: 64711046
+      Spike_Gate_anim_234: -525798588
+      Spike_Gate_anim_235: 1005016391
+      Spike_Gate_anim_236: -1271059763
+      Spike_Gate_anim_237: 277775855
+      Spike_Gate_anim_238: -1692101998
+      Spike_Gate_anim_239: 2079786617
       Spike_Gate_anim_24: -5160364620542906478
+      Spike_Gate_anim_240: -792436863
+      Spike_Gate_anim_241: 260058035
+      Spike_Gate_anim_242: -501515949
+      Spike_Gate_anim_243: -683165093
+      Spike_Gate_anim_244: -434194273
+      Spike_Gate_anim_245: 163549399
+      Spike_Gate_anim_246: 827357093
+      Spike_Gate_anim_247: -1428019861
+      Spike_Gate_anim_248: 92471925
+      Spike_Gate_anim_249: -565181455
       Spike_Gate_anim_25: 106036843336372926
+      Spike_Gate_anim_250: -201110555
+      Spike_Gate_anim_251: -1384429020
+      Spike_Gate_anim_252: 1823013437
+      Spike_Gate_anim_253: 358614082
+      Spike_Gate_anim_254: -62358778
+      Spike_Gate_anim_255: -978120144
+      Spike_Gate_anim_256: 49506955
+      Spike_Gate_anim_257: -1838580033
+      Spike_Gate_anim_258: -178627865
+      Spike_Gate_anim_259: -663448891
       Spike_Gate_anim_26: 7925504835892902613
+      Spike_Gate_anim_260: -1019772604
+      Spike_Gate_anim_261: 1258464060
+      Spike_Gate_anim_262: 1251840643
+      Spike_Gate_anim_263: 1463956331
+      Spike_Gate_anim_264: 1045493011
+      Spike_Gate_anim_265: -1264238342
+      Spike_Gate_anim_266: 1720697802
+      Spike_Gate_anim_267: -1422612495
+      Spike_Gate_anim_268: -2084701181
+      Spike_Gate_anim_269: -1781714660
       Spike_Gate_anim_27: -6242839382327733257
+      Spike_Gate_anim_270: 185080153
+      Spike_Gate_anim_271: -1233706108
+      Spike_Gate_anim_272: -740204117
+      Spike_Gate_anim_273: -569111978
+      Spike_Gate_anim_274: 381756127
+      Spike_Gate_anim_275: 1775533041
       Spike_Gate_anim_28: 4055267135736733200
       Spike_Gate_anim_29: 706092393737113049
       Spike_Gate_anim_3: 7322285339772216815
@@ -2671,6 +6763,8 @@ TextureImporter:
       Spike_Gate_anim_95: 7617453174369791178
       Spike_Gate_anim_96: -6982213128470477934
       Spike_Gate_anim_97: 2201579328411728216
+      Spike_Gate_anim_98: 207813393
+      Spike_Gate_anim_99: -1284796051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

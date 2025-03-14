@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,9 +162,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 99
+        y: 96
         width: 16
-        height: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,9 +184,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 99
+        y: 96
         width: 16
-        height: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,9 +206,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 99
+        y: 96
         width: 16
-        height: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,9 +228,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 99
+        y: 96
         width: 16
-        height: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: NPC_test_4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 67
-        width: 15
-        height: 23
+        x: 0
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,10 +271,10 @@ TextureImporter:
       name: NPC_test_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 67
-        width: 15
-        height: 22
+        x: 16
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,10 +293,10 @@ TextureImporter:
       name: NPC_test_6
       rect:
         serializedVersion: 2
-        x: 33
-        y: 67
-        width: 15
-        height: 23
+        x: 32
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: NPC_test_7
       rect:
         serializedVersion: 2
-        x: 49
-        y: 67
-        width: 15
-        height: 22
+        x: 48
+        y: 64
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,9 +338,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 35
+        y: 32
         width: 16
-        height: 24
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,9 +360,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 35
+        y: 32
         width: 16
-        height: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,9 +382,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 35
+        y: 32
         width: 16
-        height: 24
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,9 +404,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 35
+        y: 32
         width: 16
-        height: 23
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,9 +426,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3
-        width: 15
-        height: 23
+        y: 0
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,9 +448,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 3
-        width: 15
-        height: 22
+        y: 0
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,9 +470,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 3
-        width: 15
-        height: 23
+        y: 0
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,9 +492,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 3
-        width: 15
-        height: 22
+        y: 0
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e71a09d9999ba4055b9934425e6bdd00
     internalID: 0
     vertices: []
     indices: 

@@ -23,6 +23,8 @@ public class PlayerMovement : MonoBehaviour
     private InputAction interact;
     private InputAction roll;
     Vector2 moveDirection = Vector2.zero;
+    public bool CanBeHit = true; // Prevents multiple hits  
+    public float hitCooldown = 0.5f;    // Time before another hit is registered
 
     private AudioSource audioSource;
     public AudioClip[] attackSounds;
@@ -238,6 +240,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             animator.SetBool("moving", false);
+            currentState = PlayerState.idle;
         }
     }
 
@@ -245,6 +248,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(currentState == PlayerState.idle || currentState == PlayerState.walk)
         {
+            currentState = PlayerState.walk;
             myRigidbody.linearVelocity = new Vector2(moveDirection.x * speed, moveDirection.y * speed);
         }
     }
@@ -253,9 +257,12 @@ public class PlayerMovement : MonoBehaviour
     {
         currentHealth.RuntimeValue -= damage;
         playerHealthSignal.Raise();
-        if (currentHealth.RuntimeValue > 0)
+        if (currentHealth.RuntimeValue > 0 && CanBeHit)
         {
-            StartCoroutine(KnockCo(knockTime));
+            CanBeHit = false;  
+        currentState = PlayerState.stagger; 
+        StartCoroutine(KnockCo(knockTime));
+        StartCoroutine(HitCooldown());
         }
         else
         {
@@ -288,6 +295,11 @@ public class PlayerMovement : MonoBehaviour
             currentState = PlayerState.idle;
             myRigidbody.linearVelocity = Vector2.zero;
         }
+    }
+    private IEnumerator HitCooldown()
+    {
+        yield return new WaitForSeconds(hitCooldown);
+        CanBeHit = true;
     }
 
     // Coroutine to wait for the death animation to finish and then disable the object

@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -213,9 +213,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 15
-        width: 128
-        height: 17
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: Floor_Spikes_2_1
       rect:
         serializedVersion: 2
-        x: 49
-        y: 8
-        width: 7
-        height: 7
+        x: 16
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Floor_Spikes_2_2
       rect:
         serializedVersion: 2
-        x: 56
-        y: 8
-        width: 7
-        height: 7
+        x: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Floor_Spikes_2_3
       rect:
         serializedVersion: 2
-        x: 65
-        y: 8
-        width: 7
-        height: 8
+        x: 48
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Floor_Spikes_2_4
       rect:
         serializedVersion: 2
-        x: 72
-        y: 8
-        width: 7
-        height: 8
+        x: 64
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Floor_Spikes_2_5
       rect:
         serializedVersion: 2
-        x: 81
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Floor_Spikes_2_6
       rect:
         serializedVersion: 2
-        x: 88
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: Floor_Spikes_2_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 8
-        width: 7
-        height: 6
+        x: 112
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: Floor_Spikes_2_8
       rect:
         serializedVersion: 2
-        x: 8
-        y: 8
-        width: 7
-        height: 6
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: Floor_Spikes_2_9
       rect:
         serializedVersion: 2
-        x: 17
-        y: 8
-        width: 7
-        height: 6
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: Floor_Spikes_2_10
       rect:
         serializedVersion: 2
-        x: 24
-        y: 8
-        width: 7
-        height: 6
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: Floor_Spikes_2_11
       rect:
         serializedVersion: 2
-        x: 33
-        y: 8
-        width: 7
-        height: 6
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +476,10 @@ TextureImporter:
       name: Floor_Spikes_2_12
       rect:
         serializedVersion: 2
-        x: 40
-        y: 8
-        width: 7
-        height: 6
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +498,10 @@ TextureImporter:
       name: Floor_Spikes_2_13
       rect:
         serializedVersion: 2
-        x: 49
-        y: 1
-        width: 7
-        height: 7
+        x: 80
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: Floor_Spikes_2_14
       rect:
         serializedVersion: 2
-        x: 56
-        y: 1
-        width: 7
-        height: 7
+        x: 96
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: Floor_Spikes_2_15
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1
-        width: 7
-        height: 8
+        x: 112
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,385 +560,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_16
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 1
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37f89ea64a36e0ea0800000000000000
-      internalID: -5904672503616663693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_17
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 1
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dde0ae5beded7970800000000000000
-      internalID: 8754414845838814679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_18
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 1
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58a353e8ee1b885a0800000000000000
-      internalID: -6518764822472607099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_19
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 8
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfdd0c49cd3150680800000000000000
-      internalID: -8789597259634254339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_20
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 8
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d286c24c25af06250800000000000000
-      internalID: 5936019542259820589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_21
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 8
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e47eb306d2c9e560800000000000000
-      internalID: 7343614891845907688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_22
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 8
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ea41e0df081a5ee0800000000000000
-      internalID: -1271677488570742045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_23
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7d78f68544195200800000000000000
-      internalID: 169188749852835195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_24
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 967eba1b6e9a1b210800000000000000
-      internalID: 1347044571848894313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_25
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a16ef50cda852f1f0800000000000000
-      internalID: -1012649462924843494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_26
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fba03bb3f34f3dd20800000000000000
-      internalID: 3302251504214411967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_27
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b29c5013e12c9800800000000000000
-      internalID: 620408107786080944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_28
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90853d958763d0010800000000000000
-      internalID: 1156640569835083785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_29
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69e792d5b52fa5c50800000000000000
-      internalID: 6654897873612275350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_30
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 685a94b3b37310770800000000000000
-      internalID: 8575195893027415430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_31
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36c0a1e02ade93df0800000000000000
-      internalID: -199867428164203421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Floor_Spikes_2_32
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 1
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff93dea1f90d8d950800000000000000
-      internalID: 6474153846115219967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9ba8e2f2fe5a74be39a34764cb4642e6
     internalID: 0
     vertices: []
     indices: 
@@ -956,25 +582,8 @@ TextureImporter:
       Floor_Spikes_2_13: -2230556814068693890
       Floor_Spikes_2_14: -8115397822172985207
       Floor_Spikes_2_15: 8202688697685806986
-      Floor_Spikes_2_16: -5904672503616663693
-      Floor_Spikes_2_17: 8754414845838814679
-      Floor_Spikes_2_18: -6518764822472607099
-      Floor_Spikes_2_19: -8789597259634254339
       Floor_Spikes_2_2: -5582120907456409236
-      Floor_Spikes_2_20: 5936019542259820589
-      Floor_Spikes_2_21: 7343614891845907688
-      Floor_Spikes_2_22: -1271677488570742045
-      Floor_Spikes_2_23: 169188749852835195
-      Floor_Spikes_2_24: 1347044571848894313
-      Floor_Spikes_2_25: -1012649462924843494
-      Floor_Spikes_2_26: 3302251504214411967
-      Floor_Spikes_2_27: 620408107786080944
-      Floor_Spikes_2_28: 1156640569835083785
-      Floor_Spikes_2_29: 6654897873612275350
       Floor_Spikes_2_3: 317793412978436617
-      Floor_Spikes_2_30: 8575195893027415430
-      Floor_Spikes_2_31: -199867428164203421
-      Floor_Spikes_2_32: 6474153846115219967
       Floor_Spikes_2_4: 2486236866015700802
       Floor_Spikes_2_5: -8769688900796695526
       Floor_Spikes_2_6: -3510808580684768608

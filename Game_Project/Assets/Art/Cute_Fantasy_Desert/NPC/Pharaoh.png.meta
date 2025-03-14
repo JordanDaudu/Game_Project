@@ -190,7 +190,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -204,7 +204,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -228,7 +228,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -269,10 +269,10 @@ TextureImporter:
       name: Pharaoh_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 294
-        width: 21
-        height: 24
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Pharaoh_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 294
-        width: 21
-        height: 24
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,10 +313,10 @@ TextureImporter:
       name: Pharaoh_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 294
-        width: 21
-        height: 23
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,10 +335,10 @@ TextureImporter:
       name: Pharaoh_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 294
-        width: 21
-        height: 23
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: Pharaoh_4
       rect:
         serializedVersion: 2
-        x: 133
-        y: 294
-        width: 21
-        height: 24
+        x: 128
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: Pharaoh_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 294
-        width: 21
-        height: 24
+        x: 160
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: Pharaoh_6
       rect:
         serializedVersion: 2
-        x: 7
-        y: 262
-        width: 19
-        height: 24
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,10 +423,10 @@ TextureImporter:
       name: Pharaoh_7
       rect:
         serializedVersion: 2
-        x: 39
-        y: 262
-        width: 19
-        height: 24
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,10 +445,10 @@ TextureImporter:
       name: Pharaoh_8
       rect:
         serializedVersion: 2
-        x: 71
-        y: 262
-        width: 19
-        height: 23
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,10 +467,10 @@ TextureImporter:
       name: Pharaoh_9
       rect:
         serializedVersion: 2
-        x: 103
-        y: 262
-        width: 19
-        height: 23
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,10 +489,10 @@ TextureImporter:
       name: Pharaoh_10
       rect:
         serializedVersion: 2
-        x: 135
-        y: 262
-        width: 19
-        height: 24
+        x: 128
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -511,10 +511,10 @@ TextureImporter:
       name: Pharaoh_11
       rect:
         serializedVersion: 2
-        x: 167
-        y: 262
-        width: 19
-        height: 24
+        x: 160
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: Pharaoh_12
       rect:
         serializedVersion: 2
-        x: 5
-        y: 230
-        width: 21
-        height: 24
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -555,10 +555,10 @@ TextureImporter:
       name: Pharaoh_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 230
-        width: 21
-        height: 24
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -577,10 +577,10 @@ TextureImporter:
       name: Pharaoh_14
       rect:
         serializedVersion: 2
-        x: 69
-        y: 230
-        width: 21
-        height: 23
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,10 +599,10 @@ TextureImporter:
       name: Pharaoh_15
       rect:
         serializedVersion: 2
-        x: 101
-        y: 230
-        width: 21
-        height: 23
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,10 +621,10 @@ TextureImporter:
       name: Pharaoh_16
       rect:
         serializedVersion: 2
-        x: 133
-        y: 230
-        width: 21
-        height: 24
+        x: 128
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,10 +643,10 @@ TextureImporter:
       name: Pharaoh_17
       rect:
         serializedVersion: 2
-        x: 165
-        y: 230
-        width: 21
-        height: 24
+        x: 160
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,10 +665,10 @@ TextureImporter:
       name: Pharaoh_18
       rect:
         serializedVersion: 2
-        x: 5
-        y: 198
-        width: 21
-        height: 26
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -687,10 +687,10 @@ TextureImporter:
       name: Pharaoh_19
       rect:
         serializedVersion: 2
-        x: 37
-        y: 198
-        width: 21
-        height: 25
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -709,10 +709,10 @@ TextureImporter:
       name: Pharaoh_20
       rect:
         serializedVersion: 2
-        x: 69
-        y: 198
-        width: 21
-        height: 24
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -731,10 +731,10 @@ TextureImporter:
       name: Pharaoh_21
       rect:
         serializedVersion: 2
-        x: 101
-        y: 198
-        width: 21
-        height: 26
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -753,10 +753,10 @@ TextureImporter:
       name: Pharaoh_22
       rect:
         serializedVersion: 2
-        x: 133
-        y: 198
-        width: 21
-        height: 25
+        x: 128
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -775,10 +775,10 @@ TextureImporter:
       name: Pharaoh_23
       rect:
         serializedVersion: 2
-        x: 165
-        y: 198
-        width: 21
-        height: 24
+        x: 160
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -797,10 +797,10 @@ TextureImporter:
       name: Pharaoh_24
       rect:
         serializedVersion: 2
-        x: 7
-        y: 166
-        width: 19
-        height: 26
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -819,10 +819,10 @@ TextureImporter:
       name: Pharaoh_25
       rect:
         serializedVersion: 2
-        x: 39
-        y: 166
-        width: 19
-        height: 25
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -841,10 +841,10 @@ TextureImporter:
       name: Pharaoh_26
       rect:
         serializedVersion: 2
-        x: 71
-        y: 166
-        width: 19
-        height: 24
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -863,10 +863,10 @@ TextureImporter:
       name: Pharaoh_27
       rect:
         serializedVersion: 2
-        x: 103
-        y: 166
-        width: 19
-        height: 26
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -885,10 +885,10 @@ TextureImporter:
       name: Pharaoh_28
       rect:
         serializedVersion: 2
-        x: 135
-        y: 166
-        width: 19
-        height: 25
+        x: 128
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -907,10 +907,10 @@ TextureImporter:
       name: Pharaoh_29
       rect:
         serializedVersion: 2
-        x: 167
-        y: 166
-        width: 19
-        height: 24
+        x: 160
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -929,10 +929,10 @@ TextureImporter:
       name: Pharaoh_30
       rect:
         serializedVersion: 2
-        x: 5
-        y: 134
-        width: 21
-        height: 26
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,10 +951,10 @@ TextureImporter:
       name: Pharaoh_31
       rect:
         serializedVersion: 2
-        x: 37
-        y: 134
-        width: 21
-        height: 25
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,10 +973,10 @@ TextureImporter:
       name: Pharaoh_32
       rect:
         serializedVersion: 2
-        x: 69
-        y: 134
-        width: 21
-        height: 24
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,10 +995,10 @@ TextureImporter:
       name: Pharaoh_33
       rect:
         serializedVersion: 2
-        x: 101
-        y: 134
-        width: 21
-        height: 26
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1017,10 +1017,10 @@ TextureImporter:
       name: Pharaoh_34
       rect:
         serializedVersion: 2
-        x: 133
-        y: 134
-        width: 21
-        height: 25
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1039,10 +1039,10 @@ TextureImporter:
       name: Pharaoh_35
       rect:
         serializedVersion: 2
-        x: 165
-        y: 134
-        width: 21
-        height: 24
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1061,10 +1061,10 @@ TextureImporter:
       name: Pharaoh_36
       rect:
         serializedVersion: 2
-        x: 7
-        y: 102
-        width: 19
-        height: 24
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1083,10 +1083,10 @@ TextureImporter:
       name: Pharaoh_37
       rect:
         serializedVersion: 2
-        x: 41
-        y: 102
-        width: 19
-        height: 22
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,10 +1105,10 @@ TextureImporter:
       name: Pharaoh_38
       rect:
         serializedVersion: 2
-        x: 73
-        y: 102
-        width: 21
-        height: 20
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1127,10 +1127,10 @@ TextureImporter:
       name: Pharaoh_39
       rect:
         serializedVersion: 2
-        x: 105
-        y: 102
-        width: 21
-        height: 18
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1149,10 +1149,10 @@ TextureImporter:
       name: Pharaoh_40
       rect:
         serializedVersion: 2
-        x: 5
-        y: 70
-        width: 21
-        height: 24
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1171,10 +1171,10 @@ TextureImporter:
       name: Pharaoh_41
       rect:
         serializedVersion: 2
-        x: 37
-        y: 70
-        width: 21
-        height: 24
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1193,10 +1193,10 @@ TextureImporter:
       name: Pharaoh_42
       rect:
         serializedVersion: 2
-        x: 69
-        y: 70
-        width: 21
-        height: 24
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,10 +1215,10 @@ TextureImporter:
       name: Pharaoh_43
       rect:
         serializedVersion: 2
-        x: 101
-        y: 70
-        width: 21
-        height: 24
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,10 +1237,10 @@ TextureImporter:
       name: Pharaoh_44
       rect:
         serializedVersion: 2
-        x: 7
-        y: 38
-        width: 19
-        height: 24
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1259,10 +1259,10 @@ TextureImporter:
       name: Pharaoh_45
       rect:
         serializedVersion: 2
-        x: 39
-        y: 38
-        width: 19
-        height: 24
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1281,10 +1281,10 @@ TextureImporter:
       name: Pharaoh_46
       rect:
         serializedVersion: 2
-        x: 71
-        y: 38
-        width: 19
-        height: 24
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1303,10 +1303,10 @@ TextureImporter:
       name: Pharaoh_47
       rect:
         serializedVersion: 2
-        x: 103
-        y: 38
-        width: 19
-        height: 24
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1325,10 +1325,10 @@ TextureImporter:
       name: Pharaoh_48
       rect:
         serializedVersion: 2
-        x: 5
-        y: 6
-        width: 21
-        height: 24
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1347,10 +1347,10 @@ TextureImporter:
       name: Pharaoh_49
       rect:
         serializedVersion: 2
-        x: 37
-        y: 6
-        width: 21
-        height: 24
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1369,10 +1369,10 @@ TextureImporter:
       name: Pharaoh_50
       rect:
         serializedVersion: 2
-        x: 69
-        y: 6
-        width: 21
-        height: 24
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1391,10 +1391,10 @@ TextureImporter:
       name: Pharaoh_51
       rect:
         serializedVersion: 2
-        x: 101
-        y: 6
-        width: 21
-        height: 24
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,7 +1413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83f01c098eb0e4df1b406037e7625787
     internalID: 0
     vertices: []
     indices: 

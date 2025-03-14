@@ -247,7 +247,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -261,7 +261,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -285,7 +285,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -326,10 +326,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 789
-        width: 20
-        height: 28
+        x: 0
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 788
-        width: 20
-        height: 28
+        x: 64
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,10 +370,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_2
       rect:
         serializedVersion: 2
-        x: 148
-        y: 788
-        width: 21
-        height: 28
+        x: 128
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 788
-        width: 21
-        height: 28
+        x: 192
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_4
       rect:
         serializedVersion: 2
-        x: 277
-        y: 788
-        width: 20
-        height: 28
+        x: 256
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_5
       rect:
         serializedVersion: 2
-        x: 341
-        y: 789
-        width: 20
-        height: 28
+        x: 320
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_6
       rect:
         serializedVersion: 2
-        x: 23
-        y: 725
-        width: 17
-        height: 28
+        x: 0
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +480,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_7
       rect:
         serializedVersion: 2
-        x: 87
-        y: 724
-        width: 17
-        height: 28
+        x: 64
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +502,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_8
       rect:
         serializedVersion: 2
-        x: 150
-        y: 724
-        width: 18
-        height: 28
+        x: 128
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +524,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_9
       rect:
         serializedVersion: 2
-        x: 214
-        y: 724
-        width: 18
-        height: 28
+        x: 192
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_10
       rect:
         serializedVersion: 2
-        x: 279
-        y: 724
-        width: 17
-        height: 28
+        x: 256
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +568,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_11
       rect:
         serializedVersion: 2
-        x: 343
-        y: 725
-        width: 17
-        height: 28
+        x: 320
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +590,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_12
       rect:
         serializedVersion: 2
-        x: 24
-        y: 661
-        width: 20
-        height: 28
+        x: 0
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_13
       rect:
         serializedVersion: 2
-        x: 88
-        y: 660
-        width: 20
-        height: 28
+        x: 64
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +634,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_14
       rect:
         serializedVersion: 2
-        x: 152
-        y: 660
-        width: 21
-        height: 28
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_15
       rect:
         serializedVersion: 2
-        x: 216
-        y: 660
-        width: 21
-        height: 28
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +678,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_16
       rect:
         serializedVersion: 2
-        x: 280
-        y: 660
-        width: 20
-        height: 28
+        x: 256
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,10 +700,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_17
       rect:
         serializedVersion: 2
-        x: 344
-        y: 661
-        width: 20
-        height: 28
+        x: 320
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_18
       rect:
         serializedVersion: 2
-        x: 21
-        y: 597
-        width: 20
-        height: 30
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -744,10 +744,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_19
       rect:
         serializedVersion: 2
-        x: 85
-        y: 597
-        width: 20
-        height: 29
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -766,10 +766,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_20
       rect:
         serializedVersion: 2
-        x: 149
-        y: 597
-        width: 20
-        height: 28
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -788,10 +788,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_21
       rect:
         serializedVersion: 2
-        x: 213
-        y: 597
-        width: 20
-        height: 30
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -810,10 +810,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_22
       rect:
         serializedVersion: 2
-        x: 277
-        y: 597
-        width: 20
-        height: 29
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,10 +832,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_23
       rect:
         serializedVersion: 2
-        x: 341
-        y: 597
-        width: 20
-        height: 28
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,10 +854,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_24
       rect:
         serializedVersion: 2
-        x: 23
-        y: 533
-        width: 17
-        height: 30
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -876,10 +876,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_25
       rect:
         serializedVersion: 2
-        x: 87
-        y: 533
-        width: 17
-        height: 29
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -898,10 +898,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_26
       rect:
         serializedVersion: 2
-        x: 151
-        y: 533
-        width: 17
-        height: 28
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -920,10 +920,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_27
       rect:
         serializedVersion: 2
-        x: 215
-        y: 533
-        width: 17
-        height: 30
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -942,10 +942,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_28
       rect:
         serializedVersion: 2
-        x: 279
-        y: 533
-        width: 17
-        height: 29
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,10 +964,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_29
       rect:
         serializedVersion: 2
-        x: 343
-        y: 533
-        width: 17
-        height: 28
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -986,10 +986,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_30
       rect:
         serializedVersion: 2
-        x: 24
-        y: 469
-        width: 20
-        height: 30
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1008,10 +1008,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_31
       rect:
         serializedVersion: 2
-        x: 88
-        y: 469
-        width: 20
-        height: 29
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1030,10 +1030,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_32
       rect:
         serializedVersion: 2
-        x: 152
-        y: 469
-        width: 20
-        height: 28
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1052,10 +1052,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_33
       rect:
         serializedVersion: 2
-        x: 216
-        y: 469
-        width: 20
-        height: 30
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1074,10 +1074,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_34
       rect:
         serializedVersion: 2
-        x: 280
-        y: 469
-        width: 20
-        height: 29
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,10 +1096,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_35
       rect:
         serializedVersion: 2
-        x: 344
-        y: 469
-        width: 20
-        height: 28
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1118,10 +1118,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_36
       rect:
         serializedVersion: 2
-        x: 21
-        y: 405
-        width: 20
-        height: 28
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,10 +1140,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_37
       rect:
         serializedVersion: 2
-        x: 83
-        y: 400
-        width: 22
-        height: 28
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1162,10 +1162,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_38
       rect:
         serializedVersion: 2
-        x: 147
-        y: 392
-        width: 22
-        height: 35
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_39
       rect:
         serializedVersion: 2
-        x: 210
-        y: 392
-        width: 23
-        height: 35
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1206,10 +1206,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_40
       rect:
         serializedVersion: 2
-        x: 274
-        y: 394
-        width: 23
-        height: 33
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1228,10 +1228,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_41
       rect:
         serializedVersion: 2
-        x: 341
-        y: 405
-        width: 20
-        height: 28
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1250,10 +1250,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_42
       rect:
         serializedVersion: 2
-        x: 23
-        y: 341
-        width: 17
-        height: 28
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1272,10 +1272,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_43
       rect:
         serializedVersion: 2
-        x: 85
-        y: 341
-        width: 21
-        height: 23
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,10 +1294,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_44
       rect:
         serializedVersion: 2
-        x: 153
-        y: 340
-        width: 34
-        height: 23
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1316,10 +1316,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_45
       rect:
         serializedVersion: 2
-        x: 217
-        y: 340
-        width: 35
-        height: 23
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1338,10 +1338,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_46
       rect:
         serializedVersion: 2
-        x: 277
-        y: 341
-        width: 23
-        height: 22
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1360,10 +1360,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_47
       rect:
         serializedVersion: 2
-        x: 298
-        y: 341
-        width: 16
-        height: 8
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1382,10 +1382,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_48
       rect:
         serializedVersion: 2
-        x: 343
-        y: 341
-        width: 17
-        height: 28
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1404,10 +1404,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_49
       rect:
         serializedVersion: 2
-        x: 24
-        y: 277
-        width: 20
-        height: 28
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1426,10 +1426,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_50
       rect:
         serializedVersion: 2
-        x: 88
-        y: 276
-        width: 21
-        height: 28
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1448,10 +1448,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_51
       rect:
         serializedVersion: 2
-        x: 152
-        y: 277
-        width: 21
-        height: 35
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1470,10 +1470,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_52
       rect:
         serializedVersion: 2
-        x: 216
-        y: 277
-        width: 21
-        height: 35
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1492,10 +1492,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_53
       rect:
         serializedVersion: 2
-        x: 280
-        y: 276
-        width: 21
-        height: 34
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1514,10 +1514,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_54
       rect:
         serializedVersion: 2
-        x: 344
-        y: 277
-        width: 20
-        height: 28
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1536,10 +1536,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_55
       rect:
         serializedVersion: 2
-        x: 25
-        y: 213
-        width: 15
-        height: 23
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1558,10 +1558,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_56
       rect:
         serializedVersion: 2
-        x: 89
-        y: 213
-        width: 17
-        height: 21
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1580,10 +1580,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_57
       rect:
         serializedVersion: 2
-        x: 153
-        y: 213
-        width: 19
-        height: 19
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1602,10 +1602,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_58
       rect:
         serializedVersion: 2
-        x: 217
-        y: 213
-        width: 19
-        height: 18
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1624,10 +1624,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_59
       rect:
         serializedVersion: 2
-        x: 21
-        y: 149
-        width: 20
-        height: 28
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1646,10 +1646,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_60
       rect:
         serializedVersion: 2
-        x: 85
-        y: 149
-        width: 20
-        height: 28
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1668,10 +1668,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_61
       rect:
         serializedVersion: 2
-        x: 149
-        y: 149
-        width: 20
-        height: 28
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1690,10 +1690,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_62
       rect:
         serializedVersion: 2
-        x: 213
-        y: 149
-        width: 20
-        height: 28
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1712,10 +1712,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_63
       rect:
         serializedVersion: 2
-        x: 23
-        y: 85
-        width: 17
-        height: 28
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1734,10 +1734,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_64
       rect:
         serializedVersion: 2
-        x: 87
-        y: 85
-        width: 17
-        height: 28
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1756,10 +1756,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_65
       rect:
         serializedVersion: 2
-        x: 151
-        y: 85
-        width: 17
-        height: 28
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1778,10 +1778,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_66
       rect:
         serializedVersion: 2
-        x: 215
-        y: 85
-        width: 17
-        height: 28
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1800,10 +1800,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_67
       rect:
         serializedVersion: 2
-        x: 24
-        y: 21
-        width: 20
-        height: 28
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1822,10 +1822,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_68
       rect:
         serializedVersion: 2
-        x: 88
-        y: 21
-        width: 20
-        height: 28
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1844,10 +1844,10 @@ TextureImporter:
       name: Desert_Warrior_Atgier_1_69
       rect:
         serializedVersion: 2
-        x: 152
-        y: 21
-        width: 20
-        height: 28
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,33 +1862,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Desert_Warrior_Atgier_1_70
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 21
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5917a535172e0d360800000000000000
-      internalID: 7192497581268300181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e92503222bd194e248560a6ee201fa1a
     internalID: 0
     vertices: []
     indices: 
@@ -1966,7 +1944,6 @@ TextureImporter:
       Desert_Warrior_Atgier_1_68: 1394779357335588696
       Desert_Warrior_Atgier_1_69: 8211225904627949056
       Desert_Warrior_Atgier_1_7: -7294691647381594046
-      Desert_Warrior_Atgier_1_70: 7192497581268300181
       Desert_Warrior_Atgier_1_8: 5067710481885430945
       Desert_Warrior_Atgier_1_9: -2385141860777403554
   mipmapLimitGroupName: 

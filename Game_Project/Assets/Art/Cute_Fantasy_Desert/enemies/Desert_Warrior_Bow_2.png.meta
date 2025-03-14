@@ -244,7 +244,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -258,7 +258,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -282,7 +282,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -323,10 +323,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 789
-        width: 19
-        height: 23
+        x: 0
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 789
-        width: 19
-        height: 23
+        x: 64
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 789
-        width: 20
-        height: 22
+        x: 128
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 789
-        width: 20
-        height: 22
+        x: 192
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_4
       rect:
         serializedVersion: 2
-        x: 278
-        y: 789
-        width: 19
-        height: 23
+        x: 256
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,10 +433,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_5
       rect:
         serializedVersion: 2
-        x: 342
-        y: 789
-        width: 19
-        height: 23
+        x: 320
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_6
       rect:
         serializedVersion: 2
-        x: 23
-        y: 725
-        width: 17
-        height: 23
+        x: 0
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_7
       rect:
         serializedVersion: 2
-        x: 87
-        y: 725
-        width: 17
-        height: 23
+        x: 64
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_8
       rect:
         serializedVersion: 2
-        x: 150
-        y: 725
-        width: 18
-        height: 22
+        x: 128
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_9
       rect:
         serializedVersion: 2
-        x: 214
-        y: 725
-        width: 18
-        height: 22
+        x: 192
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_10
       rect:
         serializedVersion: 2
-        x: 279
-        y: 725
-        width: 17
-        height: 23
+        x: 256
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,10 +565,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_11
       rect:
         serializedVersion: 2
-        x: 343
-        y: 725
-        width: 17
-        height: 23
+        x: 320
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_12
       rect:
         serializedVersion: 2
-        x: 24
-        y: 661
-        width: 19
-        height: 22
+        x: 0
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_13
       rect:
         serializedVersion: 2
-        x: 88
-        y: 661
-        width: 19
-        height: 22
+        x: 64
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_14
       rect:
         serializedVersion: 2
-        x: 152
-        y: 661
-        width: 20
-        height: 21
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_15
       rect:
         serializedVersion: 2
-        x: 216
-        y: 661
-        width: 20
-        height: 21
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,10 +675,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_16
       rect:
         serializedVersion: 2
-        x: 280
-        y: 661
-        width: 19
-        height: 22
+        x: 256
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,10 +697,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_17
       rect:
         serializedVersion: 2
-        x: 344
-        y: 661
-        width: 19
-        height: 22
+        x: 320
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,10 +719,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_18
       rect:
         serializedVersion: 2
-        x: 22
-        y: 597
-        width: 19
-        height: 25
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_19
       rect:
         serializedVersion: 2
-        x: 86
-        y: 597
-        width: 19
-        height: 24
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,10 +763,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_20
       rect:
         serializedVersion: 2
-        x: 150
-        y: 597
-        width: 19
-        height: 23
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_21
       rect:
         serializedVersion: 2
-        x: 214
-        y: 597
-        width: 19
-        height: 25
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -807,10 +807,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_22
       rect:
         serializedVersion: 2
-        x: 278
-        y: 597
-        width: 19
-        height: 24
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -829,10 +829,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_23
       rect:
         serializedVersion: 2
-        x: 342
-        y: 597
-        width: 19
-        height: 23
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -851,10 +851,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_24
       rect:
         serializedVersion: 2
-        x: 23
-        y: 533
-        width: 17
-        height: 25
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -873,10 +873,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_25
       rect:
         serializedVersion: 2
-        x: 87
-        y: 533
-        width: 17
-        height: 24
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,10 +895,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_26
       rect:
         serializedVersion: 2
-        x: 151
-        y: 533
-        width: 17
-        height: 23
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,10 +917,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_27
       rect:
         serializedVersion: 2
-        x: 215
-        y: 533
-        width: 17
-        height: 25
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -939,10 +939,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_28
       rect:
         serializedVersion: 2
-        x: 279
-        y: 533
-        width: 17
-        height: 24
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -961,10 +961,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_29
       rect:
         serializedVersion: 2
-        x: 343
-        y: 533
-        width: 17
-        height: 23
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -983,10 +983,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_30
       rect:
         serializedVersion: 2
-        x: 24
-        y: 469
-        width: 19
-        height: 24
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,10 +1005,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_31
       rect:
         serializedVersion: 2
-        x: 88
-        y: 469
-        width: 19
-        height: 23
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,10 +1027,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_32
       rect:
         serializedVersion: 2
-        x: 152
-        y: 469
-        width: 19
-        height: 22
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1049,10 +1049,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_33
       rect:
         serializedVersion: 2
-        x: 216
-        y: 469
-        width: 19
-        height: 24
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1071,10 +1071,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_34
       rect:
         serializedVersion: 2
-        x: 280
-        y: 469
-        width: 19
-        height: 23
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1093,10 +1093,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_35
       rect:
         serializedVersion: 2
-        x: 344
-        y: 469
-        width: 19
-        height: 22
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,10 +1115,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_36
       rect:
         serializedVersion: 2
-        x: 24
-        y: 399
-        width: 18
-        height: 29
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1137,10 +1137,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_37
       rect:
         serializedVersion: 2
-        x: 88
-        y: 404
-        width: 17
-        height: 25
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1159,10 +1159,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_38
       rect:
         serializedVersion: 2
-        x: 152
-        y: 405
-        width: 17
-        height: 24
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1181,10 +1181,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_39
       rect:
         serializedVersion: 2
-        x: 216
-        y: 405
-        width: 18
-        height: 24
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,10 +1203,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_40
       rect:
         serializedVersion: 2
-        x: 280
-        y: 405
-        width: 18
-        height: 24
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,10 +1225,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_41
       rect:
         serializedVersion: 2
-        x: 344
-        y: 405
-        width: 18
-        height: 24
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_42
       rect:
         serializedVersion: 2
-        x: 25
-        y: 341
-        width: 24
-        height: 22
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1269,10 +1269,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_43
       rect:
         serializedVersion: 2
-        x: 88
-        y: 341
-        width: 22
-        height: 22
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1291,10 +1291,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_44
       rect:
         serializedVersion: 2
-        x: 151
-        y: 341
-        width: 22
-        height: 22
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1313,10 +1313,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_45
       rect:
         serializedVersion: 2
-        x: 216
-        y: 341
-        width: 21
-        height: 23
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1335,10 +1335,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_46
       rect:
         serializedVersion: 2
-        x: 281
-        y: 341
-        width: 20
-        height: 23
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,10 +1357,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_47
       rect:
         serializedVersion: 2
-        x: 345
-        y: 341
-        width: 20
-        height: 23
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1379,10 +1379,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_48
       rect:
         serializedVersion: 2
-        x: 24
-        y: 277
-        width: 18
-        height: 27
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1401,10 +1401,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_49
       rect:
         serializedVersion: 2
-        x: 88
-        y: 277
-        width: 17
-        height: 25
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1423,10 +1423,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_50
       rect:
         serializedVersion: 2
-        x: 152
-        y: 277
-        width: 17
-        height: 24
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1445,10 +1445,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_51
       rect:
         serializedVersion: 2
-        x: 216
-        y: 277
-        width: 18
-        height: 24
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1467,10 +1467,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_52
       rect:
         serializedVersion: 2
-        x: 280
-        y: 277
-        width: 18
-        height: 24
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1489,10 +1489,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_53
       rect:
         serializedVersion: 2
-        x: 344
-        y: 277
-        width: 18
-        height: 24
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1511,10 +1511,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_54
       rect:
         serializedVersion: 2
-        x: 25
-        y: 213
-        width: 15
-        height: 23
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1533,10 +1533,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_55
       rect:
         serializedVersion: 2
-        x: 89
-        y: 213
-        width: 17
-        height: 21
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1555,10 +1555,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_56
       rect:
         serializedVersion: 2
-        x: 153
-        y: 213
-        width: 19
-        height: 19
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1577,10 +1577,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_57
       rect:
         serializedVersion: 2
-        x: 217
-        y: 213
-        width: 19
-        height: 18
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1599,10 +1599,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_58
       rect:
         serializedVersion: 2
-        x: 22
-        y: 149
-        width: 19
-        height: 23
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1621,10 +1621,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_59
       rect:
         serializedVersion: 2
-        x: 86
-        y: 149
-        width: 19
-        height: 23
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1643,10 +1643,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_60
       rect:
         serializedVersion: 2
-        x: 150
-        y: 149
-        width: 19
-        height: 23
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,10 +1665,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_61
       rect:
         serializedVersion: 2
-        x: 214
-        y: 149
-        width: 19
-        height: 23
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1687,10 +1687,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_62
       rect:
         serializedVersion: 2
-        x: 23
-        y: 85
-        width: 17
-        height: 23
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1709,10 +1709,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_63
       rect:
         serializedVersion: 2
-        x: 87
-        y: 85
-        width: 17
-        height: 23
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1731,10 +1731,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_64
       rect:
         serializedVersion: 2
-        x: 151
-        y: 85
-        width: 17
-        height: 23
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1753,10 +1753,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_65
       rect:
         serializedVersion: 2
-        x: 215
-        y: 85
-        width: 17
-        height: 23
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1775,10 +1775,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_66
       rect:
         serializedVersion: 2
-        x: 24
-        y: 21
-        width: 19
-        height: 22
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1797,10 +1797,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_67
       rect:
         serializedVersion: 2
-        x: 88
-        y: 21
-        width: 19
-        height: 22
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1819,10 +1819,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_68
       rect:
         serializedVersion: 2
-        x: 152
-        y: 21
-        width: 19
-        height: 22
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1841,10 +1841,10 @@ TextureImporter:
       name: Desert_Warrior_Bow_2_69
       rect:
         serializedVersion: 2
-        x: 216
-        y: 21
-        width: 19
-        height: 22
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1863,7 +1863,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5aa7dc29c85364f609f59eb8328264b3
     internalID: 0
     vertices: []
     indices: 

@@ -256,7 +256,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -270,7 +270,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -294,7 +294,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -336,9 +336,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 319
+        y: 320
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: Bombschroom_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 303
+        x: 16
+        y: 320
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,8 +379,8 @@ TextureImporter:
       name: Bombschroom_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 319
+        x: 0
+        y: 304
         width: 16
         height: 16
       alignment: 0
@@ -402,7 +402,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 303
+        y: 304
         width: 16
         height: 16
       alignment: 0
@@ -424,9 +424,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 287
+        y: 288
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,10 +445,10 @@ TextureImporter:
       name: Bombschroom_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 271
+        x: 16
+        y: 288
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,8 +467,8 @@ TextureImporter:
       name: Bombschroom_6
       rect:
         serializedVersion: 2
-        x: 16
-        y: 287
+        x: 0
+        y: 272
         width: 16
         height: 16
       alignment: 0
@@ -490,7 +490,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 271
+        y: 272
         width: 16
         height: 16
       alignment: 0
@@ -512,9 +512,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 271
+        y: 272
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,7 +534,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 271
+        y: 272
         width: 16
         height: 16
       alignment: 0
@@ -556,9 +556,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 271
+        y: 272
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -578,9 +578,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 255
+        y: 256
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,10 +599,10 @@ TextureImporter:
       name: Bombschroom_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 191
+        x: 16
+        y: 256
         width: 16
-        height: 65
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,8 +621,8 @@ TextureImporter:
       name: Bombschroom_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 255
+        x: 32
+        y: 256
         width: 16
         height: 16
       alignment: 0
@@ -643,8 +643,8 @@ TextureImporter:
       name: Bombschroom_14
       rect:
         serializedVersion: 2
-        x: 16
-        y: 239
+        x: 48
+        y: 256
         width: 16
         height: 16
       alignment: 0
@@ -665,10 +665,10 @@ TextureImporter:
       name: Bombschroom_15
       rect:
         serializedVersion: 2
-        x: 32
-        y: 255
+        x: 64
+        y: 256
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -687,10 +687,10 @@ TextureImporter:
       name: Bombschroom_16
       rect:
         serializedVersion: 2
-        x: 32
-        y: 239
+        x: 0
+        y: 240
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -709,8 +709,8 @@ TextureImporter:
       name: Bombschroom_17
       rect:
         serializedVersion: 2
-        x: 48
-        y: 255
+        x: 16
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -731,10 +731,10 @@ TextureImporter:
       name: Bombschroom_18
       rect:
         serializedVersion: 2
-        x: 48
-        y: 191
+        x: 32
+        y: 240
         width: 16
-        height: 64
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -753,10 +753,10 @@ TextureImporter:
       name: Bombschroom_19
       rect:
         serializedVersion: 2
-        x: 64
-        y: 255
+        x: 48
+        y: 240
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,9 +776,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 239
+        y: 240
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -797,10 +797,10 @@ TextureImporter:
       name: Bombschroom_21
       rect:
         serializedVersion: 2
-        x: 16
-        y: 223
+        x: 0
+        y: 224
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -820,9 +820,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 207
+        y: 224
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,7 +842,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 223
+        y: 224
         width: 16
         height: 16
       alignment: 0
@@ -863,8 +863,8 @@ TextureImporter:
       name: Bombschroom_24
       rect:
         serializedVersion: 2
-        x: 32
-        y: 207
+        x: 48
+        y: 224
         width: 16
         height: 16
       alignment: 0
@@ -886,9 +886,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 223
+        y: 224
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -907,10 +907,10 @@ TextureImporter:
       name: Bombschroom_26
       rect:
         serializedVersion: 2
-        x: 64
-        y: 207
+        x: 80
+        y: 224
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -929,8 +929,8 @@ TextureImporter:
       name: Bombschroom_27
       rect:
         serializedVersion: 2
-        x: 80
-        y: 223
+        x: 0
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -951,8 +951,8 @@ TextureImporter:
       name: Bombschroom_28
       rect:
         serializedVersion: 2
-        x: 80
-        y: 207
+        x: 16
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -973,10 +973,10 @@ TextureImporter:
       name: Bombschroom_29
       rect:
         serializedVersion: 2
-        x: 16
-        y: 191
+        x: 32
+        y: 208
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,8 +995,8 @@ TextureImporter:
       name: Bombschroom_30
       rect:
         serializedVersion: 2
-        x: 32
-        y: 191
+        x: 48
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -1018,9 +1018,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 191
+        y: 208
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1040,7 +1040,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 191
+        y: 208
         width: 16
         height: 16
       alignment: 0
@@ -1062,7 +1062,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 159
+        y: 192
         width: 16
         height: 16
       alignment: 0
@@ -1083,10 +1083,10 @@ TextureImporter:
       name: Bombschroom_34
       rect:
         serializedVersion: 2
-        x: 15
-        y: 159
-        width: 18
-        height: 14
+        x: 16
+        y: 192
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1106,7 +1106,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 159
+        y: 192
         width: 16
         height: 16
       alignment: 0
@@ -1128,9 +1128,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 159
+        y: 192
         width: 16
-        height: 19
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1150,9 +1150,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 159
+        y: 192
         width: 16
-        height: 21
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1172,9 +1172,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 159
+        y: 192
         width: 16
-        height: 20
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1193,10 +1193,10 @@ TextureImporter:
       name: Bombschroom_39
       rect:
         serializedVersion: 2
-        x: 96
-        y: 159
+        x: 48
+        y: 176
         width: 16
-        height: 20
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,10 +1215,10 @@ TextureImporter:
       name: Bombschroom_40
       rect:
         serializedVersion: 2
-        x: 112
-        y: 159
+        x: 64
+        y: 176
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,10 +1237,10 @@ TextureImporter:
       name: Bombschroom_41
       rect:
         serializedVersion: 2
-        x: 0
-        y: 127
+        x: 80
+        y: 176
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1259,8 +1259,8 @@ TextureImporter:
       name: Bombschroom_42
       rect:
         serializedVersion: 2
-        x: 16
-        y: 127
+        x: 96
+        y: 176
         width: 16
         height: 16
       alignment: 0
@@ -1281,10 +1281,10 @@ TextureImporter:
       name: Bombschroom_43
       rect:
         serializedVersion: 2
-        x: 31
-        y: 127
-        width: 18
-        height: 13
+        x: 0
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1303,8 +1303,8 @@ TextureImporter:
       name: Bombschroom_44
       rect:
         serializedVersion: 2
-        x: 48
-        y: 127
+        x: 16
+        y: 160
         width: 16
         height: 16
       alignment: 0
@@ -1325,10 +1325,10 @@ TextureImporter:
       name: Bombschroom_45
       rect:
         serializedVersion: 2
-        x: 64
-        y: 127
+        x: 32
+        y: 160
         width: 16
-        height: 19
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1347,10 +1347,10 @@ TextureImporter:
       name: Bombschroom_46
       rect:
         serializedVersion: 2
-        x: 80
-        y: 127
+        x: 48
+        y: 160
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1369,10 +1369,10 @@ TextureImporter:
       name: Bombschroom_47
       rect:
         serializedVersion: 2
-        x: 0
-        y: 95
+        x: 64
+        y: 160
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1391,8 +1391,8 @@ TextureImporter:
       name: Bombschroom_48
       rect:
         serializedVersion: 2
-        x: 16
-        y: 95
+        x: 80
+        y: 160
         width: 16
         height: 16
       alignment: 0
@@ -1413,10 +1413,10 @@ TextureImporter:
       name: Bombschroom_49
       rect:
         serializedVersion: 2
-        x: 31
-        y: 95
-        width: 18
-        height: 13
+        x: 96
+        y: 160
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1435,8 +1435,8 @@ TextureImporter:
       name: Bombschroom_50
       rect:
         serializedVersion: 2
-        x: 48
-        y: 95
+        x: 112
+        y: 160
         width: 16
         height: 16
       alignment: 0
@@ -1458,9 +1458,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 95
+        y: 144
         width: 16
-        height: 19
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1479,10 +1479,10 @@ TextureImporter:
       name: Bombschroom_52
       rect:
         serializedVersion: 2
-        x: 80
-        y: 95
+        x: 0
+        y: 128
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1501,10 +1501,10 @@ TextureImporter:
       name: Bombschroom_53
       rect:
         serializedVersion: 2
-        x: 0
-        y: 63
+        x: 16
+        y: 128
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1523,10 +1523,10 @@ TextureImporter:
       name: Bombschroom_54
       rect:
         serializedVersion: 2
-        x: 0
-        y: 47
+        x: 32
+        y: 128
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1545,8 +1545,8 @@ TextureImporter:
       name: Bombschroom_55
       rect:
         serializedVersion: 2
-        x: 16
-        y: 63
+        x: 48
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -1567,10 +1567,10 @@ TextureImporter:
       name: Bombschroom_56
       rect:
         serializedVersion: 2
-        x: 16
-        y: 47
+        x: 64
+        y: 128
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1589,10 +1589,10 @@ TextureImporter:
       name: Bombschroom_57
       rect:
         serializedVersion: 2
-        x: 31
-        y: 63
-        width: 18
-        height: 13
+        x: 80
+        y: 128
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1611,10 +1611,10 @@ TextureImporter:
       name: Bombschroom_58
       rect:
         serializedVersion: 2
-        x: 32
-        y: 47
+        x: 64
+        y: 112
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1633,8 +1633,8 @@ TextureImporter:
       name: Bombschroom_59
       rect:
         serializedVersion: 2
-        x: 48
-        y: 63
+        x: 0
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1655,10 +1655,10 @@ TextureImporter:
       name: Bombschroom_60
       rect:
         serializedVersion: 2
-        x: 48
-        y: 47
+        x: 16
+        y: 96
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1677,10 +1677,10 @@ TextureImporter:
       name: Bombschroom_61
       rect:
         serializedVersion: 2
-        x: 64
-        y: 63
+        x: 32
+        y: 96
         width: 16
-        height: 19
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1699,10 +1699,10 @@ TextureImporter:
       name: Bombschroom_62
       rect:
         serializedVersion: 2
-        x: 80
-        y: 63
+        x: 48
+        y: 96
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1721,10 +1721,10 @@ TextureImporter:
       name: Bombschroom_63
       rect:
         serializedVersion: 2
-        x: 0
-        y: 31
+        x: 64
+        y: 96
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1743,10 +1743,10 @@ TextureImporter:
       name: Bombschroom_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 15
+        x: 80
+        y: 96
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1765,10 +1765,10 @@ TextureImporter:
       name: Bombschroom_65
       rect:
         serializedVersion: 2
-        x: 16
-        y: 31
+        x: 64
+        y: 80
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1787,10 +1787,10 @@ TextureImporter:
       name: Bombschroom_66
       rect:
         serializedVersion: 2
-        x: 16
-        y: 15
+        x: 0
+        y: 64
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1809,10 +1809,10 @@ TextureImporter:
       name: Bombschroom_67
       rect:
         serializedVersion: 2
-        x: 32
-        y: 31
+        x: 16
+        y: 64
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1832,9 +1832,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 15
+        y: 64
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,9 +1854,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 31
+        y: 64
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,10 +1875,10 @@ TextureImporter:
       name: Bombschroom_70
       rect:
         serializedVersion: 2
-        x: 48
-        y: 15
+        x: 64
+        y: 64
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1897,8 +1897,8 @@ TextureImporter:
       name: Bombschroom_71
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 80
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1919,10 +1919,10 @@ TextureImporter:
       name: Bombschroom_72
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
+        x: 0
+        y: 48
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1941,10 +1941,10 @@ TextureImporter:
       name: Bombschroom_73
       rect:
         serializedVersion: 2
-        x: 31
-        y: 0
-        width: 34
-        height: 12
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,11 +1959,319 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Bombschroom_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24746a42e0b49457391a5b13b3a86ac4
+      internalID: -1112120240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44cb56bd21294883b26efc8018064cf
+      internalID: -556531546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc2164f66134c10bb26e797cc197f6
+      internalID: -278551667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a96a4786aa54dfc9d64b4e9b3e0bdc
+      internalID: 1610203407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07b6203989542fb87630a41c50c84c
+      internalID: 1712351702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc849913379f34b73921aaf895387d18
+      internalID: -794325100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6496bf29d49364cbfa5cdec5be678cc0
+      internalID: 1301162947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c12d3f903b436c911140fba6fd739
+      internalID: 1803202457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961cb156fac749bba6ac63f7f64af4c
+      internalID: 1274893686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cb0d618e4341958a27bae46a7e27e
+      internalID: 1401375139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6fed19fa2304598b939690b88dd9c6
+      internalID: -1986847622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae34a9804a4340799b53a39335c0a1e
+      internalID: -1272505571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2dc468476a445c191efa89693a61eb
+      internalID: 2137007661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombschroom_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ed265ee6584bfb9ec10f640691585
+      internalID: -584662505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aa08e70c65fcf452f827c83595e0a867
     internalID: 0
     vertices: []
     indices: 
@@ -2045,7 +2353,21 @@ TextureImporter:
       Bombschroom_71: -3884762581521146196
       Bombschroom_72: 2537182939170280156
       Bombschroom_73: -6657991662202196549
+      Bombschroom_74: -1112120240
+      Bombschroom_75: -556531546
+      Bombschroom_76: -278551667
+      Bombschroom_77: 1610203407
+      Bombschroom_78: 1712351702
+      Bombschroom_79: -794325100
       Bombschroom_8: 8634322565912168287
+      Bombschroom_80: 1301162947
+      Bombschroom_81: 1803202457
+      Bombschroom_82: 1274893686
+      Bombschroom_83: 1401375139
+      Bombschroom_84: -1986847622
+      Bombschroom_85: -1272505571
+      Bombschroom_86: 2137007661
+      Bombschroom_87: -584662505
       Bombschroom_9: 9190258771735623621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

@@ -29,26 +29,33 @@ public class Knockback : MonoBehaviour
 
         if (other.gameObject.CompareTag("enemy") || other.gameObject.CompareTag("Player"))
         {
+            // hit is the object that was hit
             Rigidbody2D hit = other.GetComponent<Rigidbody2D>();
             if(hit != null)
             {
                 Vector2 difference = hit.transform.position - transform.position;
                 difference = difference.normalized * thrust;
                 hit.AddForce(difference, ForceMode2D.Impulse);
-                if (other.gameObject.CompareTag("enemy") && other.isTrigger && this.gameObject.CompareTag("Player"))
+                
+                // Knockback for Enemy
+                Enemy enemy = other.GetComponent<Enemy>();
+                if (enemy != null && enemy.CompareTag("enemy") && enemy.CanBeHit && this.gameObject.CompareTag("Player"))
                 {
-                    hit.GetComponent<Enemy>().currentState = EnemyState.stagger;
-                    other.GetComponent<Enemy>().Knock(hit, knockTime, damage);
+                    enemy.currentState = EnemyState.stagger;
+                    enemy.Knock(hit, knockTime, damage); 
                 }
-                if (other.gameObject.CompareTag("Player"))
+                // Knockback for Player
+                PlayerMovement player = other.GetComponent<PlayerMovement>();
+                if (player != null && player.CompareTag("Player") && player.CanBeHit)
                 {
-                    if (other.GetComponent<PlayerMovement>().currentState != PlayerState.stagger)
+                    if (player.currentState != PlayerState.stagger)
                     {
-                        hit.GetComponent<PlayerMovement>().currentState = PlayerState.stagger;
-                        other.GetComponent<PlayerMovement>().Knock(knockTime, damage);
+                        player.currentState = PlayerState.stagger;
+                        player.Knock(knockTime, damage);
                     }
                 }
             }
         }
     }
+
 }

@@ -54,7 +54,7 @@ public class SkeletonNormal : Enemy
     }
     void CheckDistance()
     {
-        if (anim.GetBool("isDead") == false)
+        if (anim.GetBool("isDead") == false && health > 0)
         {
             if (Vector3.Distance(target.position, transform.position) <= chaseRadius && Vector3.Distance(target.position, transform.position) > attackRadius)
             {
@@ -128,6 +128,7 @@ public class SkeletonNormal : Enemy
             anim.SetBool("moving", false);
             anim.SetTrigger("dead");
             anim.SetBool("isDead", true);
+            DieSound(); // Call parent function to play the death sound
 
             // Disable all colliders
             Collider2D[] colliders = GetComponents<Collider2D>();
@@ -137,6 +138,10 @@ public class SkeletonNormal : Enemy
             }
 
             StartCoroutine(PlayDeathAnimationAndDisable()); // Play death animation and then disable the enemy
+        }
+        else
+        {
+            HitSound(); // Call parent function to play the hit sound
         }
     }
 
