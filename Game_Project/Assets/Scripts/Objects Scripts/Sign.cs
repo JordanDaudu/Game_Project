@@ -22,7 +22,7 @@ public class Sign : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && playerInRange)
+        if (Input.GetKeyDown(KeyCode.E) && playerInRange && dialogBox != null)
         {
             if (dialogBox.activeInHierarchy)
             {
@@ -33,6 +33,10 @@ public class Sign : MonoBehaviour
                 dialogBox.SetActive(true);
                 dialogText.text = dialog;
             }
+        }
+        if (dialogBox == null)
+        {
+            Debug.LogWarning("dialog box is empty!");
         }
     }
 

@@ -22,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
     private InputAction attack;
     private InputAction interact;
     private InputAction roll;
+    private InputAction openMenu;
     Vector2 moveDirection = Vector2.zero;
     public bool CanBeHit = true; // Prevents multiple hits  
     public float hitCooldown = 0.5f;    // Time before another hit is registered
@@ -41,6 +42,7 @@ public class PlayerMovement : MonoBehaviour
     public FloatValue currentHealth;
     public Signal playerHealthSignal;
     public VectorValue startingPosition;
+    public MainMenu mainMenu; // Menu UI reference
 
     // Weapons variables
     public Animator weaponAnimator;
@@ -65,6 +67,10 @@ public class PlayerMovement : MonoBehaviour
         roll = playerControls.Player.Roll;
         roll.Enable();
         roll.performed += Roll;
+
+        openMenu = playerControls.Player.OpenMenu;
+        openMenu.Enable();
+        openMenu.performed += OpenMenu;
     }
     private void OnDisable()
     {
@@ -95,7 +101,6 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("moveY", startingPosition.facingDirectionY);
             }
         }
-
         // This if statement is to get the weapon game object sprite
         if(weaponAnimator !=  null)
         {
@@ -113,6 +118,13 @@ public class PlayerMovement : MonoBehaviour
         else if(currentState == PlayerState.stagger)
         {
             animator.SetTrigger("hit");
+        }
+
+        // testing purposes REMOVE LATER
+        if(Input.GetKeyDown("q"))
+        {
+            currentHealth.RuntimeValue += 1;
+            playerHealthSignal.Raise();
         }
     }
 
@@ -203,6 +215,14 @@ public class PlayerMovement : MonoBehaviour
         if (currentState != PlayerState.attack && currentState != PlayerState.stagger && currentState != PlayerState.roll)
         {
             StartCoroutine(RollCo());
+        }
+    }
+
+    private void OpenMenu(InputAction.CallbackContext context)
+    {
+        if(mainMenu != null)
+        {
+            mainMenu.Menu();
         }
     }
 
