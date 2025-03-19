@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -154,10 +167,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 118
-        width: 15
-        height: 13
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +189,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 116
-        width: 15
-        height: 13
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +211,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_2
       rect:
         serializedVersion: 2
-        x: 114
-        y: 117
-        width: 15
-        height: 13
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +233,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_3
       rect:
         serializedVersion: 2
-        x: 161
-        y: 118
-        width: 15
-        height: 13
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +255,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_4
       rect:
         serializedVersion: 2
-        x: 209
-        y: 119
-        width: 15
-        height: 13
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +277,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_5
       rect:
         serializedVersion: 2
-        x: 257
-        y: 119
-        width: 15
-        height: 13
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +299,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_6
       rect:
         serializedVersion: 2
-        x: 16
-        y: 72
-        width: 15
-        height: 12
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +321,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_7
       rect:
         serializedVersion: 2
-        x: 64
-        y: 69
-        width: 15
-        height: 12
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +343,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_8
       rect:
         serializedVersion: 2
-        x: 112
-        y: 70
-        width: 15
-        height: 12
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +365,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_9
       rect:
         serializedVersion: 2
-        x: 160
-        y: 71
-        width: 15
-        height: 12
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +387,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_10
       rect:
         serializedVersion: 2
-        x: 208
-        y: 72
-        width: 15
-        height: 12
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +409,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_11
       rect:
         serializedVersion: 2
-        x: 256
-        y: 72
-        width: 15
-        height: 12
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +431,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_12
       rect:
         serializedVersion: 2
-        x: 16
-        y: 22
-        width: 15
-        height: 14
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +453,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_13
       rect:
         serializedVersion: 2
-        x: 64
-        y: 19
-        width: 15
-        height: 14
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +475,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_14
       rect:
         serializedVersion: 2
-        x: 112
-        y: 20
-        width: 15
-        height: 14
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +497,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_15
       rect:
         serializedVersion: 2
-        x: 160
-        y: 21
-        width: 15
-        height: 14
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +519,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_16
       rect:
         serializedVersion: 2
-        x: 208
-        y: 22
-        width: 15
-        height: 14
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +541,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Axe_17
       rect:
         serializedVersion: 2
-        x: 256
-        y: 22
-        width: 15
-        height: 14
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 123714eaf79da4ca198bd166c9d35d94
     internalID: 0
     vertices: []
     indices: 
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medium_Hair_Brown_Axe_0: 3710675101860304006
+      Medium_Hair_Brown_Axe_1: -6294631363928669945
+      Medium_Hair_Brown_Axe_10: 3644126312356107768
+      Medium_Hair_Brown_Axe_11: 715357051112088066
+      Medium_Hair_Brown_Axe_12: 3022897101414588472
+      Medium_Hair_Brown_Axe_13: 744030836927141681
+      Medium_Hair_Brown_Axe_14: -1391534920821587693
+      Medium_Hair_Brown_Axe_15: 5443962572618150105
+      Medium_Hair_Brown_Axe_16: -4685002890420936483
+      Medium_Hair_Brown_Axe_17: 1609067567507827100
+      Medium_Hair_Brown_Axe_2: -2245836837773149077
+      Medium_Hair_Brown_Axe_3: 493210213390734155
+      Medium_Hair_Brown_Axe_4: 8837614442591582150
+      Medium_Hair_Brown_Axe_5: -2436466486666462444
+      Medium_Hair_Brown_Axe_6: 6445779407541829682
+      Medium_Hair_Brown_Axe_7: 8514823815245228058
+      Medium_Hair_Brown_Axe_8: 7618417446400224091
+      Medium_Hair_Brown_Axe_9: 7988294861000859029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -208,10 +221,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 86
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +243,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 86
-        width: 6
-        height: 6
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +265,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_2
       rect:
         serializedVersion: 2
-        x: 39
-        y: 86
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +287,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_3
       rect:
         serializedVersion: 2
-        x: 50
-        y: 86
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +309,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 86
-        width: 6
-        height: 6
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +331,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_5
       rect:
         serializedVersion: 2
-        x: 82
-        y: 86
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +353,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_6
       rect:
         serializedVersion: 2
-        x: 103
-        y: 86
-        width: 6
-        height: 6
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +375,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_7
       rect:
         serializedVersion: 2
-        x: 114
-        y: 86
-        width: 6
-        height: 6
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +397,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_8
       rect:
         serializedVersion: 2
-        x: 135
-        y: 86
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +419,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_9
       rect:
         serializedVersion: 2
-        x: 146
-        y: 86
-        width: 6
-        height: 6
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +441,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_10
       rect:
         serializedVersion: 2
-        x: 167
-        y: 86
-        width: 6
-        height: 6
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +463,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_11
       rect:
         serializedVersion: 2
-        x: 178
-        y: 86
-        width: 6
-        height: 6
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +485,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 54
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +507,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_13
       rect:
         serializedVersion: 2
-        x: 19
-        y: 54
-        width: 6
-        height: 6
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +529,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_14
       rect:
         serializedVersion: 2
-        x: 40
-        y: 54
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +551,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_15
       rect:
         serializedVersion: 2
-        x: 51
-        y: 54
-        width: 6
-        height: 6
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +573,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_16
       rect:
         serializedVersion: 2
-        x: 72
-        y: 54
-        width: 6
-        height: 6
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +595,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Running_17
       rect:
         serializedVersion: 2
-        x: 83
-        y: 54
-        width: 6
-        height: 6
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,407 +613,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_18
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d7e23e5d5b2cd7e0800000000000000
-      internalID: -1739467676059506729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_19
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7c68b4f3bdb8ce10800000000000000
-      internalID: 2218231397082492028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_20
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4cecae0d33559440800000000000000
-      internalID: 4941947687813311567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_21
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24689ab3f3b15a4e0800000000000000
-      internalID: -1971139303506868670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_22
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a59b1a2a8bf2cf6c0800000000000000
-      internalID: -4108356290019739302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_23
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17b7fefc70a0b8e10800000000000000
-      internalID: 2200863871570246513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_24
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6a76f71ef24c1180800000000000000
-      internalID: -9143359484377793937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_25
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f09279c7d0019d20800000000000000
-      internalID: 3283406530127499508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_26
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b201d7eaf3f838970800000000000000
-      internalID: 8755999604211519531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_27
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dff5a2bb3a9247820800000000000000
-      internalID: 2915000642012078077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_28
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7e4ec7e9e21a4710800000000000000
-      internalID: 1678174606974668414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_29
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68051f381ced70730800000000000000
-      internalID: 3965382919646695558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_30
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec8b33f8cd598f370800000000000000
-      internalID: 8356593883113830606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_31
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0fa804ec56e384b0800000000000000
-      internalID: -5439250638296273140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_32
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3132a52b3042c46e0800000000000000
-      internalID: -1852065748460362989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_33
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8f797f20e4c334b0800000000000000
-      internalID: -5461805455922069619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_34
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d46d88a1615eaac0800000000000000
-      internalID: -3842043952218938159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Running_35
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d685ca4e1376ac10800000000000000
-      internalID: 2064464053136623317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83ef9b8bce49641848665cc15ebeea72
     internalID: 0
     vertices: []
     indices: 
@@ -1009,7 +626,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Holding_Running_0: 3893051669953819775
+      Hands_Bare_Holding_Running_1: -4062591752560067932
+      Hands_Bare_Holding_Running_10: 1075885704561903336
+      Hands_Bare_Holding_Running_11: 3128856208658171179
+      Hands_Bare_Holding_Running_12: 3268728480718667061
+      Hands_Bare_Holding_Running_13: -2116011222974417925
+      Hands_Bare_Holding_Running_14: -6132241976317042765
+      Hands_Bare_Holding_Running_15: -3236485084856557496
+      Hands_Bare_Holding_Running_16: -6357353502665385164
+      Hands_Bare_Holding_Running_17: -795043049989306005
+      Hands_Bare_Holding_Running_2: -4433023928968481703
+      Hands_Bare_Holding_Running_3: -2633364041817174429
+      Hands_Bare_Holding_Running_4: -3506947317805744295
+      Hands_Bare_Holding_Running_5: 3691311450940487312
+      Hands_Bare_Holding_Running_6: -4893264295136522919
+      Hands_Bare_Holding_Running_7: -7006063873610053621
+      Hands_Bare_Holding_Running_8: 2449637206291506190
+      Hands_Bare_Holding_Running_9: 2944191162609692133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

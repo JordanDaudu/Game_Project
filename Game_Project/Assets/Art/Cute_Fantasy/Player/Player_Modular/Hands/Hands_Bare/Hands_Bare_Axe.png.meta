@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,10 +158,10 @@ TextureImporter:
       name: Hands_Bare_Axe_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 114
-        width: 6
-        height: 6
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +180,10 @@ TextureImporter:
       name: Hands_Bare_Axe_1
       rect:
         serializedVersion: 2
-        x: 75
-        y: 111
-        width: 6
-        height: 6
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: Hands_Bare_Axe_2
       rect:
         serializedVersion: 2
-        x: 122
-        y: 112
-        width: 6
-        height: 6
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +224,10 @@ TextureImporter:
       name: Hands_Bare_Axe_3
       rect:
         serializedVersion: 2
-        x: 169
-        y: 113
-        width: 6
-        height: 6
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +246,10 @@ TextureImporter:
       name: Hands_Bare_Axe_4
       rect:
         serializedVersion: 2
-        x: 214
-        y: 111
-        width: 6
-        height: 6
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +268,10 @@ TextureImporter:
       name: Hands_Bare_Axe_5
       rect:
         serializedVersion: 2
-        x: 259
-        y: 112
-        width: 6
-        height: 6
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +290,10 @@ TextureImporter:
       name: Hands_Bare_Axe_6
       rect:
         serializedVersion: 2
-        x: 14
-        y: 68
-        width: 6
-        height: 6
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +312,10 @@ TextureImporter:
       name: Hands_Bare_Axe_7
       rect:
         serializedVersion: 2
-        x: 65
-        y: 63
-        width: 6
-        height: 6
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +334,10 @@ TextureImporter:
       name: Hands_Bare_Axe_8
       rect:
         serializedVersion: 2
-        x: 113
-        y: 64
-        width: 6
-        height: 6
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +356,10 @@ TextureImporter:
       name: Hands_Bare_Axe_9
       rect:
         serializedVersion: 2
-        x: 161
-        y: 65
-        width: 6
-        height: 6
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +378,10 @@ TextureImporter:
       name: Hands_Bare_Axe_10
       rect:
         serializedVersion: 2
-        x: 206
-        y: 66
-        width: 6
-        height: 6
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +400,10 @@ TextureImporter:
       name: Hands_Bare_Axe_11
       rect:
         serializedVersion: 2
-        x: 254
-        y: 67
-        width: 6
-        height: 6
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +422,10 @@ TextureImporter:
       name: Hands_Bare_Axe_12
       rect:
         serializedVersion: 2
-        x: 220
-        y: 25
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +444,10 @@ TextureImporter:
       name: Hands_Bare_Axe_13
       rect:
         serializedVersion: 2
-        x: 268
-        y: 21
-        width: 6
-        height: 6
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +466,10 @@ TextureImporter:
       name: Hands_Bare_Axe_14
       rect:
         serializedVersion: 2
-        x: 27
-        y: 17
-        width: 6
-        height: 6
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,7 +488,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c595e22bb1bf541eb87561e1b6f8ac8e
     internalID: 0
     vertices: []
     indices: 
@@ -484,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Axe_0: 2036108756720996457
+      Hands_Bare_Axe_1: 2527778096936824387
+      Hands_Bare_Axe_10: -1685152633164284046
+      Hands_Bare_Axe_11: -1623468766814878694
+      Hands_Bare_Axe_12: 3270382955819237398
+      Hands_Bare_Axe_13: -6059800711581306928
+      Hands_Bare_Axe_14: -1438189560798969355
+      Hands_Bare_Axe_2: 2240119950634636079
+      Hands_Bare_Axe_3: -2640722661053515137
+      Hands_Bare_Axe_4: -5854666615450435364
+      Hands_Bare_Axe_5: -7309532852893124623
+      Hands_Bare_Axe_6: -3123933525512664890
+      Hands_Bare_Axe_7: -1585456748711176014
+      Hands_Bare_Axe_8: 7782986066843946227
+      Hands_Bare_Axe_9: 158486606743435016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shirt_Green_Idle_0: -4720234427932825456
+      Shirt_Green_Idle_1: -8266380706163942461
+      Shirt_Green_Idle_2: -7049416947293034032
+      Shirt_Green_Idle_3: 7433801710235544729
+      Shirt_Green_Idle_4: 730561997773164980
+      Shirt_Green_Idle_5: -2639972065968209595
+      Shirt_Green_Idle_6: 821268364627705280
+      Shirt_Green_Idle_7: 4189854007672368730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

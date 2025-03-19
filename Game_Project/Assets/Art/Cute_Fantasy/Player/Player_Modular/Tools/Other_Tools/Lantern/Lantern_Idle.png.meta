@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -154,10 +167,10 @@ TextureImporter:
       name: Lantern_Idle_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 72
-        width: 9
-        height: 13
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +189,10 @@ TextureImporter:
       name: Lantern_Idle_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 72
-        width: 9
-        height: 13
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +211,10 @@ TextureImporter:
       name: Lantern_Idle_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 71
-        width: 9
-        height: 13
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +233,10 @@ TextureImporter:
       name: Lantern_Idle_3
       rect:
         serializedVersion: 2
-        x: 99
-        y: 71
-        width: 9
-        height: 13
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +255,10 @@ TextureImporter:
       name: Lantern_Idle_4
       rect:
         serializedVersion: 2
-        x: 131
-        y: 71
-        width: 9
-        height: 13
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +277,10 @@ TextureImporter:
       name: Lantern_Idle_5
       rect:
         serializedVersion: 2
-        x: 163
-        y: 70
-        width: 9
-        height: 13
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +299,10 @@ TextureImporter:
       name: Lantern_Idle_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 41
-        width: 9
-        height: 13
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +321,10 @@ TextureImporter:
       name: Lantern_Idle_7
       rect:
         serializedVersion: 2
-        x: 36
-        y: 41
-        width: 9
-        height: 13
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +343,10 @@ TextureImporter:
       name: Lantern_Idle_8
       rect:
         serializedVersion: 2
-        x: 68
-        y: 40
-        width: 9
-        height: 13
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +365,10 @@ TextureImporter:
       name: Lantern_Idle_9
       rect:
         serializedVersion: 2
-        x: 100
-        y: 40
-        width: 9
-        height: 13
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +387,10 @@ TextureImporter:
       name: Lantern_Idle_10
       rect:
         serializedVersion: 2
-        x: 132
-        y: 41
-        width: 9
-        height: 13
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +409,10 @@ TextureImporter:
       name: Lantern_Idle_11
       rect:
         serializedVersion: 2
-        x: 164
-        y: 41
-        width: 9
-        height: 13
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +431,10 @@ TextureImporter:
       name: Lantern_Idle_12
       rect:
         serializedVersion: 2
-        x: 19
-        y: 10
-        width: 9
-        height: 13
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +453,10 @@ TextureImporter:
       name: Lantern_Idle_13
       rect:
         serializedVersion: 2
-        x: 51
-        y: 10
-        width: 9
-        height: 13
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +475,10 @@ TextureImporter:
       name: Lantern_Idle_14
       rect:
         serializedVersion: 2
-        x: 83
-        y: 9
-        width: 9
-        height: 13
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +497,10 @@ TextureImporter:
       name: Lantern_Idle_15
       rect:
         serializedVersion: 2
-        x: 115
-        y: 9
-        width: 9
-        height: 13
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +519,10 @@ TextureImporter:
       name: Lantern_Idle_16
       rect:
         serializedVersion: 2
-        x: 147
-        y: 10
-        width: 9
-        height: 13
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +541,10 @@ TextureImporter:
       name: Lantern_Idle_17
       rect:
         serializedVersion: 2
-        x: 179
-        y: 10
-        width: 9
-        height: 13
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cc155b7feea7b4a7eade508c94684110
     internalID: 0
     vertices: []
     indices: 
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lantern_Idle_0: -1694206549480106232
+      Lantern_Idle_1: -8961574955657401875
+      Lantern_Idle_10: 2669863572095629155
+      Lantern_Idle_11: 6391758488586224646
+      Lantern_Idle_12: -5051014976070627672
+      Lantern_Idle_13: -6691406961673374962
+      Lantern_Idle_14: 1865579703490497407
+      Lantern_Idle_15: -6671560760417954499
+      Lantern_Idle_16: 8620029798429428230
+      Lantern_Idle_17: -8256222039424742546
+      Lantern_Idle_2: 2302844438374846741
+      Lantern_Idle_3: 4878750008600765580
+      Lantern_Idle_4: -6659537411693805354
+      Lantern_Idle_5: -3618336125541096847
+      Lantern_Idle_6: 6018489720608600568
+      Lantern_Idle_7: 43122270802087031
+      Lantern_Idle_8: -4612399183119271586
+      Lantern_Idle_9: -2699614273993521694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

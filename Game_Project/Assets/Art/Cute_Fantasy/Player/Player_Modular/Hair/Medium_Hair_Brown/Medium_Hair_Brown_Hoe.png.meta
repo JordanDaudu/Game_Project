@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -136,6 +136,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medium_Hair_Brown_Hoe_0: -8155241630873990735
+      Medium_Hair_Brown_Hoe_1: -2636917031002156243
+      Medium_Hair_Brown_Hoe_10: -3333787842351735606
+      Medium_Hair_Brown_Hoe_11: 7658753499913213036
+      Medium_Hair_Brown_Hoe_12: 9215323973804002656
+      Medium_Hair_Brown_Hoe_13: 4847006111225433628
+      Medium_Hair_Brown_Hoe_14: -7193136249937189838
+      Medium_Hair_Brown_Hoe_15: -4012139365306721634
+      Medium_Hair_Brown_Hoe_16: 5274549421583540921
+      Medium_Hair_Brown_Hoe_17: 7235541035127737888
+      Medium_Hair_Brown_Hoe_2: -6614800215497445487
+      Medium_Hair_Brown_Hoe_3: -1856369449596257129
+      Medium_Hair_Brown_Hoe_4: 6058704656461797158
+      Medium_Hair_Brown_Hoe_5: 718570526836477370
+      Medium_Hair_Brown_Hoe_6: 3938777055934254614
+      Medium_Hair_Brown_Hoe_7: -1677192238903004290
+      Medium_Hair_Brown_Hoe_8: -5697625237246112843
+      Medium_Hair_Brown_Hoe_9: 7965413004540757279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

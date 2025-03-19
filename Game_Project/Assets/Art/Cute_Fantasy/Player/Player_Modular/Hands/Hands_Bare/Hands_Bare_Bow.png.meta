@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,10 +158,10 @@ TextureImporter:
       name: Hands_Bare_Bow_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 25
-        width: 46
-        height: 59
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +180,10 @@ TextureImporter:
       name: Hands_Bare_Bow_1
       rect:
         serializedVersion: 2
-        x: 77
-        y: 69
-        width: 7
-        height: 16
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: Hands_Bare_Bow_2
       rect:
         serializedVersion: 2
-        x: 110
-        y: 82
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +224,10 @@ TextureImporter:
       name: Hands_Bare_Bow_3
       rect:
         serializedVersion: 2
-        x: 144
-        y: 77
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +246,10 @@ TextureImporter:
       name: Hands_Bare_Bow_4
       rect:
         serializedVersion: 2
-        x: 13
-        y: 69
-        width: 7
-        height: 10
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +268,10 @@ TextureImporter:
       name: Hands_Bare_Bow_5
       rect:
         serializedVersion: 2
-        x: 109
-        y: 69
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +290,10 @@ TextureImporter:
       name: Hands_Bare_Bow_6
       rect:
         serializedVersion: 2
-        x: 141
-        y: 69
-        width: 6
-        height: 6
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +312,10 @@ TextureImporter:
       name: Hands_Bare_Bow_7
       rect:
         serializedVersion: 2
-        x: 173
-        y: 69
-        width: 6
-        height: 6
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +334,10 @@ TextureImporter:
       name: Hands_Bare_Bow_8
       rect:
         serializedVersion: 2
-        x: 175
-        y: 75
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +356,10 @@ TextureImporter:
       name: Hands_Bare_Bow_9
       rect:
         serializedVersion: 2
-        x: 74
-        y: 25
-        width: 41
-        height: 25
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +378,10 @@ TextureImporter:
       name: Hands_Bare_Bow_10
       rect:
         serializedVersion: 2
-        x: 118
-        y: 45
-        width: 6
-        height: 6
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +400,10 @@ TextureImporter:
       name: Hands_Bare_Bow_11
       rect:
         serializedVersion: 2
-        x: 136
-        y: 25
-        width: 11
-        height: 24
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +422,10 @@ TextureImporter:
       name: Hands_Bare_Bow_12
       rect:
         serializedVersion: 2
-        x: 150
-        y: 45
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +444,10 @@ TextureImporter:
       name: Hands_Bare_Bow_13
       rect:
         serializedVersion: 2
-        x: 170
-        y: 25
-        width: 9
-        height: 23
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +466,10 @@ TextureImporter:
       name: Hands_Bare_Bow_14
       rect:
         serializedVersion: 2
-        x: 182
-        y: 45
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,11 +484,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Hands_Bare_Bow_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332db61c43ef1477883c884386ffd07b
+      internalID: -190376853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hands_Bare_Bow_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4f3bb022524664b93f6562977c025
+      internalID: -143065503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hands_Bare_Bow_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44559f50029274c39b9953c457a4bdf6
+      internalID: 2118066732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2fb5c08955b094f328dc3ccbd6f139cd
     internalID: 0
     vertices: []
     indices: 
@@ -484,7 +563,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Bow_0: -1475781034204524007
+      Hands_Bare_Bow_1: 3519343402280452942
+      Hands_Bare_Bow_10: -6142996578765317660
+      Hands_Bare_Bow_11: -5243866347280006001
+      Hands_Bare_Bow_12: -2722322881716278258
+      Hands_Bare_Bow_13: 8728724496009487348
+      Hands_Bare_Bow_14: 6566394009701306583
+      Hands_Bare_Bow_15: -190376853
+      Hands_Bare_Bow_16: -143065503
+      Hands_Bare_Bow_17: 2118066732
+      Hands_Bare_Bow_2: 2522089217035525366
+      Hands_Bare_Bow_3: -1082069272494842852
+      Hands_Bare_Bow_4: 7089580505843099625
+      Hands_Bare_Bow_5: -6251548021419328976
+      Hands_Bare_Bow_6: 361549601138375207
+      Hands_Bare_Bow_7: -5117662888594801801
+      Hands_Bare_Bow_8: 5167198305122346316
+      Hands_Bare_Bow_9: 99280993897897014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

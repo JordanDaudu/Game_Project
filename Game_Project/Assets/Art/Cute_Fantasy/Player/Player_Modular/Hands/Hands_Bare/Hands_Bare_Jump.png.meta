@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -208,10 +221,10 @@ TextureImporter:
       name: Hands_Bare_Jump_0
       rect:
         serializedVersion: 2
-        x: 150
-        y: 161
-        width: 6
-        height: 6
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +243,10 @@ TextureImporter:
       name: Hands_Bare_Jump_1
       rect:
         serializedVersion: 2
-        x: 163
-        y: 161
-        width: 6
-        height: 6
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +265,10 @@ TextureImporter:
       name: Hands_Bare_Jump_2
       rect:
         serializedVersion: 2
-        x: 215
-        y: 161
-        width: 6
-        height: 6
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +287,10 @@ TextureImporter:
       name: Hands_Bare_Jump_3
       rect:
         serializedVersion: 2
-        x: 226
-        y: 161
-        width: 6
-        height: 6
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +309,10 @@ TextureImporter:
       name: Hands_Bare_Jump_4
       rect:
         serializedVersion: 2
-        x: 279
-        y: 160
-        width: 6
-        height: 6
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +331,10 @@ TextureImporter:
       name: Hands_Bare_Jump_5
       rect:
         serializedVersion: 2
-        x: 290
-        y: 160
-        width: 6
-        height: 6
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +353,10 @@ TextureImporter:
       name: Hands_Bare_Jump_6
       rect:
         serializedVersion: 2
-        x: 343
-        y: 156
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +375,10 @@ TextureImporter:
       name: Hands_Bare_Jump_7
       rect:
         serializedVersion: 2
-        x: 354
-        y: 156
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +397,10 @@ TextureImporter:
       name: Hands_Bare_Jump_8
       rect:
         serializedVersion: 2
-        x: 24
-        y: 153
-        width: 6
-        height: 6
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +419,10 @@ TextureImporter:
       name: Hands_Bare_Jump_9
       rect:
         serializedVersion: 2
-        x: 33
-        y: 153
-        width: 6
-        height: 6
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +441,10 @@ TextureImporter:
       name: Hands_Bare_Jump_10
       rect:
         serializedVersion: 2
-        x: 88
-        y: 152
-        width: 6
-        height: 6
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +463,10 @@ TextureImporter:
       name: Hands_Bare_Jump_11
       rect:
         serializedVersion: 2
-        x: 97
-        y: 152
-        width: 6
-        height: 6
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +485,10 @@ TextureImporter:
       name: Hands_Bare_Jump_12
       rect:
         serializedVersion: 2
-        x: 152
-        y: 97
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +507,10 @@ TextureImporter:
       name: Hands_Bare_Jump_13
       rect:
         serializedVersion: 2
-        x: 162
-        y: 97
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +529,10 @@ TextureImporter:
       name: Hands_Bare_Jump_14
       rect:
         serializedVersion: 2
-        x: 217
-        y: 97
-        width: 6
-        height: 6
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +551,10 @@ TextureImporter:
       name: Hands_Bare_Jump_15
       rect:
         serializedVersion: 2
-        x: 225
-        y: 97
-        width: 6
-        height: 6
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +573,10 @@ TextureImporter:
       name: Hands_Bare_Jump_16
       rect:
         serializedVersion: 2
-        x: 281
-        y: 96
-        width: 6
-        height: 6
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +595,10 @@ TextureImporter:
       name: Hands_Bare_Jump_17
       rect:
         serializedVersion: 2
-        x: 289
-        y: 96
-        width: 6
-        height: 6
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,407 +613,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_18
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 91
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf7cf4a0212d1cfa0800000000000000
-      internalID: -5782109471642761221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_19
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 91
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a8217b7aae3efdb0800000000000000
-      internalID: -4756295254520289114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_20
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 89
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10f3dfd1216894570800000000000000
-      internalID: 8451433588108115713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_21
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 89
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f75493827bbacb80800000000000000
-      internalID: -8373674456633813003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_22
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 88
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34778567e81e5b730800000000000000
-      internalID: 4014362644857780035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_23
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 88
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b91b0f9842aaf230800000000000000
-      internalID: 3673426878863710646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_24
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 33
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3b20693003e043b0800000000000000
-      internalID: -5530170752308860097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_25
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 33
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55b272cfdbdb15550800000000000000
-      internalID: 6147903590014331733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_26
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 33
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b373abddddb49190800000000000000
-      internalID: -7956525881086479432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_27
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 33
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed6bd3aab858787c0800000000000000
-      internalID: -4069136903402834210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_28
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 32
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32673e52a7e900ba0800000000000000
-      internalID: -6124721245765011933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_29
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 32
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94a3fda518d9a9190800000000000000
-      internalID: -7954872612895638967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_30
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 28
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e88d170263565ba0800000000000000
-      internalID: -6100596964735481623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_31
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 28
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89808ba2ee6dfe040800000000000000
-      internalID: 4679194856268499096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_32
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 25
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8caaf0d408a55ca0800000000000000
-      internalID: -6028727787526116212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_33
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 25
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a27143b5dacafe80800000000000000
-      internalID: -8143973956961865048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_34
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 24
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 445e2b04368e77c30800000000000000
-      internalID: 4357206677489116484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Jump_35
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 24
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25a250dbdb64c8bf0800000000000000
-      internalID: -320803692716152238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 679175eeb0e1f441abb8d137f96adc54
     internalID: 0
     vertices: []
     indices: 
@@ -1009,7 +626,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Jump_0: 2586846478353118326
+      Hands_Bare_Jump_1: -1354174724046684006
+      Hands_Bare_Jump_10: 4505283701630279066
+      Hands_Bare_Jump_11: -1465945144340792504
+      Hands_Bare_Jump_12: 8090093140690869407
+      Hands_Bare_Jump_13: -6410905851423043529
+      Hands_Bare_Jump_14: -1447899071869573662
+      Hands_Bare_Jump_15: -5070114508158758251
+      Hands_Bare_Jump_16: -1769793954995437154
+      Hands_Bare_Jump_17: -5397094115094123887
+      Hands_Bare_Jump_2: 5096035963832553980
+      Hands_Bare_Jump_3: -4631062067235183047
+      Hands_Bare_Jump_4: 7391646660863031464
+      Hands_Bare_Jump_5: -2530220464114259412
+      Hands_Bare_Jump_6: 7706766261599752849
+      Hands_Bare_Jump_7: -5440455983471415865
+      Hands_Bare_Jump_8: 396984137871945485
+      Hands_Bare_Jump_9: -4110159477032920215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

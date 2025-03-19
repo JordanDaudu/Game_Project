@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -208,10 +221,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 271
-        width: 15
-        height: 12
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +243,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 272
-        width: 15
-        height: 12
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +265,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 272
-        width: 15
-        height: 12
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +287,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 272
-        width: 15
-        height: 12
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +309,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_4
       rect:
         serializedVersion: 2
-        x: 8
-        y: 239
-        width: 15
-        height: 12
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +331,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_5
       rect:
         serializedVersion: 2
-        x: 40
-        y: 240
-        width: 15
-        height: 12
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +353,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_6
       rect:
         serializedVersion: 2
-        x: 72
-        y: 240
-        width: 15
-        height: 12
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +375,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_7
       rect:
         serializedVersion: 2
-        x: 104
-        y: 240
-        width: 15
-        height: 12
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +397,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_8
       rect:
         serializedVersion: 2
-        x: 8
-        y: 207
-        width: 15
-        height: 12
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +419,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_9
       rect:
         serializedVersion: 2
-        x: 40
-        y: 208
-        width: 15
-        height: 12
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +441,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_10
       rect:
         serializedVersion: 2
-        x: 72
-        y: 208
-        width: 15
-        height: 12
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +463,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_11
       rect:
         serializedVersion: 2
-        x: 104
-        y: 208
-        width: 15
-        height: 12
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +485,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_12
       rect:
         serializedVersion: 2
-        x: 11
-        y: 174
-        width: 15
-        height: 13
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +507,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_13
       rect:
         serializedVersion: 2
-        x: 40
-        y: 174
-        width: 15
-        height: 13
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +529,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_14
       rect:
         serializedVersion: 2
-        x: 73
-        y: 174
-        width: 15
-        height: 13
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +551,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_15
       rect:
         serializedVersion: 2
-        x: 105
-        y: 175
-        width: 15
-        height: 13
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +573,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_16
       rect:
         serializedVersion: 2
-        x: 8
-        y: 142
-        width: 15
-        height: 13
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +595,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_17
       rect:
         serializedVersion: 2
-        x: 43
-        y: 142
-        width: 15
-        height: 13
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +617,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_18
       rect:
         serializedVersion: 2
-        x: 73
-        y: 142
-        width: 15
-        height: 13
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +639,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_19
       rect:
         serializedVersion: 2
-        x: 105
-        y: 143
-        width: 15
-        height: 13
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +661,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_20
       rect:
         serializedVersion: 2
-        x: 8
-        y: 110
-        width: 15
-        height: 13
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +683,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_21
       rect:
         serializedVersion: 2
-        x: 43
-        y: 110
-        width: 15
-        height: 13
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,10 +705,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_22
       rect:
         serializedVersion: 2
-        x: 73
-        y: 110
-        width: 15
-        height: 13
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +727,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_23
       rect:
         serializedVersion: 2
-        x: 105
-        y: 111
-        width: 15
-        height: 13
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +749,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_24
       rect:
         serializedVersion: 2
-        x: 8
-        y: 77
-        width: 15
-        height: 14
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +771,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_25
       rect:
         serializedVersion: 2
-        x: 40
-        y: 78
-        width: 15
-        height: 14
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,10 +793,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_26
       rect:
         serializedVersion: 2
-        x: 72
-        y: 78
-        width: 15
-        height: 14
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,10 +815,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_27
       rect:
         serializedVersion: 2
-        x: 104
-        y: 78
-        width: 15
-        height: 14
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +837,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_28
       rect:
         serializedVersion: 2
-        x: 8
-        y: 45
-        width: 15
-        height: 14
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +859,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_29
       rect:
         serializedVersion: 2
-        x: 40
-        y: 46
-        width: 15
-        height: 14
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,10 +881,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_30
       rect:
         serializedVersion: 2
-        x: 72
-        y: 46
-        width: 15
-        height: 14
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +903,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_31
       rect:
         serializedVersion: 2
-        x: 104
-        y: 46
-        width: 15
-        height: 14
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,10 +925,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_32
       rect:
         serializedVersion: 2
-        x: 8
-        y: 13
-        width: 15
-        height: 14
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,10 +947,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_33
       rect:
         serializedVersion: 2
-        x: 40
-        y: 14
-        width: 15
-        height: 14
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,10 +969,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_34
       rect:
         serializedVersion: 2
-        x: 72
-        y: 14
-        width: 15
-        height: 14
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -978,10 +991,10 @@ TextureImporter:
       name: Medium_Hair_Brown_Attack_35
       rect:
         serializedVersion: 2
-        x: 104
-        y: 14
-        width: 15
-        height: 14
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,7 +1013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d717ed8098a9d474d97367ed1a15f85d
     internalID: 0
     vertices: []
     indices: 
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medium_Hair_Brown_Attack_0: -4490943990792005667
+      Medium_Hair_Brown_Attack_1: 6843975109028780702
+      Medium_Hair_Brown_Attack_10: 3175616077694859294
+      Medium_Hair_Brown_Attack_11: 6802184119660016872
+      Medium_Hair_Brown_Attack_12: 7416694079504179348
+      Medium_Hair_Brown_Attack_13: 3918226949457348476
+      Medium_Hair_Brown_Attack_14: 2121732252684211597
+      Medium_Hair_Brown_Attack_15: 2819977039125072342
+      Medium_Hair_Brown_Attack_16: -7076189788834809352
+      Medium_Hair_Brown_Attack_17: -8566203852169284358
+      Medium_Hair_Brown_Attack_18: 3876969601971411649
+      Medium_Hair_Brown_Attack_19: -5166966245002157875
+      Medium_Hair_Brown_Attack_2: 8347054449733592664
+      Medium_Hair_Brown_Attack_20: -4466690865185955445
+      Medium_Hair_Brown_Attack_21: -3845056470335749450
+      Medium_Hair_Brown_Attack_22: -1605039886504010070
+      Medium_Hair_Brown_Attack_23: 7746761550636012630
+      Medium_Hair_Brown_Attack_24: 819119173240123585
+      Medium_Hair_Brown_Attack_25: -2078561031766532071
+      Medium_Hair_Brown_Attack_26: -953893440395853049
+      Medium_Hair_Brown_Attack_27: -400642326120894860
+      Medium_Hair_Brown_Attack_28: 2254841585119672030
+      Medium_Hair_Brown_Attack_29: 1677296183020982260
+      Medium_Hair_Brown_Attack_3: 2813556716570784631
+      Medium_Hair_Brown_Attack_30: 4532802978344139331
+      Medium_Hair_Brown_Attack_31: 2977478871587534629
+      Medium_Hair_Brown_Attack_32: -7021494442866528902
+      Medium_Hair_Brown_Attack_33: 9067191981619631621
+      Medium_Hair_Brown_Attack_34: -9080600122153367847
+      Medium_Hair_Brown_Attack_35: -6599971562647306192
+      Medium_Hair_Brown_Attack_4: 2945034522030169529
+      Medium_Hair_Brown_Attack_5: 5694576695891785521
+      Medium_Hair_Brown_Attack_6: -8485880899148106344
+      Medium_Hair_Brown_Attack_7: 8225926750585591121
+      Medium_Hair_Brown_Attack_8: 4991029146178176313
+      Medium_Hair_Brown_Attack_9: 7114902450142657335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

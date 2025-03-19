@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -190,10 +203,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 75
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +225,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 74
-        width: 6
-        height: 6
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +247,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_2
       rect:
         serializedVersion: 2
-        x: 38
-        y: 75
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +269,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 73
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +291,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_4
       rect:
         serializedVersion: 2
-        x: 70
-        y: 74
-        width: 6
-        height: 6
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +313,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_5
       rect:
         serializedVersion: 2
-        x: 81
-        y: 73
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +335,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_6
       rect:
         serializedVersion: 2
-        x: 102
-        y: 74
-        width: 6
-        height: 6
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +357,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_7
       rect:
         serializedVersion: 2
-        x: 113
-        y: 73
-        width: 6
-        height: 6
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +379,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_8
       rect:
         serializedVersion: 2
-        x: 134
-        y: 75
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +401,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_9
       rect:
         serializedVersion: 2
-        x: 144
-        y: 73
-        width: 6
-        height: 6
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +423,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_10
       rect:
         serializedVersion: 2
-        x: 166
-        y: 75
-        width: 6
-        height: 6
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +445,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_11
       rect:
         serializedVersion: 2
-        x: 176
-        y: 74
-        width: 6
-        height: 6
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +467,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 44
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +489,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 42
-        width: 6
-        height: 6
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +511,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_14
       rect:
         serializedVersion: 2
-        x: 40
-        y: 44
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +533,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 41
-        width: 6
-        height: 6
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +555,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_16
       rect:
         serializedVersion: 2
-        x: 72
-        y: 43
-        width: 6
-        height: 6
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: Hands_Bare_Torch_Idle_17
       rect:
         serializedVersion: 2
-        x: 81
-        y: 41
-        width: 6
-        height: 6
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,275 +595,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_18
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 43
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1dbe20a40d3a2a2b0800000000000000
-      internalID: -5574713273741022255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_19
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 41
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ace0159f8b9472d80800000000000000
-      internalID: -8275564731464347958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_20
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 44
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74c74177e5b52e2b0800000000000000
-      internalID: -5556778528938886073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_21
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 41
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e45be126524b4d580800000000000000
-      internalID: -8803213298949507762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_22
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 44
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1edce2f80098c1a30800000000000000
-      internalID: 4187372389042933217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_23
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 42
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b481db0375530f350800000000000000
-      internalID: 6048392948154701899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_24
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 10
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79e24a897b638ace0800000000000000
-      internalID: -1393803922503356777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_25
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 9
-        width: 16
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f89cb913010e75040800000000000000
-      internalID: 4636420701557606799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_26
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 10
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be290774461e46f00800000000000000
-      internalID: 1109259229051523819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_27
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 10
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d680c1389700aba0800000000000000
-      internalID: -6079851146699045164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_28
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 9
-        width: 16
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d047ea57394516a0800000000000000
-      internalID: -6479191986805456686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Torch_Idle_29
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 10
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93bd800e318bd6390800000000000000
-      internalID: -7823394582170117319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2b3721a4b70ae404fb909c15ca921861
     internalID: 0
     vertices: []
     indices: 
@@ -859,7 +608,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Torch_Idle_0: -2645159422999641911
+      Hands_Bare_Torch_Idle_1: 2135409846940773621
+      Hands_Bare_Torch_Idle_10: 4740401054737985075
+      Hands_Bare_Torch_Idle_11: 4608328509667166101
+      Hands_Bare_Torch_Idle_12: 5580422454809303669
+      Hands_Bare_Torch_Idle_13: 2818633528986864091
+      Hands_Bare_Torch_Idle_14: 7185865575234444128
+      Hands_Bare_Torch_Idle_15: 6684568078029504801
+      Hands_Bare_Torch_Idle_16: -4767384496980225197
+      Hands_Bare_Torch_Idle_17: -7104668855638192582
+      Hands_Bare_Torch_Idle_2: -737889786983856617
+      Hands_Bare_Torch_Idle_3: -6927816075795949915
+      Hands_Bare_Torch_Idle_4: -2770469787602780873
+      Hands_Bare_Torch_Idle_5: -4281990677989272960
+      Hands_Bare_Torch_Idle_6: 6292779434258004400
+      Hands_Bare_Torch_Idle_7: -2800749125004752504
+      Hands_Bare_Torch_Idle_8: -1860296933050857485
+      Hands_Bare_Torch_Idle_9: 4921388558340463228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

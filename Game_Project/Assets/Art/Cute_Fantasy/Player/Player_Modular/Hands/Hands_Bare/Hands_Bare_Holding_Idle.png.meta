@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -208,10 +221,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 86
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +243,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 86
-        width: 6
-        height: 6
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +265,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_2
       rect:
         serializedVersion: 2
-        x: 39
-        y: 86
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +287,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_3
       rect:
         serializedVersion: 2
-        x: 50
-        y: 86
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +309,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 86
-        width: 6
-        height: 6
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +331,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_5
       rect:
         serializedVersion: 2
-        x: 82
-        y: 86
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +353,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_6
       rect:
         serializedVersion: 2
-        x: 103
-        y: 86
-        width: 6
-        height: 6
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +375,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_7
       rect:
         serializedVersion: 2
-        x: 114
-        y: 86
-        width: 6
-        height: 6
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +397,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_8
       rect:
         serializedVersion: 2
-        x: 135
-        y: 86
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +419,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_9
       rect:
         serializedVersion: 2
-        x: 146
-        y: 86
-        width: 6
-        height: 6
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +441,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_10
       rect:
         serializedVersion: 2
-        x: 167
-        y: 86
-        width: 6
-        height: 6
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +463,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_11
       rect:
         serializedVersion: 2
-        x: 178
-        y: 86
-        width: 6
-        height: 6
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +485,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_12
       rect:
         serializedVersion: 2
-        x: 8
-        y: 54
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +507,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_13
       rect:
         serializedVersion: 2
-        x: 19
-        y: 54
-        width: 6
-        height: 6
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +529,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_14
       rect:
         serializedVersion: 2
-        x: 40
-        y: 54
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +551,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_15
       rect:
         serializedVersion: 2
-        x: 51
-        y: 54
-        width: 6
-        height: 6
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +573,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_16
       rect:
         serializedVersion: 2
-        x: 72
-        y: 54
-        width: 6
-        height: 6
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +595,10 @@ TextureImporter:
       name: Hands_Bare_Holding_Idle_17
       rect:
         serializedVersion: 2
-        x: 83
-        y: 54
-        width: 6
-        height: 6
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,407 +613,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_18
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4d88be933694f500800000000000000
-      internalID: 429133012957433163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_19
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be9f75d66b6705180800000000000000
-      internalID: -9128665918789387797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_20
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a18939f7da1b2c70800000000000000
-      internalID: 8947274599603208613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_21
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6438b4cc40d219e50800000000000000
-      internalID: 6814277209818891078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_22
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab475606b640f9cf0800000000000000
-      internalID: -243470995629443910
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_23
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 54
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d32107c33bc31bfe0800000000000000
-      internalID: -1175091287256198595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_24
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2f6c082600ed3aa0800000000000000
-      internalID: -6179536796636123346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_25
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de8b099855a78f180800000000000000
-      internalID: -9081374140793833235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_26
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c33e843ce0e5a2d10800000000000000
-      internalID: 2101595593620644668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_27
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd09b0f4fb3ac1af0800000000000000
-      internalID: -424284222819430179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_28
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bff35943e38d73b10800000000000000
-      internalID: 1961273924424908795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_29
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77f6153d9f3ebc840800000000000000
-      internalID: 5245536853134765943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_30
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df08150fb0eca3640800000000000000
-      internalID: 5060583681976008957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_31
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f5d1ea9847c91290800000000000000
-      internalID: -7919079355104242185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_32
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0890604d6ccf11b50800000000000000
-      internalID: 6562304062946412928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_33
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 775a7c45284ec1ff0800000000000000
-      internalID: -63925046270777993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_34
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3d2ba7e21ab0b850800000000000000
-      internalID: 6390812461597666622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Holding_Idle_35
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a10335c8ef4d8df20800000000000000
-      internalID: 3447739704493158426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fbef5c947f9294c67a9a66b96fb06fc5
     internalID: 0
     vertices: []
     indices: 
@@ -1009,7 +626,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Holding_Idle_0: 1812311557540006486
+      Hands_Bare_Holding_Idle_1: 7605051885782869356
+      Hands_Bare_Holding_Idle_10: 7086106308723290689
+      Hands_Bare_Holding_Idle_11: -5008489472258774835
+      Hands_Bare_Holding_Idle_12: 8480231929540651532
+      Hands_Bare_Holding_Idle_13: 8674121440021778029
+      Hands_Bare_Holding_Idle_14: -7602915936699760655
+      Hands_Bare_Holding_Idle_15: 314088671090260931
+      Hands_Bare_Holding_Idle_16: -5643667881256197616
+      Hands_Bare_Holding_Idle_17: 6489699232079505332
+      Hands_Bare_Holding_Idle_2: -3600674230311062297
+      Hands_Bare_Holding_Idle_3: 6876193616512412504
+      Hands_Bare_Holding_Idle_4: 8255761545855457272
+      Hands_Bare_Holding_Idle_5: 6197942905786955706
+      Hands_Bare_Holding_Idle_6: 2926991115203989878
+      Hands_Bare_Holding_Idle_7: 511088421282254396
+      Hands_Bare_Holding_Idle_8: -6832335890168526666
+      Hands_Bare_Holding_Idle_9: 1883131728815309800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

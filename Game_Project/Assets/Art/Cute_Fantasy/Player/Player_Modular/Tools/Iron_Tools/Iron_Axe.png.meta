@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -154,10 +167,10 @@ TextureImporter:
       name: Iron_Axe_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 113
-        width: 17
-        height: 13
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +189,10 @@ TextureImporter:
       name: Iron_Axe_1
       rect:
         serializedVersion: 2
-        x: 55
-        y: 64
-        width: 67
-        height: 58
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +211,10 @@ TextureImporter:
       name: Iron_Axe_2
       rect:
         serializedVersion: 2
-        x: 122
-        y: 106
-        width: 17
-        height: 16
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +233,10 @@ TextureImporter:
       name: Iron_Axe_3
       rect:
         serializedVersion: 2
-        x: 172
-        y: 115
-        width: 14
-        height: 8
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +255,10 @@ TextureImporter:
       name: Iron_Axe_4
       rect:
         serializedVersion: 2
-        x: 213
-        y: 105
-        width: 17
-        height: 13
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +277,10 @@ TextureImporter:
       name: Iron_Axe_5
       rect:
         serializedVersion: 2
-        x: 253
-        y: 102
-        width: 13
-        height: 17
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +299,10 @@ TextureImporter:
       name: Iron_Axe_6
       rect:
         serializedVersion: 2
-        x: 10
-        y: 71
-        width: 8
-        height: 14
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +321,10 @@ TextureImporter:
       name: Iron_Axe_7
       rect:
         serializedVersion: 2
-        x: 244
-        y: 70
-        width: 13
-        height: 9
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +343,10 @@ TextureImporter:
       name: Iron_Axe_8
       rect:
         serializedVersion: 2
-        x: 59
-        y: 52
-        width: 17
-        height: 15
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +365,10 @@ TextureImporter:
       name: Iron_Axe_9
       rect:
         serializedVersion: 2
-        x: 111
-        y: 53
-        width: 12
-        height: 14
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +387,10 @@ TextureImporter:
       name: Iron_Axe_10
       rect:
         serializedVersion: 2
-        x: 163
-        y: 54
-        width: 8
-        height: 14
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +409,10 @@ TextureImporter:
       name: Iron_Axe_11
       rect:
         serializedVersion: 2
-        x: 200
-        y: 56
-        width: 9
-        height: 13
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +431,10 @@ TextureImporter:
       name: Iron_Axe_12
       rect:
         serializedVersion: 2
-        x: 67
-        y: 7
-        width: 18
-        height: 37
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +453,10 @@ TextureImporter:
       name: Iron_Axe_13
       rect:
         serializedVersion: 2
-        x: 116
-        y: 11
-        width: 15
-        height: 33
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +475,10 @@ TextureImporter:
       name: Iron_Axe_14
       rect:
         serializedVersion: 2
-        x: 164
-        y: 33
-        width: 8
-        height: 10
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +497,10 @@ TextureImporter:
       name: Iron_Axe_15
       rect:
         serializedVersion: 2
-        x: 223
-        y: 28
-        width: 9
-        height: 13
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +519,10 @@ TextureImporter:
       name: Iron_Axe_16
       rect:
         serializedVersion: 2
-        x: 29
-        y: 6
-        width: 8
-        height: 14
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +541,10 @@ TextureImporter:
       name: Iron_Axe_17
       rect:
         serializedVersion: 2
-        x: 271
-        y: 15
-        width: 13
-        height: 9
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bcb8c6cbc4e1b409db87264b2aab4f82
     internalID: 0
     vertices: []
     indices: 
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Iron_Axe_0: 9047117553740066839
+      Iron_Axe_1: 2965910939634963060
+      Iron_Axe_10: -5118620025499549971
+      Iron_Axe_11: -5364496641152487104
+      Iron_Axe_12: -6900329811545929837
+      Iron_Axe_13: 5677529388199376586
+      Iron_Axe_14: 7266162901739560844
+      Iron_Axe_15: -3919001294312975076
+      Iron_Axe_16: -3130419583638819690
+      Iron_Axe_17: 3797067005159346139
+      Iron_Axe_2: 5900332552338516459
+      Iron_Axe_3: 6915444578843453103
+      Iron_Axe_4: -5705932420237858599
+      Iron_Axe_5: -5267126456664129682
+      Iron_Axe_6: -7885577888480295246
+      Iron_Axe_7: -1052634653442876981
+      Iron_Axe_8: -1878694653810571420
+      Iron_Axe_9: 7135626586580194021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

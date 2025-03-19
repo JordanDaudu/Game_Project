@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,10 +158,10 @@ TextureImporter:
       name: Iron_Pickaxe_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 117
-        width: 15
-        height: 15
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +180,10 @@ TextureImporter:
       name: Iron_Pickaxe_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 108
-        width: 30
-        height: 28
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: Iron_Pickaxe_2
       rect:
         serializedVersion: 2
-        x: 121
-        y: 109
-        width: 17
-        height: 27
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +224,10 @@ TextureImporter:
       name: Iron_Pickaxe_3
       rect:
         serializedVersion: 2
-        x: 219
-        y: 121
-        width: 15
-        height: 15
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +246,10 @@ TextureImporter:
       name: Iron_Pickaxe_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 124
-        width: 14
-        height: 15
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +268,10 @@ TextureImporter:
       name: Iron_Pickaxe_5
       rect:
         serializedVersion: 2
-        x: 173
-        y: 109
-        width: 11
-        height: 14
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +290,10 @@ TextureImporter:
       name: Iron_Pickaxe_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 76
-        width: 6
-        height: 20
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +312,10 @@ TextureImporter:
       name: Iron_Pickaxe_7
       rect:
         serializedVersion: 2
-        x: 64
-        y: 18
-        width: 16
-        height: 71
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +334,10 @@ TextureImporter:
       name: Iron_Pickaxe_8
       rect:
         serializedVersion: 2
-        x: 112
-        y: 19
-        width: 16
-        height: 69
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +356,10 @@ TextureImporter:
       name: Iron_Pickaxe_9
       rect:
         serializedVersion: 2
-        x: 208
-        y: 69
-        width: 6
-        height: 17
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +378,10 @@ TextureImporter:
       name: Iron_Pickaxe_10
       rect:
         serializedVersion: 2
-        x: 256
-        y: 74
-        width: 6
-        height: 17
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +400,10 @@ TextureImporter:
       name: Iron_Pickaxe_11
       rect:
         serializedVersion: 2
-        x: 25
-        y: 29
-        width: 6
-        height: 19
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +422,10 @@ TextureImporter:
       name: Iron_Pickaxe_12
       rect:
         serializedVersion: 2
-        x: 160
-        y: 18
-        width: 16
-        height: 56
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +444,10 @@ TextureImporter:
       name: Iron_Pickaxe_13
       rect:
         serializedVersion: 2
-        x: 218
-        y: 30
-        width: 6
-        height: 10
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +466,10 @@ TextureImporter:
       name: Iron_Pickaxe_14
       rect:
         serializedVersion: 2
-        x: 266
-        y: 30
-        width: 6
-        height: 14
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,11 +484,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Iron_Pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e53fe006234089ba917a1d52b8707
+      internalID: -604200769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc520aeb39b74495a23022e15fb2448
+      internalID: -455330019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeeecd480a5940a48853e4ff9cba8ce
+      internalID: -1169067861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6f24b1327282041baaa65c9847626a2b
     internalID: 0
     vertices: []
     indices: 
@@ -484,7 +563,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Iron_Pickaxe_0: -3788526117380394678
+      Iron_Pickaxe_1: -5078986805398044764
+      Iron_Pickaxe_10: -7296705358356151430
+      Iron_Pickaxe_11: -5818498233211087818
+      Iron_Pickaxe_12: 9168076343757975992
+      Iron_Pickaxe_13: 4535745707176007247
+      Iron_Pickaxe_14: 4621257526843061509
+      Iron_Pickaxe_15: -604200769
+      Iron_Pickaxe_16: -455330019
+      Iron_Pickaxe_17: -1169067861
+      Iron_Pickaxe_2: 5502875285271841615
+      Iron_Pickaxe_3: -7720260225122892279
+      Iron_Pickaxe_4: -4603485017170669986
+      Iron_Pickaxe_5: -6133908358360529104
+      Iron_Pickaxe_6: 5442756925852693910
+      Iron_Pickaxe_7: -2553633754298534591
+      Iron_Pickaxe_8: 8662987369459750391
+      Iron_Pickaxe_9: -1827007942347688053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

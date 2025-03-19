@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -154,10 +167,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_0
       rect:
         serializedVersion: 2
-        x: 220
-        y: 122
-        width: 6
-        height: 6
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +189,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_1
       rect:
         serializedVersion: 2
-        x: 261
-        y: 125
-        width: 6
-        height: 6
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +211,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_2
       rect:
         serializedVersion: 2
-        x: 15
-        y: 118
-        width: 6
-        height: 6
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +233,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_3
       rect:
         serializedVersion: 2
-        x: 122
-        y: 112
-        width: 6
-        height: 6
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +255,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_4
       rect:
         serializedVersion: 2
-        x: 170
-        y: 112
-        width: 6
-        height: 6
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +277,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_5
       rect:
         serializedVersion: 2
-        x: 74
-        y: 111
-        width: 6
-        height: 6
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +299,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_6
       rect:
         serializedVersion: 2
-        x: 15
-        y: 77
-        width: 10
-        height: 8
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +321,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_7
       rect:
         serializedVersion: 2
-        x: 206
-        y: 70
-        width: 10
-        height: 8
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +343,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_8
       rect:
         serializedVersion: 2
-        x: 254
-        y: 74
-        width: 10
-        height: 8
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +365,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_9
       rect:
         serializedVersion: 2
-        x: 62
-        y: 61
-        width: 10
-        height: 8
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +387,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_10
       rect:
         serializedVersion: 2
-        x: 110
-        y: 62
-        width: 10
-        height: 8
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +409,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_11
       rect:
         serializedVersion: 2
-        x: 158
-        y: 62
-        width: 10
-        height: 8
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +431,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_12
       rect:
         serializedVersion: 2
-        x: 23
-        y: 29
-        width: 10
-        height: 8
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +453,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_13
       rect:
         serializedVersion: 2
-        x: 220
-        y: 25
-        width: 6
-        height: 6
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +475,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_14
       rect:
         serializedVersion: 2
-        x: 268
-        y: 30
-        width: 6
-        height: 6
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +497,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_15
       rect:
         serializedVersion: 2
-        x: 76
-        y: 22
-        width: 6
-        height: 6
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +519,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_16
       rect:
         serializedVersion: 2
-        x: 124
-        y: 23
-        width: 6
-        height: 6
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +541,10 @@ TextureImporter:
       name: Hands_Bare_Pickaxe_17
       rect:
         serializedVersion: 2
-        x: 172
-        y: 23
-        width: 6
-        height: 6
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ce005e2b747d54241ba945d76ca1ef48
     internalID: 0
     vertices: []
     indices: 
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Pickaxe_0: -4189823187317320416
+      Hands_Bare_Pickaxe_1: 4849885378795722385
+      Hands_Bare_Pickaxe_10: 1104107182841239739
+      Hands_Bare_Pickaxe_11: 4964124108701097020
+      Hands_Bare_Pickaxe_12: -6692091575807673200
+      Hands_Bare_Pickaxe_13: 9016650630760356108
+      Hands_Bare_Pickaxe_14: -5954003614721809461
+      Hands_Bare_Pickaxe_15: -5911571731100483449
+      Hands_Bare_Pickaxe_16: 3783533930174258084
+      Hands_Bare_Pickaxe_17: 7174544707209285639
+      Hands_Bare_Pickaxe_2: 8340726406301360762
+      Hands_Bare_Pickaxe_3: 2076249293940757445
+      Hands_Bare_Pickaxe_4: 7937222253493275544
+      Hands_Bare_Pickaxe_5: 7222351136151102484
+      Hands_Bare_Pickaxe_6: -3766528483010084336
+      Hands_Bare_Pickaxe_7: 3175000002803126355
+      Hands_Bare_Pickaxe_8: -9158791157416553513
+      Hands_Bare_Pickaxe_9: 5997619253607660991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

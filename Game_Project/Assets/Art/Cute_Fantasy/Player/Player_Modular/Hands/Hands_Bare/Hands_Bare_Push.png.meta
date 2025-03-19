@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -190,10 +203,10 @@ TextureImporter:
       name: Hands_Bare_Push_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 171
-        width: 6
-        height: 6
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +225,10 @@ TextureImporter:
       name: Hands_Bare_Push_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 171
-        width: 6
-        height: 6
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +247,10 @@ TextureImporter:
       name: Hands_Bare_Push_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 139
-        width: 6
-        height: 6
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +269,10 @@ TextureImporter:
       name: Hands_Bare_Push_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 110
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +291,10 @@ TextureImporter:
       name: Hands_Bare_Push_4
       rect:
         serializedVersion: 2
-        x: 19
-        y: 110
-        width: 6
-        height: 6
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +313,10 @@ TextureImporter:
       name: Hands_Bare_Push_5
       rect:
         serializedVersion: 2
-        x: 6
-        y: 75
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +335,10 @@ TextureImporter:
       name: Hands_Bare_Push_6
       rect:
         serializedVersion: 2
-        x: 19
-        y: 75
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +357,10 @@ TextureImporter:
       name: Hands_Bare_Push_7
       rect:
         serializedVersion: 2
-        x: 38
-        y: 75
-        width: 6
-        height: 6
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +379,10 @@ TextureImporter:
       name: Hands_Bare_Push_8
       rect:
         serializedVersion: 2
-        x: 51
-        y: 75
-        width: 6
-        height: 6
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +401,10 @@ TextureImporter:
       name: Hands_Bare_Push_9
       rect:
         serializedVersion: 2
-        x: 70
-        y: 75
-        width: 6
-        height: 6
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +423,10 @@ TextureImporter:
       name: Hands_Bare_Push_10
       rect:
         serializedVersion: 2
-        x: 83
-        y: 75
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +445,10 @@ TextureImporter:
       name: Hands_Bare_Push_11
       rect:
         serializedVersion: 2
-        x: 102
-        y: 75
-        width: 6
-        height: 6
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +467,10 @@ TextureImporter:
       name: Hands_Bare_Push_12
       rect:
         serializedVersion: 2
-        x: 115
-        y: 75
-        width: 6
-        height: 6
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +489,10 @@ TextureImporter:
       name: Hands_Bare_Push_13
       rect:
         serializedVersion: 2
-        x: 134
-        y: 75
-        width: 6
-        height: 6
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +511,10 @@ TextureImporter:
       name: Hands_Bare_Push_14
       rect:
         serializedVersion: 2
-        x: 147
-        y: 75
-        width: 6
-        height: 6
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +533,10 @@ TextureImporter:
       name: Hands_Bare_Push_15
       rect:
         serializedVersion: 2
-        x: 9
-        y: 43
-        width: 6
-        height: 6
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +555,10 @@ TextureImporter:
       name: Hands_Bare_Push_16
       rect:
         serializedVersion: 2
-        x: 41
-        y: 43
-        width: 6
-        height: 6
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: Hands_Bare_Push_17
       rect:
         serializedVersion: 2
-        x: 73
-        y: 43
-        width: 6
-        height: 6
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,275 +595,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_18
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 43
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15b2175b1f49eba70800000000000000
-      internalID: 8844670484054354769
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_19
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 43
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b431108af9e264ae0800000000000000
-      internalID: -1565512557211348149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_20
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b8feb5d963c5ea50800000000000000
-      internalID: 6549856092405299379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_21
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 334fcec1e68708800800000000000000
-      internalID: 612621963649414195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_22
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b71709836e95a910800000000000000
-      internalID: 1848057372443350968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_23
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 170cde4f148cb6030800000000000000
-      internalID: 3489102521936232561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_24
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 625f8726bff5ef7e0800000000000000
-      internalID: -1729839673570167514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_25
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63d2d58134e13ebd0800000000000000
-      internalID: -2602202886169613002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_26
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bcea5f40b52731b0800000000000000
-      internalID: -5677027366101390159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_27
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8bd43e5ea0047b6d0800000000000000
-      internalID: -2974838613304193608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_28
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 318f88f838b4f5eb0800000000000000
-      internalID: -4728978055294814189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_Bare_Push_29
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 14
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57be94a7074d73ee0800000000000000
-      internalID: -1281321989410526347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 021c1cab8cf9e4aaaa2bde559f7bb567
     internalID: 0
     vertices: []
     indices: 
@@ -859,7 +608,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Push_0: -1646488572246242959
+      Hands_Bare_Push_1: 1938817895994741951
+      Hands_Bare_Push_10: -3593687589766125863
+      Hands_Bare_Push_11: 1034115087575942751
+      Hands_Bare_Push_12: 1849774365909141643
+      Hands_Bare_Push_13: 1926408774218027989
+      Hands_Bare_Push_14: -277073048285636265
+      Hands_Bare_Push_15: 5285284882199705592
+      Hands_Bare_Push_16: -3070996780419669710
+      Hands_Bare_Push_17: 2845529161166292051
+      Hands_Bare_Push_2: -5528666238999847051
+      Hands_Bare_Push_3: -2527261541580469822
+      Hands_Bare_Push_4: -4567991582195620953
+      Hands_Bare_Push_5: -7797147175345869939
+      Hands_Bare_Push_6: 1770459866019389507
+      Hands_Bare_Push_7: -6865504503559629497
+      Hands_Bare_Push_8: -7875195542056538136
+      Hands_Bare_Push_9: -3691295792329540056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

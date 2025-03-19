@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,10 +158,10 @@ TextureImporter:
       name: Iron_Hoe_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 117
-        width: 14
-        height: 16
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +180,10 @@ TextureImporter:
       name: Iron_Hoe_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 109
-        width: 30
-        height: 27
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: Iron_Hoe_2
       rect:
         serializedVersion: 2
-        x: 121
-        y: 110
-        width: 17
-        height: 26
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +224,10 @@ TextureImporter:
       name: Iron_Hoe_3
       rect:
         serializedVersion: 2
-        x: 219
-        y: 121
-        width: 16
-        height: 14
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +246,10 @@ TextureImporter:
       name: Iron_Hoe_4
       rect:
         serializedVersion: 2
-        x: 261
-        y: 124
-        width: 8
-        height: 15
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +268,10 @@ TextureImporter:
       name: Iron_Hoe_5
       rect:
         serializedVersion: 2
-        x: 172
-        y: 110
-        width: 11
-        height: 8
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +290,10 @@ TextureImporter:
       name: Iron_Hoe_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 76
-        width: 6
-        height: 17
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +312,10 @@ TextureImporter:
       name: Iron_Hoe_7
       rect:
         serializedVersion: 2
-        x: 64
-        y: 18
-        width: 16
-        height: 69
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +334,10 @@ TextureImporter:
       name: Iron_Hoe_8
       rect:
         serializedVersion: 2
-        x: 112
-        y: 19
-        width: 16
-        height: 69
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +356,10 @@ TextureImporter:
       name: Iron_Hoe_9
       rect:
         serializedVersion: 2
-        x: 208
-        y: 69
-        width: 6
-        height: 14
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +378,10 @@ TextureImporter:
       name: Iron_Hoe_10
       rect:
         serializedVersion: 2
-        x: 256
-        y: 74
-        width: 6
-        height: 16
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +400,10 @@ TextureImporter:
       name: Iron_Hoe_11
       rect:
         serializedVersion: 2
-        x: 25
-        y: 29
-        width: 6
-        height: 18
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +422,10 @@ TextureImporter:
       name: Iron_Hoe_12
       rect:
         serializedVersion: 2
-        x: 160
-        y: 16
-        width: 16
-        height: 54
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +444,10 @@ TextureImporter:
       name: Iron_Hoe_13
       rect:
         serializedVersion: 2
-        x: 218
-        y: 30
-        width: 6
-        height: 11
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +466,10 @@ TextureImporter:
       name: Iron_Hoe_14
       rect:
         serializedVersion: 2
-        x: 266
-        y: 30
-        width: 6
-        height: 14
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,11 +484,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Iron_Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee266654f504ba0a82946894f2ad71
+      internalID: -1844499790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8316f2103d4fe98b833fba7184aa6
+      internalID: -1949022891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d82311ca6f1642368cf1dbe46eacbcf
+      internalID: 1860891713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: db61f0c73963e4805a3eb2ad65685549
     internalID: 0
     vertices: []
     indices: 
@@ -484,7 +563,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Iron_Hoe_0: 7024101399423044171
+      Iron_Hoe_1: -5900429234333640108
+      Iron_Hoe_10: 761225889784579985
+      Iron_Hoe_11: 4553596190924464025
+      Iron_Hoe_12: -4588965967122977804
+      Iron_Hoe_13: 1966849567632726045
+      Iron_Hoe_14: -4649610287353692768
+      Iron_Hoe_15: -1844499790
+      Iron_Hoe_16: -1949022891
+      Iron_Hoe_17: 1860891713
+      Iron_Hoe_2: -9044559173447970406
+      Iron_Hoe_3: 1595635333303454684
+      Iron_Hoe_4: 8535093306561798782
+      Iron_Hoe_5: -7470056099858158388
+      Iron_Hoe_6: -1591337474198238398
+      Iron_Hoe_7: 194338944185250582
+      Iron_Hoe_8: -5032488012466960670
+      Iron_Hoe_9: 4361521337318713194
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

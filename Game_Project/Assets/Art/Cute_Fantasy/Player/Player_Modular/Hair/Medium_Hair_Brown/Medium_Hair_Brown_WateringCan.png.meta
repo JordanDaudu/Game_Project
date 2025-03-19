@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -136,6 +136,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medium_Hair_Brown_WateringCan_0: -851562846821774636
+      Medium_Hair_Brown_WateringCan_1: 172076899081164660
+      Medium_Hair_Brown_WateringCan_10: 2394765038294632608
+      Medium_Hair_Brown_WateringCan_11: 2402019097852125383
+      Medium_Hair_Brown_WateringCan_12: 7796279984213199473
+      Medium_Hair_Brown_WateringCan_13: 3044272164912743456
+      Medium_Hair_Brown_WateringCan_14: -368807169767088037
+      Medium_Hair_Brown_WateringCan_15: 7504802407165284063
+      Medium_Hair_Brown_WateringCan_16: -7313608905239307937
+      Medium_Hair_Brown_WateringCan_17: 4711578639714186182
+      Medium_Hair_Brown_WateringCan_2: -2184894619009142792
+      Medium_Hair_Brown_WateringCan_3: -7353083768645033966
+      Medium_Hair_Brown_WateringCan_4: -281352423143983773
+      Medium_Hair_Brown_WateringCan_5: 2652252495758480307
+      Medium_Hair_Brown_WateringCan_6: -8521427958508899950
+      Medium_Hair_Brown_WateringCan_7: -8873475694358446343
+      Medium_Hair_Brown_WateringCan_8: -3495044911332173855
+      Medium_Hair_Brown_WateringCan_9: -4629194266291769533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

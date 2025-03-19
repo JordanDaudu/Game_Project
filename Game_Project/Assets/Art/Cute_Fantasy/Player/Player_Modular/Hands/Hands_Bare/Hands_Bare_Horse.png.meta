@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -118,10 +131,10 @@ TextureImporter:
       name: Hands_Bare_Horse_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 163
-        width: 6
-        height: 6
+        x: 0
+        y: 144
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,10 +153,10 @@ TextureImporter:
       name: Hands_Bare_Horse_1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 162
-        width: 6
-        height: 6
+        x: 32
+        y: 144
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +175,10 @@ TextureImporter:
       name: Hands_Bare_Horse_2
       rect:
         serializedVersion: 2
-        x: 14
-        y: 115
-        width: 38
-        height: 7
+        x: 0
+        y: 96
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +197,10 @@ TextureImporter:
       name: Hands_Bare_Horse_3
       rect:
         serializedVersion: 2
-        x: 78
-        y: 115
-        width: 6
-        height: 6
+        x: 32
+        y: 96
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +219,10 @@ TextureImporter:
       name: Hands_Bare_Horse_4
       rect:
         serializedVersion: 2
-        x: 110
-        y: 116
-        width: 6
-        height: 6
+        x: 64
+        y: 96
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +241,10 @@ TextureImporter:
       name: Hands_Bare_Horse_5
       rect:
         serializedVersion: 2
-        x: 142
-        y: 116
-        width: 38
-        height: 6
+        x: 96
+        y: 96
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,11 +259,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Hands_Bare_Horse_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7d825b4f914401bdfa8d7eab5d2f0
+      internalID: -1581525552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hands_Bare_Horse_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91878b67be543b6858c5ba236b09dd
+      internalID: 1739309799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 440c0a00a70e54c4096155491ee1725d
     internalID: 0
     vertices: []
     indices: 
@@ -259,7 +316,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hands_Bare_Horse_0: 6320710694190064118
+      Hands_Bare_Horse_1: 5168983906316657499
+      Hands_Bare_Horse_2: -4488831194992524552
+      Hands_Bare_Horse_3: -5771963858008545801
+      Hands_Bare_Horse_4: 4024314156299831943
+      Hands_Bare_Horse_5: -6442975317075565111
+      Hands_Bare_Horse_6: -1581525552
+      Hands_Bare_Horse_7: 1739309799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
